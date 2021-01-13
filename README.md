@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Collaboration
-
-- Git:
-- GitHub: Profiles / Repos / Issues
-
 ## Languages
 
 - HTML
@@ -28,6 +23,8 @@ Here are some ideas to get you started:
 - Go
 - Rust
 - SQL
+- C#
+- Java
 
 
 
