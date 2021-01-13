@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile 👋
+### Welcome to my GitHub profile
 
 <!--
 **denisecase/denisecase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Collaboration
+
+- Git:
+- GitHub: Profiles / Repos / Issues
+
+## Languages
+
+- HTML
+- CSS
+- JavaScript
+- Go
+- Rust
+- SQL
+
+
+
