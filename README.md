@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile
+# Welcome
 
 <!--
 **denisecase/denisecase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Languages
+## Java and OOP
 
-- HTML
-- CSS
-- JavaScript
-- Go
-- Rust
-- SQL
-- C#
-- Java
+- [Zoo04Lab](https://github.com/denisecase/Zoo04Lab)
 
+## Digital Forensics
 
+- [digital-forensics-resources](https://github.com/denisecase/digital-forensics-resources)
 
+## GDP Apps
+
+- [gdp-developers](https://github.com/denisecase/gdp-developers)
