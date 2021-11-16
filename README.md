@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## Java and OOP
 
 - [Zoo04Lab](https://github.com/denisecase/Zoo04Lab)
+- [Java Coding Challenge](https://github.com/denisecase/JavaCodingChallenge-AbstractShape)
 
 ## Digital Forensics
 
