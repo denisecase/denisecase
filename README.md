@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My Notes
+
+- [Interesting things](https://denisecase.github.io/notes/)
+
 ## Java and OOP
 
 - [Zoo04Lab](https://github.com/denisecase/Zoo04Lab)
