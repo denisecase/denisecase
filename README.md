@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Notes
 
-- [Interesting things](https://denisecase.github.io/notes/)
+## GDP Apps
+
+- [gdp-developers](https://github.com/denisecase/gdp-developers)
+
+## Big Data Developers
+
+- [big-data-developers](https://github.com/denisecase/big-data-developers)
 
 ## Java and OOP
 
@@ -28,6 +33,8 @@ Here are some ideas to get you started:
 
 - [digital-forensics-resources](https://github.com/denisecase/digital-forensics-resources)
 
-## GDP Apps
+## My Notes
 
-- [gdp-developers](https://github.com/denisecase/gdp-developers)
+- [Interesting things](https://denisecase.github.io/notes/)
+
+
