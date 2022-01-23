@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Experiments
+
+- [Ely Heat Demand](https://denisecase.github.io/ely-heat-demand/)
+- [100 things example](https://denisecase.github.io/html-css-block-menu/landing.html)
 
 ## GDP Apps
 
