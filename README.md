@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## GDP Apps
 
 - [gdp-developers](https://github.com/denisecase/gdp-developers)
+- [auth0-node-login ](https://github.com/denisecase/auth0-node-login)
 
 ## Big Data Developers
 
