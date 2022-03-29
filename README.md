@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## OP Prep New Term
+
+- [OP Prep](https://github.com/denisecase/op-new-term)
+
 ## Experiments
 
 - [Ely Heat Demand](https://denisecase.github.io/ely-heat-demand/)
