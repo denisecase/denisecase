@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - [big-data-developers](https://github.com/denisecase/big-data-developers)
 - [beam-pagerank-go](https://github.com/denisecase/beam-pagerank-go)
 - [Java Beam - PR exploration](https://github.com/denisecase/java-word-count-beam)
+- [beam-pagerank-java (private)](https://github.com/denisecase/beam-pagerank-java)
 
 ## Java and OOP
 
