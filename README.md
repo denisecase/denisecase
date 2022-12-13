@@ -5,7 +5,7 @@
 _Beginner-friendly - 
 these skills are great for students to explore GitHub, open-source, and Alexa projects. 
 Schedules can be updated with no coding experience - 
-look in lambda/games.json to see how easy it is to update the schedule when a new season begins._ 
+follow a link below and look in lambda/games.json to see how easy it is to update the schedule when a new season begins._ 
 
 Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://www.wunderground.com/forecast/us/mn/ely)
 
