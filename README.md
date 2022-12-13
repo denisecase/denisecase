@@ -2,12 +2,17 @@
 
 ## Alexa Skills
 
-Skills to ask Alexa about upcoming local games. 
+Skills to ask Alexa about upcoming local games in Ely Minnesota. 
 
 - [TimberwolfTracker-GirlsVolleyball](https://github.com/denisecase/TimberwolfTracker-GirlsVolleyball)
 - [TimberwolfTracker-GirlsBasketball](https://github.com/denisecase/TimberwolfTracker-GirlsBasketball)
 - [TimberwolfTracker-BoysBasketball](https://github.com/denisecase/TimberwolfTracker-BoysBasketball)
 
+Skills to ask Alexa about upcoming games at Northwest Missouri State University in Maryville, Missouri:
+
+- [BearcatBuddy-Football](https://github.com/denisecase/BearcatBuddy-Football)
+- [BearcatBuddy-WomensBasketball](https://github.com/denisecase/BearcatBuddy-WomensBasketball)
+- [BearcatBuddy-MensBasketball](https://github.com/denisecase/BearcatBuddy-MensBasketball)
 
 <!--
 **denisecase/denisecase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
