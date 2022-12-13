@@ -2,6 +2,11 @@
 
 ## Alexa Skills
 
+_Beginner-friendly - 
+these skills are great for students to explore GitHub, open-source, and Alexa projects. 
+Schedules can be updated with no coding experience - 
+look in lambda/games.json to see how easy it is to update the schedule when a new season begins._ 
+
 Skills to ask Alexa about upcoming local games in Ely Minnesota. 
 
 - [TimberwolfTracker-GirlsVolleyball](https://github.com/denisecase/TimberwolfTracker-GirlsVolleyball)
@@ -13,6 +18,7 @@ Skills to ask Alexa about upcoming games at Northwest Missouri State University 
 - [BearcatBuddy-Football](https://github.com/denisecase/BearcatBuddy-Football)
 - [BearcatBuddy-WomensBasketball](https://github.com/denisecase/BearcatBuddy-WomensBasketball)
 - [BearcatBuddy-MensBasketball](https://github.com/denisecase/BearcatBuddy-MensBasketball)
+
 
 <!--
 **denisecase/denisecase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
