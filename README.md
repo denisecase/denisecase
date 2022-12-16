@@ -16,8 +16,8 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 Skills to ask Alexa about upcoming games at Northwest Missouri State University in Maryville, Missouri: [🐾](https://nwmissouri.edu/)
 
 - [BearcatBuddy-Football](https://github.com/denisecase/BearcatBuddy-Football)
-- [BearcatBuddy-WomensBasketball](https://github.com/denisecase/BearcatBuddy-WomensBasketball)
 - [BearcatBuddy-MensBasketball](https://github.com/denisecase/BearcatBuddy-MensBasketball)
+- [BearcatBuddy-WomensBasketball](https://github.com/denisecase/BearcatBuddy-WomensBasketball)
 
 
 ## Digital Forensics
