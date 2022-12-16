@@ -9,9 +9,9 @@ follow a link below and look in lambda/games.json to see how easy it is to updat
 
 Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://www.wunderground.com/forecast/us/mn/ely)
 
-- [TimberwolfTracker-GirlsVolleyball](https://github.com/denisecase/TimberwolfTracker-GirlsVolleyball)
-- [TimberwolfTracker-GirlsBasketball](https://github.com/denisecase/TimberwolfTracker-GirlsBasketball)
 - [TimberwolfTracker-BoysBasketball](https://github.com/denisecase/TimberwolfTracker-BoysBasketball)
+- [TimberwolfTracker-GirlsBasketball](https://github.com/denisecase/TimberwolfTracker-GirlsBasketball)
+- [TimberwolfTracker-GirlsVolleyball](https://github.com/denisecase/TimberwolfTracker-GirlsVolleyball)
 
 Skills to ask Alexa about upcoming games at Northwest Missouri State University in Maryville, Missouri: [🐾](https://nwmissouri.edu/)
 
