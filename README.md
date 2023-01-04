@@ -19,6 +19,14 @@ Skills to ask Alexa about upcoming games at Northwest Missouri State University 
 - [BearcatBuddy-MensBasketball](https://github.com/denisecase/BearcatBuddy-MensBasketball)
 - [BearcatBuddy-WomensBasketball](https://github.com/denisecase/BearcatBuddy-WomensBasketball)
 
+## Data Analytics Fundamentals
+
+- [datafun-01-getting-started](https://github.com/denisecase/datafun-01-getting-started)
+- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook)
+
+## Streaming Data
+
+- [streaming-01-getting-started](https://github.com/denisecase/streaming-01-getting-started)
 
 ## Digital Forensics
 
