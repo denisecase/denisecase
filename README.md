@@ -23,6 +23,8 @@ Skills to ask Alexa about upcoming games at Northwest Missouri State University 
 
 - [datafun-01-getting-started](https://github.com/denisecase/datafun-01-getting-started)
 - [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook)
+- [datafun-02-functions](https://github.com/denisecase/datafun-02-functions)
+- [datafun-03-datatypes](https://github.com/denisecase/datafun-03-datatypes)
 
 ## Streaming Data
 
