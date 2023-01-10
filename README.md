@@ -29,6 +29,8 @@ Skills to ask Alexa about upcoming games at Northwest Missouri State University 
 ## Streaming Data
 
 - [streaming-01-getting-started](https://github.com/denisecase/streaming-01-getting-started)
+- [streaming-02-multiple-processes](https://github.com/denisecase/streaming-02-multiple-processes)
+- [streaming-03-rabbitmq](https://github.com/denisecase/streaming-03-rabbitmq)
 
 ## Digital Forensics
 
