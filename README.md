@@ -47,3 +47,8 @@ _Temporarily private, will return soon_
 - [MandArt](https://github.com/denisecase/MandArt) 
 - [MandMath](https://github.com/denisecase/MandArt)
 
+## Spheros
+
+Programmable mobile devices
+
+- [sphero-edu-getting-started](https://github.com/denisecase/sphero-edu-getting-started)
