@@ -37,6 +37,12 @@ Skills to ask Alexa about upcoming games at Northwest Missouri State University 
 
 - [digital-forensics-resources](https://github.com/denisecase/digital-forensics-resources)
 
+## Continuous Intelligence and Interactive Dashboards
+
+- [intel-01-getting-started](https://github.com/denisecase/intel-01-getting-started)
+- [intel-02-visualization](https://github.com/denisecase/intel-02-visualization)
+- [intel-03-dash](https://github.com/denisecase/intel-03-dash)
+- [intel-04-panel](https://github.com/denisecase/intel-04-panel)
 
 ## MandArt
 
