@@ -37,6 +37,9 @@ Skills to ask Alexa about upcoming games at Northwest Missouri State University 
 ## Digital Forensics
 
 - [digital-forensics-resources](https://github.com/denisecase/digital-forensics-resources)
+- [386-site](https://github.com/denisecase/386-site)
+- [dfir-hash-1](https://github.com/denisecase/dfir-hash-1)
+- [dfir-hash-2](https://github.com/denisecase/dfir-hash-2)
 
 ## Continuous Intelligence and Interactive Dashboards
 
