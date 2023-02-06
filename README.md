@@ -54,9 +54,9 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 _Temporarily private, will return soon_
 
-- [MandArt](https://github.com/denisecase/MandArt) 
-- [MandArt-Docs](https://github.com/denisecase/MandArt-Docs)
-- [Read the Docs]()
+- [MandArt source repo](https://github.com/denisecase/MandArt) 
+- [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
+- [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/)
 
 ## Spheros
 
