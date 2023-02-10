@@ -33,6 +33,8 @@ Skills to ask Alexa about upcoming games at Northwest Missouri State University 
 - [streaming-02-multiple-processes](https://github.com/denisecase/streaming-02-multiple-processes)
 - [streaming-03-rabbitmq](https://github.com/denisecase/streaming-03-rabbitmq)
 - [streaming-04-multiple-consumers](https://github.com/denisecase/streaming-04-multiple-consumers)
+- [email-alert](https://github.com/denisecase/email-alert)
+- [text-alert](https://github.com/denisecase/text-alert)
 
 ## Digital Forensics
 
