@@ -54,11 +54,9 @@ Skills to ask Alexa about upcoming games at Northwest Missouri State University 
 
 A SwiftUI app for creating custom art with the Mandelbrot set.
 
-_Temporarily private, will return soon_
-
-- [MandArt source repo](https://github.com/denisecase/MandArt) 
+- [MandArt source repo](https://github.com/denisecase/MandArt) _Temporarily private, will return soon_
 - [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
-- [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/)
+- [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
 
 ## Spheros
 
