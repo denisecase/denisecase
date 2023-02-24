@@ -19,6 +19,10 @@ Skills to ask Alexa about upcoming games at Northwest Missouri State University 
 - [BearcatBuddy-MensBasketball](https://github.com/denisecase/BearcatBuddy-MensBasketball)
 - [BearcatBuddy-WomensBasketball](https://github.com/denisecase/BearcatBuddy-WomensBasketball)
 
+## NW Data Analytics
+
+- [nw-network-data-analytics](https://github.com/denisecase/nw-network-data-analytics)
+
 ## Data Analytics Fundamentals
 
 - [datafun-01-getting-started](https://github.com/denisecase/datafun-01-getting-started)
