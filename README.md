@@ -1,5 +1,13 @@
 # Welcome
 
+## MandArt
+
+A SwiftUI app for creating custom art with the Mandelbrot set.
+
+- [MandArt source repo](https://github.com/denisecase/MandArt) _Beta_
+- [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
+- [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
+
 ## Alexa Skills
 
 _Beginner-friendly - 
@@ -47,11 +55,3 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 - [intel-02-visualization](https://github.com/denisecase/intel-02-visualization)
 - [intel-03-dash](https://github.com/denisecase/intel-03-dash)
 - [intel-04-panel](https://github.com/denisecase/intel-04-panel)
-
-## MandArt
-
-A SwiftUI app for creating custom art with the Mandelbrot set.
-
-- [MandArt source repo](https://github.com/denisecase/MandArt) _Beta_
-- [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
-- [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
