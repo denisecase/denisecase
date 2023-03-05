@@ -10,7 +10,8 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 ## DataFun Central
 
-- [datafun-central](https://github.com/denisecase/datafun-central)
+- [source](https://github.com/denisecase/datafun-central)
+- [site](denisecase.github.io/datafun-central/)
 
 ## Alexa Skills
 
