@@ -4,7 +4,7 @@
 
 A SwiftUI app for creating custom art with the Mandelbrot set.
 
-- [MandArt source repo](https://github.com/denisecase/MandArt) _Beta_
+- [MandArt source repo](https://github.com/denisecase/MandArt) _Beta Release!_
 - [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
 - [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
 
