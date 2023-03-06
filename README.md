@@ -10,8 +10,15 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 ## DataFun Central
 
+Common documenation for data analytics fundamentals and more. 
+
 - [Read The Docs](https://denisecase.github.io/datafun-central/)
-- [source](https://github.com/denisecase/datafun-central)
+- [datafun-central](https://github.com/denisecase/datafun-central) - generated site
+- [datafun-central-source](https://github.com/denisecase/datafun-central-source) - Hugo site generator
+
+## NW Data Analytics
+
+- [nw-network-data-analytics](https://github.com/denisecase/nw-network-data-analytics)
 
 ## Alexa Skills
 
@@ -25,10 +32,6 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 - [TimberwolfTracker-BoysBasketball](https://github.com/denisecase/TimberwolfTracker-BoysBasketball)
 - [TimberwolfTracker-GirlsBasketball](https://github.com/denisecase/TimberwolfTracker-GirlsBasketball)
 - [TimberwolfTracker-GirlsVolleyball](https://github.com/denisecase/TimberwolfTracker-GirlsVolleyball)
-
-## NW Data Analytics
-
-- [nw-network-data-analytics](https://github.com/denisecase/nw-network-data-analytics)
 
 ## Data Analytics Fundamentals
 
