@@ -52,10 +52,12 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 
 ## Digital Forensics
 
-- [digital-forensics-resources](https://github.com/denisecase/digital-forensics-resources)
-- [386-site](https://github.com/denisecase/386-site)
+- [dfir-pwsh-forensic-copy](https://github.com/denisecase/dfir-pwsh-forensic-copy)
+- [dfir-pwsh-file-recovery](https://github.com/denisecase/dfir-pwsh-file-recovery)
 - [dfir-hash-1](https://github.com/denisecase/dfir-hash-1)
 - [dfir-hash-2](https://github.com/denisecase/dfir-hash-2)
+- [digital-forensics-resources](https://github.com/denisecase/digital-forensics-resources)
+- [386-site](https://github.com/denisecase/386-site)
 
 ## Continuous Intelligence and Interactive Dashboards
 
