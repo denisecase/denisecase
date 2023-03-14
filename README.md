@@ -2,6 +2,11 @@
 
 ## MandArt
 
+- [MandArt (App Store)](https://apps.apple.com/us/app/mandart/id6445924588?mt=12) - runs on MacOS (v12+)
+- [MandArt-Discoveries](https://github.com/denisecase/MandArt-Discoveries)
+
+## MandArt Supporting
+
 A SwiftUI app for creating custom art with the Mandelbrot set.
 
 - [MandArt source repo](https://github.com/denisecase/MandArt) _Beta Release!_
