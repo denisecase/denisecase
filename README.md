@@ -71,3 +71,5 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 - [intel-02-visualization](https://github.com/denisecase/intel-02-visualization)
 - [intel-03-dash](https://github.com/denisecase/intel-03-dash)
 - [intel-04-panel](https://github.com/denisecase/intel-04-panel)
+
+![MandArt](https://raw.githubusercontent.com/denisecase/MandArt-Discoveries/main/denisecase/Opening.png)
