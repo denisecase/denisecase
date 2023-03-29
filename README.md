@@ -15,6 +15,11 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [MandArt source repo - ARCHIVED](https://github.com/denisecase/MandArt) 
 - [MandMath (w/Julia)](https://github.com/denisecase/MandMath.jl) - Julia enables 150 - 1500+ decimal places
 
+
+## Licenses
+
+- [License Tracking](https://github.com/denisecase/license-tracking)
+
 ## DataFun Central
 
 Common documenation for data analytics fundamentals and more. 
