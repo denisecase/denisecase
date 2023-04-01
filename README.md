@@ -20,13 +20,13 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 - [License Tracking](https://github.com/denisecase/license-tracking)
 
-## DataFun Central
+## Professional Data Analytics
 
-Common documenation for data analytics fundamentals and more. 
+Common documenation for professional data analytics fundamentals and more. 
 
 - [Read The Docs](https://denisecase.github.io/datafun-central/)
-- [datafun-central](https://github.com/denisecase/datafun-central) - generated site
-- [datafun-central-source](https://github.com/denisecase/datafun-central-source) - Hugo site generator
+- [datafun-central](https://github.com/denisecase/datafun-central) - source code for common docs
+
 
 ## NW Data Analytics
 
