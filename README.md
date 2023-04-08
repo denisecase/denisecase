@@ -18,6 +18,7 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 ## Northwoods
 
+- [Freeze Tracker](https://github.com/denisecase/freeze-tracker)
 - [Northwoods](https://github.com/denisecase/Northwoods)
 
 ## Licenses
