@@ -1,5 +1,13 @@
 # Welcome
 
+## Data Analytics Fundamentals
+
+- [datafun-01-getting-started](https://github.com/denisecase/datafun-01-getting-started)
+- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook)
+- [datafun-02-functions](https://github.com/denisecase/datafun-02-functions)
+- [datafun-03-datatypes](https://github.com/denisecase/datafun-03-datatypes)
+- [datafun-03-discussion](https://github.com/denisecase/datafun-03-discussion) - how do you like to learn?
+
 ## MandArt
 
 - [MandArt (App Store)](https://apps.apple.com/us/app/mandart/id6445924588?mt=12) - runs on MacOS (v12+) - _Released!_
@@ -59,14 +67,6 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 - [TimberwolfTracker-BoysBasketball](https://github.com/denisecase/TimberwolfTracker-BoysBasketball)
 - [TimberwolfTracker-GirlsBasketball](https://github.com/denisecase/TimberwolfTracker-GirlsBasketball)
 - [TimberwolfTracker-GirlsVolleyball](https://github.com/denisecase/TimberwolfTracker-GirlsVolleyball)
-
-## Data Analytics Fundamentals
-
-- [datafun-01-getting-started](https://github.com/denisecase/datafun-01-getting-started)
-- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook)
-- [datafun-02-functions](https://github.com/denisecase/datafun-02-functions)
-- [datafun-03-datatypes](https://github.com/denisecase/datafun-03-datatypes)
-- [datafun-03-discussion](https://github.com/denisecase/datafun-03-discussion) - how do you like to learn?
 
 ## Streaming Data
 
