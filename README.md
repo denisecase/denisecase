@@ -18,30 +18,10 @@
 - [cintel-05-live-updates](https://github.com/denisecase/cintel-05-live-updates)
 - [cintel-06](https://github.com/denisecase/cintel-06)
 
-## MandArt
-
-- [MandArt (App Store)](https://apps.apple.com/us/app/mandart/id6445924588?mt=12) - runs on MacOS (v12+) - _Released!_
-- [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
-- [MandArt-Discoveries](https://github.com/denisecase/MandArt-Discoveries)
-
-## MandArt Supporting
-
-A SwiftUI app for creating custom art with the Mandelbrot set.
-
-- [MandArt source repo](https://github.com/brucehjohnson/MandArt) 
-- [MandArt my fork](https://github.com/denisecase/MandArt) 
-- [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
-- [MandArt source repo - ARCHIVED](https://github.com/denisecase/MandArt) 
-- [MandMath (w/Julia)](https://github.com/denisecase/MandMath.jl) - Julia enables 150 - 1500+ decimal places
-
 ## Northwoods
 
 - [Freeze Tracker](https://github.com/denisecase/freeze-tracker)
 - [Northwoods](https://github.com/denisecase/Northwoods)
-
-## Licenses
-
-- [License Tracking](https://github.com/denisecase/license-tracking)
 
 ## Professional Data Analytics
 
@@ -50,10 +30,10 @@ Common documenation for professional data analytics fundamentals and more.
 - [Read The Docs](https://denisecase.github.io/datafun-central/)
 - [datafun-central](https://github.com/denisecase/datafun-central) - source code for common docs
 
-
 ## NW Data Analytics
 
 - [nw-network-data-analytics](https://github.com/denisecase/nw-network-data-analytics)
+- [License Tracking](https://github.com/denisecase/license-tracking)
 
 ## Digital Forensics
 
@@ -87,11 +67,20 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 - [email-alert](https://github.com/denisecase/email-alert)
 - [text-alert](https://github.com/denisecase/text-alert)
 
-## Continuous Intelligence and Interactive Dashboards
+## MandArt
 
-- [intel-01-getting-started](https://github.com/denisecase/intel-01-getting-started)
-- [intel-02-visualization](https://github.com/denisecase/intel-02-visualization)
-- [intel-03-dash](https://github.com/denisecase/intel-03-dash)
-- [intel-04-panel](https://github.com/denisecase/intel-04-panel)
+- [MandArt (App Store)](https://apps.apple.com/us/app/mandart/id6445924588?mt=12) - runs on MacOS (v12+) - _Released!_
+- [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
+- [MandArt-Discoveries](https://github.com/denisecase/MandArt-Discoveries)
+
+## MandArt Supporting
+
+A SwiftUI app for creating custom art with the Mandelbrot set.
+
+- [MandArt source repo](https://github.com/brucehjohnson/MandArt) 
+- [MandArt my fork](https://github.com/denisecase/MandArt) 
+- [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
+- [MandArt source repo - ARCHIVED](https://github.com/denisecase/MandArt) 
+- [MandMath (w/Julia)](https://github.com/denisecase/MandMath.jl) - Julia enables 150 - 1500+ decimal places
 
 ![MandArt](https://raw.githubusercontent.com/brucehjohnson/MandArt/main/Resources/MandelbrotFigure1024x1024.png)
