@@ -16,7 +16,7 @@
 - [cintel-03-data](https://github.com/denisecase/cintel-03-data)
 - [cintel-04-reactive](https://github.com/denisecase/cintel-04-reactive)
 - [cintel-05-live-updates](https://github.com/denisecase/cintel-05-live-updates)
-- [cintel-06](https://github.com/denisecase/cintel-06)
+- [cintel-stock-response](https://github.com/denisecase/cintel-stock-response)
 
 ## Northwoods
 
