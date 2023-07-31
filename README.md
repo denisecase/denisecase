@@ -2,6 +2,7 @@
 
 ## Data Analytics Fundamentals
 
+- [datafun-00-python-virtual-env](https://github.com/denisecase/datafun-00-python-virtual-env)
 - [datafun-01-getting-started](https://github.com/denisecase/datafun-01-getting-started)
 - [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook)
 - [datafun-02-functions](https://github.com/denisecase/datafun-02-functions)
