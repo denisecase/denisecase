@@ -23,6 +23,7 @@
 
 - [Freeze Tracker](https://github.com/denisecase/freeze-tracker)
 - [Northwoods](https://github.com/denisecase/Northwoods)
+- [JFC](https://github.com/denisecase/johnson-family-cabin)
 
 ## Professional Data Analytics
 
