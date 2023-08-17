@@ -1,5 +1,9 @@
 # Welcome
 
+## NW Diagnostics
+
+- [nw-diagnostics-python](https://github.com/denisecase/nw-diagnostics-python)
+
 ## Data Analytics Fundamentals
 
 - [datafun-00-python-virtual-env](https://github.com/denisecase/datafun-00-python-virtual-env)
