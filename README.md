@@ -1,18 +1,27 @@
 # Welcome
 
-## NW Diagnostics
-
-- [nw-diagnostics-python](https://github.com/denisecase/nw-diagnostics-python)
-
 ## Data Analytics Fundamentals
 
-- [datafun-00-python-virtual-env](https://github.com/denisecase/datafun-00-python-virtual-env)
 - [datafun-01-getting-started](https://github.com/denisecase/datafun-01-getting-started)
 - [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook)
 - [datafun-02-functions](https://github.com/denisecase/datafun-02-functions)
 - [datafun-03-datatypes](https://github.com/denisecase/datafun-03-datatypes)
 - [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks)
 - [datafun-03-discussion](https://github.com/denisecase/datafun-03-discussion) - interactive Voilà!
+
+## Streaming Data
+
+- [streaming-01-getting-started](https://github.com/denisecase/streaming-01-getting-started)
+- [streaming-02-multiple-processes](https://github.com/denisecase/streaming-02-multiple-processes)
+- [streaming-03-rabbitmq](https://github.com/denisecase/streaming-03-rabbitmq)
+- [streaming-04-multiple-consumers](https://github.com/denisecase/streaming-04-multiple-consumers)
+- [email-alert](https://github.com/denisecase/email-alert)
+- [text-alert](https://github.com/denisecase/text-alert)
+
+## NW Diagnostics / Shared
+
+- [nw-diagnostics-python](https://github.com/denisecase/nw-diagnostics-python)
+- [datafun-00-python-virtual-env](https://github.com/denisecase/datafun-00-python-virtual-env)
 
 ## Continuous Intelligence and Interactive Analytics
 
@@ -63,15 +72,6 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 - [TimberwolfTracker-BoysBasketball](https://github.com/denisecase/TimberwolfTracker-BoysBasketball)
 - [TimberwolfTracker-GirlsBasketball](https://github.com/denisecase/TimberwolfTracker-GirlsBasketball)
 - [TimberwolfTracker-GirlsVolleyball](https://github.com/denisecase/TimberwolfTracker-GirlsVolleyball)
-
-## Streaming Data
-
-- [streaming-01-getting-started](https://github.com/denisecase/streaming-01-getting-started)
-- [streaming-02-multiple-processes](https://github.com/denisecase/streaming-02-multiple-processes)
-- [streaming-03-rabbitmq](https://github.com/denisecase/streaming-03-rabbitmq)
-- [streaming-04-multiple-consumers](https://github.com/denisecase/streaming-04-multiple-consumers)
-- [email-alert](https://github.com/denisecase/email-alert)
-- [text-alert](https://github.com/denisecase/text-alert)
 
 ## MandArt
 
