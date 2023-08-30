@@ -91,7 +91,6 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [MandArt source repo](https://github.com/brucehjohnson/MandArt) 
 - [MandArt my fork](https://github.com/denisecase/MandArt) 
 - [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
-- [MandArt source repo - ARCHIVED](https://github.com/denisecase/MandArt) 
 - [MandMath (w/Julia)](https://github.com/denisecase/MandMath.jl) - Julia enables 150 - 1500+ decimal places
 
 ![MandArt](https://raw.githubusercontent.com/brucehjohnson/MandArt/main/Resources/MandelbrotFigure1024x1024.png)
