@@ -89,7 +89,8 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 A SwiftUI app for creating custom art with the Mandelbrot set.
 
 - [MandArt source repo](https://github.com/brucehjohnson/MandArt) 
-- [MandArt my fork](https://github.com/denisecase/MandArt) 
+- [MandArt my fork](https://github.com/denisecase/MandArt)
+- [MandArt deploy](https://github.com/bruceranger/MandArt/)
 - [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
 - [MandMath (w/Julia)](https://github.com/denisecase/MandMath.jl) - Julia enables 150 - 1500+ decimal places
 
