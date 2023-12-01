@@ -1,5 +1,23 @@
 # Welcome
 
+## MandArt
+
+- [MandArt (App Store)](https://apps.apple.com/us/app/mandart/id6445924588?mt=12) - runs on MacOS (v12+) - _Released!_
+- [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
+- [MandArt-Discoveries](https://github.com/denisecase/MandArt-Discoveries)
+
+## MandArt Supporting
+
+A SwiftUI app for creating custom art with the Mandelbrot set.
+
+- [MandArt source repo](https://github.com/brucehjohnson/MandArt) 
+- [MandArt my fork](https://github.com/denisecase/MandArt)
+- [MandArt deploy](https://github.com/bruceranger/MandArt/)
+- [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
+- [MandMath (w/Julia)](https://github.com/denisecase/MandMath.jl) - Julia enables 150 - 1500+ decimal places
+
+![MandArt](https://raw.githubusercontent.com/brucehjohnson/MandArt/main/Resources/MandelbrotFigure1024x1024.png)
+
 ## Data Analytics Fundamentals
 
 - [datafun-01-getting-started](https://github.com/denisecase/datafun-01-getting-started)
@@ -78,20 +96,4 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 - [ArcDraw source repo](https://github.com/brucehjohnson/ArcDraw) 
 - [ArcDraw my fork](https://github.com/denisecase/ArcDraw) 
 
-## MandArt
 
-- [MandArt (App Store)](https://apps.apple.com/us/app/mandart/id6445924588?mt=12) - runs on MacOS (v12+) - _Released!_
-- [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
-- [MandArt-Discoveries](https://github.com/denisecase/MandArt-Discoveries)
-
-## MandArt Supporting
-
-A SwiftUI app for creating custom art with the Mandelbrot set.
-
-- [MandArt source repo](https://github.com/brucehjohnson/MandArt) 
-- [MandArt my fork](https://github.com/denisecase/MandArt)
-- [MandArt deploy](https://github.com/bruceranger/MandArt/)
-- [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
-- [MandMath (w/Julia)](https://github.com/denisecase/MandMath.jl) - Julia enables 150 - 1500+ decimal places
-
-![MandArt](https://raw.githubusercontent.com/brucehjohnson/MandArt/main/Resources/MandelbrotFigure1024x1024.png)
