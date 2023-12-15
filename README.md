@@ -20,12 +20,10 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 ## Data Analytics Fundamentals
 
-- [datafun-01-getting-started](https://github.com/denisecase/datafun-01-getting-started)
-- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook)
-- [datafun-02-functions](https://github.com/denisecase/datafun-02-functions)
-- [datafun-03-datatypes](https://github.com/denisecase/datafun-03-datatypes)
-- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks)
-- [datafun-03-discussion](https://github.com/denisecase/datafun-03-discussion) - interactive Voilà!
+- [datafun-01-spec](https://github.com/denisecase/datafun-01-spec)
+- [datafun-02-spec](https://github.com/denisecase/datafun-02-spec)
+- [datafun-03-spec](https://github.com/denisecase/datafun-03-spec)
+- [datafun-04-spec](https://github.com/denisecase/datafun-04-spec)
 
 ## Streaming Data
 
