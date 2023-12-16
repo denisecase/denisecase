@@ -24,6 +24,7 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [datafun-02-spec](https://github.com/denisecase/datafun-02-spec)
 - [datafun-03-spec](https://github.com/denisecase/datafun-03-spec)
 - [datafun-04-spec](https://github.com/denisecase/datafun-04-spec)
+- [datafun-05-spec](https://github.com/denisecase/datafun-05-spec)
 
 ## Streaming Data
 
