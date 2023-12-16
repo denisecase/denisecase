@@ -28,7 +28,7 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [datafun-06-spec](https://github.com/denisecase/datafun-06-spec)
 - [datafun-07-spec](https://github.com/denisecase/datafun-07-spec)
 
-- ## Continuous Intelligence and Interactive Analytics
+## Continuous Intelligence and Interactive Analytics
 
 - [cintel-01-spec](https://github.com/denisecase/cintel-01-spec)
 - [cintel-02-spec](https://github.com/denisecase/cintel-02-spec)
