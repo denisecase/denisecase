@@ -5,6 +5,7 @@
 - [MandArt (App Store)](https://apps.apple.com/us/app/mandart/id6445924588?mt=12) - runs on MacOS (v12+) - _Released!_
 - [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
 - [MandArt-Discoveries](https://github.com/denisecase/MandArt-Discoveries)
+- [Color Cube](https://denisecase.github.io/color-cube/)
 
 ## MandArt Supporting
 
