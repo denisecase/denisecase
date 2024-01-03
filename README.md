@@ -19,6 +19,10 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 ![MandArt](https://raw.githubusercontent.com/brucehjohnson/MandArt/main/Resources/MandelbrotFigure1024x1024.png)
 
+## Professional Analytics
+
+- [pro-analytics-level-1](https://github.com/denisecase/pro-analytics-level-1)
+
 ## Data Analytics Fundamentals
 
 - [datafun-01-spec](https://github.com/denisecase/datafun-01-spec)
