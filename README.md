@@ -66,6 +66,8 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [cintel-05-live-updates](https://github.com/denisecase/cintel-05-live-updates)
 - [cintel-stock-response](https://github.com/denisecase/cintel-stock-response)
 
+- [fetch-data-weather](https://github.com/denisecase/fetch-data-weather)
+
 ## Northwoods
 
 - [Freeze Tracker](https://github.com/denisecase/freeze-tracker)
