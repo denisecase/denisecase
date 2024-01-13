@@ -42,6 +42,7 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [cintel-05-spec](https://github.com/denisecase/cintel-05-spec)
 - [cintel-06-spec](https://github.com/denisecase/cintel-06-spec)
 - [cintel-07-spec](https://github.com/denisecase/cintel-07-spec)
+- [fetch-data-weather](https://github.com/denisecase/fetch-data-weather)
 
 ## Streaming Data
 
@@ -65,8 +66,6 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [cintel-04-reactive](https://github.com/denisecase/cintel-04-reactive)
 - [cintel-05-live-updates](https://github.com/denisecase/cintel-05-live-updates)
 - [cintel-stock-response](https://github.com/denisecase/cintel-stock-response)
-
-- [fetch-data-weather](https://github.com/denisecase/fetch-data-weather)
 
 ## Northwoods
 
