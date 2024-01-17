@@ -11,11 +11,12 @@
 
 A SwiftUI app for creating custom art with the Mandelbrot set.
 
-- [MandArt source repo](https://github.com/brucehjohnson/MandArt) 
-- [MandArt my fork](https://github.com/denisecase/MandArt)
+- [MandArt: source repo](https://github.com/brucehjohnson/MandArt) 
+- [MandArt: my fork](https://github.com/denisecase/MandArt)
 - [MandArt deploy](https://github.com/bruceranger/MandArt/)
-- [MandArt-Docs source repo](https://github.com/denisecase/MandArt-Docs)
+- [MandArt-Docs: source repo](https://github.com/denisecase/MandArt-Docs)
 - [MandMath (w/Julia)](https://github.com/denisecase/MandMath.jl) - Julia enables 150 - 1500+ decimal places
+- [Color Cube: source repo](https://github.com/denisecase/color-cube)
 
 ![MandArt](https://raw.githubusercontent.com/brucehjohnson/MandArt/main/Resources/MandelbrotFigure1024x1024.png)
 
