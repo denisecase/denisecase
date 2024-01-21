@@ -19,7 +19,7 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [Color Cube: source repo](https://github.com/denisecase/color-cube)
 - [GrandArt: source repo](https://github.com/denisecase/GrandArt) - explore exponenents beyond 2
 - [MandArt3: source repo](https://github.com/denisecase/MandArt3) - explore MandArt with exponenent 3
-- 
+
 ![MandArt](https://raw.githubusercontent.com/brucehjohnson/MandArt/main/Resources/MandelbrotFigure1024x1024.png)
 
 ## Professional Analytics
