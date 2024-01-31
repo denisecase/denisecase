@@ -72,6 +72,8 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 ## Northwoods
 
+- [Meal Planner](https://denisecase.github.io/color-cube/)
+- [Select and Sort](https://denisecase.github.io/select-and-sort/)
 - [Freeze Tracker](https://github.com/denisecase/freeze-tracker)
 - [Northwoods](https://github.com/denisecase/Northwoods)
 - [JFC](https://github.com/denisecase/johnson-family-cabin)
