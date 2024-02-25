@@ -65,6 +65,7 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 - [pyshiny-tips-dashboard-express](https://github.com/denisecase/pyshiny-tips-dashboard-express)
 - [pyshiny-penguins-dashboard-express](https://github.com/denisecase/pyshiny-penguins-dashboard-express)
+- [pyshiny-penguins-dashboard-core](https://github.com/denisecase/pyshiny-penguins-dashboard-core)
 - [cintel-01-getting-started](https://github.com/denisecase/cintel-01-getting-started)
 - [cintel-02-app](https://github.com/denisecase/cintel-02-app)
 - [cintel-03-data](https://github.com/denisecase/cintel-03-data)
