@@ -2,7 +2,7 @@
 
 ## World Quantum Day - April 14
 
-- [World Quantum Day](https://github.com/denisecase/MandArt-Discoveries](https://github.com/denisecase/world-quantum-day-2024))
+- [World Quantum Day: Questions on Applied QC](https://github.com/denisecase/world-quantum-day-2024)
 
 ## MandArt
 
