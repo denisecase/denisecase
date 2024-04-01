@@ -1,5 +1,9 @@
 # Welcome
 
+## World Quantum Day - April 14
+
+- [World Quantum Day](https://github.com/denisecase/MandArt-Discoveries](https://github.com/denisecase/world-quantum-day-2024))
+
 ## MandArt
 
 - [MandArt (App Store)](https://apps.apple.com/us/app/mandart/id6445924588?mt=12) - runs on MacOS (v12+) - _Released!_
