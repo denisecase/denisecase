@@ -39,6 +39,9 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [datafun-05-spec](https://github.com/denisecase/datafun-05-spec)
 - [datafun-06-spec](https://github.com/denisecase/datafun-06-spec)
 - [datafun-07-spec](https://github.com/denisecase/datafun-07-spec)
+- [importing byline example - here's a util module with byline](https://github.com/denisecase/datafun-02-projsetup/blob/main/Dowdle_utils.py)
+- [importing byline example - here's a script that imports the custom utils](https://github.com/denisecase/datafun-02-projsetup/blob/main/projsetup.py)
+
 
 ## Continuous Intelligence and Interactive Analytics
 
