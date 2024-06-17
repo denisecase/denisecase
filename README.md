@@ -30,6 +30,10 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 - [pro-analytics-level-1](https://github.com/denisecase/pro-analytics-level-1)
 
+## Machine Learning
+
+- [Why Do We Square Residuals in Linear Regression?](https://github.com/denisecase/python-ml-linear-regression/) 
+
 ## Data Analytics Fundamentals
 
 - [datafun-01-spec](https://github.com/denisecase/datafun-01-spec)
