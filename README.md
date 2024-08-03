@@ -133,4 +133,4 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 
 ## Local Life
 
-[bear](images/bear.png)
+![bear](images/bear.png)
