@@ -131,4 +131,6 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 - [ArcDraw source repo](https://github.com/brucehjohnson/ArcDraw) 
 - [ArcDraw my fork](https://github.com/denisecase/ArcDraw) 
 
+## Local Life
 
+[bear](images/bear.png)
