@@ -37,7 +37,7 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 ## Data Analytics Fundamentals
 
 - [datafun-01-utils](https://github.com/denisecase/datafun-01-utils) - first reusable module w/stats
-- [datafun-02-projsetup](https://github.com/denisecase/datafun-02-projsetup) - scripting project folders
+- [datafun-02-project-setup](https://github.com/denisecase/datafun-02-project-setup) - scripting project folders
 - [datafun-03-spec](https://github.com/denisecase/datafun-03-spec)
 - [datafun-04-spec](https://github.com/denisecase/datafun-04-spec)
 - [datafun-05-spec](https://github.com/denisecase/datafun-05-spec)
