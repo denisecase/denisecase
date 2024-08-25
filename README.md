@@ -26,25 +26,23 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 ![MandArt](https://raw.githubusercontent.com/brucehjohnson/MandArt/main/Resources/MandelbrotFigure1024x1024.png)
 
+## Machine Learning
+
+- [Why Do We Square Residuals in Linear Regression?](https://github.com/denisecase/python-ml-linear-regression/)
+
 ## Professional Analytics
 
 - [pro-analytics-level-1](https://github.com/denisecase/pro-analytics-level-1)
-
-## Machine Learning
-
-- [Why Do We Square Residuals in Linear Regression?](https://github.com/denisecase/python-ml-linear-regression/) 
 
 ## Data Analytics Fundamentals
 
 - [datafun-01-utils](https://github.com/denisecase/datafun-01-utils) - first reusable module w/stats
 - [datafun-02-project-setup](https://github.com/denisecase/datafun-02-project-setup) - scripting project folders
-- [datafun-03-spec](https://github.com/denisecase/datafun-03-spec)
+- [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - fetch and write data, read and process it
 - [datafun-04-spec](https://github.com/denisecase/datafun-04-spec)
 - [datafun-05-spec](https://github.com/denisecase/datafun-05-spec)
 - [datafun-06-spec](https://github.com/denisecase/datafun-06-spec)
-- [importing byline example - here's a util module with byline](https://github.com/denisecase/datafun-02-projsetup/blob/main/Dowdle_utils.py)
-- [importing byline example - here's a script that imports the custom utils](https://github.com/denisecase/datafun-02-projsetup/blob/main/projsetup.py)
-- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook)
+- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook) - try this after project 3 and virtual environments
 
 ## Continuous Intelligence and Interactive Analytics
 
