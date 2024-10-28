@@ -1,5 +1,12 @@
 # Welcome
 
+## Smart Sales 
+
+- [smart-sales-analysis-goals](https://github.com/denisecase/smart-sales-analysis-goals)
+- [smart-sales-raw-data](https://github.com/denisecase/smart-sales-raw-data)
+- [smart-sales-starter-files](https://github.com/denisecase/smart-sales-starter-files)
+
+
 ## World Quantum Day - April 14
 
 - [World Quantum Day: Questions on Applied QC](https://github.com/denisecase/world-quantum-day-2024)
