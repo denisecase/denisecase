@@ -5,6 +5,7 @@
 - [smart-sales-analysis-goals](https://github.com/denisecase/smart-sales-analysis-goals)
 - [smart-sales-raw-data](https://github.com/denisecase/smart-sales-raw-data)
 - [smart-sales-starter-files](https://github.com/denisecase/smart-sales-starter-files)
+- [smart-sales-docs](https://github.com/denisecase/smart-sales-docs)
 
 
 ## World Quantum Day - April 14
