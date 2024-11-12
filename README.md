@@ -1,5 +1,12 @@
 # Welcome
 
+## World Diabetes Day - November 14
+
+[World Diabetes Day (WDD)](https://worlddiabetesday.org/) is the world’s largest diabetes awareness campaign reaching a global audience of over 1 billion people in over 160 countries.
+It is marked every year on 14 November, the birthday of Sir Frederick Banting, who co-discovered insulin along with Charles Best in 1922.
+
+WDD was created in 1991 by International Diabetes Federation (IDF) and the World Health Organization and became an official United Nations Day in 2006 with the passage of United Nations Resolution 61/225.
+
 ## Smart Sales 
 
 - [smart-sales-analysis-goals](https://github.com/denisecase/smart-sales-analysis-goals)
