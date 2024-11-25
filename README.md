@@ -13,6 +13,7 @@ WDD was created in 1991 by International Diabetes Federation (IDF) and the World
 - [smart-sales-raw-data](https://github.com/denisecase/smart-sales-raw-data)
 - [smart-sales-starter-files](https://github.com/denisecase/smart-sales-starter-files)
 - [smart-sales-docs](https://github.com/denisecase/smart-sales-docs)
+- [smart-sales-olap](https://github.com/denisecase/smart-sales-olap)
 
 
 ## World Quantum Day - April 14
