@@ -1,8 +1,8 @@
 # Welcome
 
-## Xcode 15 to GitHub
+## Xcode 15 and GitHub
 
-- [guide-xcode-to-github](https://github.com/denisecase/guide-xcode-to-github)
+- [Guide: Save Your SwiftUI Project Progress to GitHub Using XCode 15+](https://github.com/denisecase/guide-xcode-to-github)
 
 ## World Diabetes Day - November 14
 
