@@ -1,5 +1,9 @@
 # Welcome
 
+## Applied Guides: Getting Started
+
+- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
+
 ## Xcode 15 and GitHub
 
 - [Guide: Save Your SwiftUI Project Progress to GitHub Using XCode 15+](https://github.com/denisecase/guide-xcode-to-github)
