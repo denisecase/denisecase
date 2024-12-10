@@ -15,9 +15,12 @@ It is marked every year on 14 November, the birthday of Sir Frederick Banting, w
 
 WDD was created in 1991 by International Diabetes Federation (IDF) and the World Health Organization and became an official United Nations Day in 2006 with the passage of United Nations Resolution 61/225.
 
-## BWCA
+- [Insulin Affordability](https://diabetes.org/tools-resources/affordable-insulin)
 
--[Entry Points](https://www.the-driveby-tourist.com/boundary-waters-canoe-area-outfitters/)
+## Local
+
+- [BWCA Entry Points](https://www.the-driveby-tourist.com/boundary-waters-canoe-area-outfitters/)
+- [Trygg History & Maps](https://trygghistoricalmaps.com/)
 
 ## Smart Sales 
 
