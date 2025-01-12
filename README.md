@@ -90,10 +90,10 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 ## Streaming Data
 
-- [streaming-01-getting-started](https://github.com/denisecase/streaming-01-getting-started)
-- [streaming-02-multiple-processes](https://github.com/denisecase/streaming-02-multiple-processes)
-- [streaming-03-rabbitmq](https://github.com/denisecase/streaming-03-rabbitmq)
-- [streaming-04-multiple-consumers](https://github.com/denisecase/streaming-04-multiple-consumers)
+- [buzzline-01-case](https://github.com/denisecase/buzzline-01-case)
+- [buzzline-02-case](https://github.com/denisecase/buzzline-02-case)
+- [buzzline-03-case](https://github.com/denisecase/buzzline-03-case)
+- [buzzline-04-case](https://github.com/denisecase/buzzline-04-case)
 - [email-alert](https://github.com/denisecase/email-alert)
 - [text-alert](https://github.com/denisecase/text-alert)
 
