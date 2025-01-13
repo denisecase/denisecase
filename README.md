@@ -19,6 +19,15 @@
 - [datafun-06-spec](https://github.com/denisecase/datafun-06-spec)
 - [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook) - try this after project 3 and virtual environments
 
+## Streaming Data
+
+- [buzzline-01-case](https://github.com/denisecase/buzzline-01-case)
+- [buzzline-02-case](https://github.com/denisecase/buzzline-02-case)
+- [buzzline-03-case](https://github.com/denisecase/buzzline-03-case)
+- [buzzline-04-case](https://github.com/denisecase/buzzline-04-case)
+- [email-alert](https://github.com/denisecase/email-alert)
+- [text-alert](https://github.com/denisecase/text-alert)
+
 ## Xcode 15 and GitHub
 
 - [Guide: Save Your SwiftUI Project Progress to GitHub Using XCode 15+](https://github.com/denisecase/guide-xcode-to-github)
@@ -87,15 +96,6 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [cintel-06-spec](https://github.com/denisecase/cintel-06-spec)
 - [cintel-07-spec](https://github.com/denisecase/cintel-07-spec)
 - [fetch-data-weather](https://github.com/denisecase/fetch-data-weather)
-
-## Streaming Data
-
-- [buzzline-01-case](https://github.com/denisecase/buzzline-01-case)
-- [buzzline-02-case](https://github.com/denisecase/buzzline-02-case)
-- [buzzline-03-case](https://github.com/denisecase/buzzline-03-case)
-- [buzzline-04-case](https://github.com/denisecase/buzzline-04-case)
-- [email-alert](https://github.com/denisecase/email-alert)
-- [text-alert](https://github.com/denisecase/text-alert)
 
 ## NW Diagnostics / Shared
 
