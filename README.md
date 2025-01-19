@@ -14,7 +14,6 @@
 - [datafun-02-project-setup](https://github.com/denisecase/datafun-02-project-setup) - scripting project folders
 - [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - fetch and write data, read and process it
 - [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore and present insights interactively using Python and Markdown in a Jupyter notebook
-- [datafun-04-spec](https://github.com/denisecase/datafun-04-spec)
 - [datafun-05-spec](https://github.com/denisecase/datafun-05-spec)
 - [datafun-06-spec](https://github.com/denisecase/datafun-06-spec)
 - [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook) - try this after project 3 and virtual environments
