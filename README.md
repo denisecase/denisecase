@@ -6,6 +6,10 @@
 
 ## Professional Analytics
 
+Project Setup / Initialization / Standard Workflow
+- [pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
+
+Background (More About tools, etc.)
 - [pro-analytics-level-1](https://github.com/denisecase/pro-analytics-level-1)
 
 ## Data Analytics Fundamentals
