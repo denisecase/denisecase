@@ -24,10 +24,12 @@ Background (More About tools, etc.)
 
 ## Streaming Data
 
-- [buzzline-01-case](https://github.com/denisecase/buzzline-01-case)
-- [buzzline-02-case](https://github.com/denisecase/buzzline-02-case)
-- [buzzline-03-case](https://github.com/denisecase/buzzline-03-case)
-- [buzzline-04-case](https://github.com/denisecase/buzzline-04-case)
+- [buzzline-01-case](https://github.com/denisecase/buzzline-01-case) - Python generators for streaming pipelines
+- [buzzline-02-case](https://github.com/denisecase/buzzline-02-case) - Kafka pipelines for streaming data
+- [buzzline-03-case](https://github.com/denisecase/buzzline-03-case) - Kafka pipelines for streaming structured and semi-structured data
+- [buzzline-04-case](https://github.com/denisecase/buzzline-04-case) - Kafka pipelines with live visualizations
+- [buzzline-05-case](https://github.com/denisecase/buzzline-05-case) - Kafka pipelines with data storage
+- [kafka-producer-earthquakes](https://github.com/denisecase/kafka-producer-earthquakes) - Kafka producer for streaming earthquake data from USGS API
 - [email-alert](https://github.com/denisecase/email-alert)
 - [text-alert](https://github.com/denisecase/text-alert)
 
