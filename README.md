@@ -31,7 +31,7 @@ Background (More About tools, etc.)
 - [buzzline-05-case](https://github.com/denisecase/buzzline-05-case) - Kafka pipelines with data storage
 - [kafka-producer-earthquake](https://github.com/denisecase/kafka-producer-earthquake) - Kafka producer for streaming earthquake data from USGS API
 - [dc-mailer](https://github.com/denisecase/dc-mailer)
-- [text-alert](https://github.com/denisecase/text-alert)
+- [dc-texter](https://github.com/denisecase/dc-texter)
 
 ## Xcode 15 and GitHub
 
