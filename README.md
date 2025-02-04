@@ -32,6 +32,7 @@ Background (More About tools, etc.)
 - [kafka-producer-earthquake](https://github.com/denisecase/kafka-producer-earthquake) - Kafka producer for streaming earthquake data from USGS API
 - [dc-mailer](https://github.com/denisecase/dc-mailer)
 - [dc-texter](https://github.com/denisecase/dc-texter)
+- [dc-kafka-python-six-fix](https://github.com/denisecase/dc-kafka-python-six-fix)
 
 ## Xcode 15 and GitHub
 
