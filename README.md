@@ -72,6 +72,7 @@ WDD was created in 1991 by International Diabetes Federation (IDF) and the World
 - [MandArt-Docs](https://denisecase.github.io/MandArt-Docs/documentation/mandart/)
 - [MandArt-Discoveries](https://github.com/denisecase/MandArt-Discoveries)
 - [Color Cube](https://denisecase.github.io/color-cube/)
+- [MandArt-Web](https://github.com/denisecase/mandart-web)
 
 ## MandArt Supporting
 
