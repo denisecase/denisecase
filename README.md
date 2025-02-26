@@ -61,7 +61,7 @@ WDD was created in 1991 by International Diabetes Federation (IDF) and the World
 - [smart-sales-olap](https://github.com/denisecase/smart-sales-olap)
 - [smart-sales-spark](https://github.com/denisecase/smart-sales-spark)
 
-- ## Mandart Engine (Rust)
+## Mandart Engine (Rust)
 
 - [mandart-engine-rust](https://github.com/denisecase/mandart-engine-rust/)
 - Comparing [input](https://github.com/denisecase/mandart-engine-rust/tree/main/input) to [output](https://github.com/denisecase/mandart-engine-rust/tree/main/output)
@@ -70,7 +70,6 @@ WDD was created in 1991 by International Diabetes Federation (IDF) and the World
   <img src="https://github.com/denisecase/MandArt-Discoveries/blob/main/brucehjohnson/frame_pix/Frame25.png?raw=true" width="200" height="200">
   <img src="https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png?raw=true" width="200" height="200">
 </div>
-
 
 ## MandArt
 
