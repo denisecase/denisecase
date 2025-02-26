@@ -61,10 +61,16 @@ WDD was created in 1991 by International Diabetes Federation (IDF) and the World
 - [smart-sales-olap](https://github.com/denisecase/smart-sales-olap)
 - [smart-sales-spark](https://github.com/denisecase/smart-sales-spark)
 
+- ## Mandart Engine (Rust)
 
-## World Quantum Day - April 14
+- [mandart-engine-rust](https://github.com/denisecase/mandart-engine-rust/)
+- Comparing [input](https://github.com/denisecase/mandart-engine-rust/tree/main/input) to [output](https://github.com/denisecase/mandart-engine-rust/tree/main/output)
+- Example [input Frame25](https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png) and [output Frame25]()
+<div align="center">
+  <img src="https://github.com/denisecase/MandArt-Discoveries/blob/main/brucehjohnson/frame_pix/Frame25.png?raw=true" width="200" height="200">
+  <img src="https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png?raw=true" width="200" height="200">
+</div>
 
-- [World Quantum Day: Questions on Applied QC](https://github.com/denisecase/world-quantum-day-2024)
 
 ## MandArt
 
@@ -150,6 +156,10 @@ Common documenation for professional data analytics fundamentals and more.
 - [dfir-pwsh-forensic-copy](https://github.com/denisecase/dfir-pwsh-forensic-copy)
 - [dfir-pwsh-file-recovery](https://github.com/denisecase/dfir-pwsh-file-recovery)
 - [df-mod6-mobile](https://github.com/denisecase/df-mod6-mobile)
+
+## World Quantum Day - April 14
+
+- [World Quantum Day: Questions on Applied QC](https://github.com/denisecase/world-quantum-day-2024)
 
 ## Alexa Skills
 
