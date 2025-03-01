@@ -1,5 +1,21 @@
 # Welcome
 
+## MandArt Web (powered by wasm)
+
+- [App mandart-web](https://denisecase.github.io/mandart-web/) - in progress
+- [Repo mandart-web](https://github.com/denisecase/mandart-web/)
+
+## Mandart Engine (Rust)
+
+- [test page](https://denisecase.github.io/mandart-engine-rust/)
+- [mandart-engine-rust](https://github.com/denisecase/mandart-engine-rust/)
+- Comparing [input](https://github.com/denisecase/mandart-engine-rust/tree/main/input) to [output](https://github.com/denisecase/mandart-engine-rust/tree/main/output)
+- Example [input Frame25](https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png) and [output Frame25]()
+<div align="center">
+  <img src="https://github.com/denisecase/MandArt-Discoveries/blob/main/brucehjohnson/frame_pix/Frame25.png?raw=true" width="200" height="200">
+  <img src="https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png?raw=true" width="200" height="200">
+</div>
+
 ## Applied Guides: Getting Started
 
 - [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
@@ -60,16 +76,6 @@ WDD was created in 1991 by International Diabetes Federation (IDF) and the World
 - [smart-sales-docs](https://github.com/denisecase/smart-sales-docs)
 - [smart-sales-olap](https://github.com/denisecase/smart-sales-olap)
 - [smart-sales-spark](https://github.com/denisecase/smart-sales-spark)
-
-## Mandart Engine (Rust)
-
-- [mandart-engine-rust](https://github.com/denisecase/mandart-engine-rust/)
-- Comparing [input](https://github.com/denisecase/mandart-engine-rust/tree/main/input) to [output](https://github.com/denisecase/mandart-engine-rust/tree/main/output)
-- Example [input Frame25](https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png) and [output Frame25]()
-<div align="center">
-  <img src="https://github.com/denisecase/MandArt-Discoveries/blob/main/brucehjohnson/frame_pix/Frame25.png?raw=true" width="200" height="200">
-  <img src="https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png?raw=true" width="200" height="200">
-</div>
 
 ## MandArt
 
