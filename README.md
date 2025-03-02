@@ -10,10 +10,10 @@
 - [test page](https://denisecase.github.io/mandart-engine-rust/)
 - [mandart-engine-rust](https://github.com/denisecase/mandart-engine-rust/)
 - Comparing [input](https://github.com/denisecase/mandart-engine-rust/tree/main/input) to [output](https://github.com/denisecase/mandart-engine-rust/tree/main/output)
-- Example [input Frame25](https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png) and [output Frame25]()
+- Example [input Frame25](https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png) and [output Frame25](https://github.com/denisecase/mandart-engine-rust/blob/51267a422943c80b571ed16095b2644963d1a143/output/Frame25.png)
 <div align="center">
   <img src="https://github.com/denisecase/MandArt-Discoveries/blob/main/brucehjohnson/frame_pix/Frame25.png?raw=true" width="200" height="200">
-  <img src="https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png?raw=true" width="200" height="200">
+  <img src="https://github.com/denisecase/mandart-engine-rust/blob/51267a422943c80b571ed16095b2644963d1a143/output/Frame25.png?raw=true" width="200" height="200">
 </div>
 
 ## Applied Guides: Getting Started
