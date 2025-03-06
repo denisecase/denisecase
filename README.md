@@ -2,8 +2,13 @@
 
 ## MandArt Web (powered by wasm)
 
-- [App mandart-web](https://denisecase.github.io/mandart-web/) - in progress
+- [App mandart-web](https://denisecase.github.io/mandart-web/) 
 - [Repo mandart-web](https://github.com/denisecase/mandart-web/)
+
+<div align="center">
+  <img src="https://github.com/denisecase/mandart-web/blob/main/examples/bright.jpg?raw=true" width="200" height="200">
+  <img src="https://github.com/denisecase/mandart-web/blob/main/examples/navy.jpg?raw=true" width="200" height="200">
+</div>
 
 ## Mandart Engine (Rust)
 
