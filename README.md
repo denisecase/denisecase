@@ -33,6 +33,11 @@ Project Setup / Initialization / Standard Workflow
 Background (More About tools, etc.)
 - [pro-analytics-level-1](https://github.com/denisecase/pro-analytics-level-1)
 
+## Applied Machine Learning
+
+- [ml-04](https://github.com/denisecase/ml-04) - classification analysis
+- [ml-07](https://github.com/denisecase/ml-07) - regression analysis
+
 ## Data Analytics Fundamentals
 
 - [datafun-01-utils](https://github.com/denisecase/datafun-01-utils) - first reusable module w/stats
