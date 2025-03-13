@@ -30,6 +30,9 @@
 Project Setup / Initialization / Standard Workflow
 - [pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
 
+Apache Kafka / Spark Starter Template
+- [pro-analytics-apache-starter](https://github.com/denisecase/pro-analytics-apache-starter) - keep JDK, JAVA_HOME, etc isolated
+
 Background (More About tools, etc.)
 - [pro-analytics-level-1](https://github.com/denisecase/pro-analytics-level-1)
 
