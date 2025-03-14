@@ -33,9 +33,6 @@ Project Setup / Initialization / Standard Workflow
 Apache Kafka / Spark Starter Template
 - [pro-analytics-apache-starter](https://github.com/denisecase/pro-analytics-apache-starter) - keep JDK, JAVA_HOME, etc isolated
 
-Background (More About tools, etc.)
-- [pro-analytics-level-1](https://github.com/denisecase/pro-analytics-level-1)
-
 ## Applied Machine Learning
 
 - [applied-ml-template](https://github.com/denisecase/applied-ml-template) - copy this to your GH and replace template with yourname
@@ -165,6 +162,9 @@ Common documenation for professional data analytics fundamentals and more.
 
 - [nw-network-data-analytics](https://github.com/denisecase/nw-network-data-analytics)
 - [License Tracking](https://github.com/denisecase/license-tracking)
+
+Background (More About tools, etc.)
+- [pro-analytics-level-1](https://github.com/denisecase/pro-analytics-level-1)
 
 ## Digital Forensics
 
