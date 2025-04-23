@@ -87,7 +87,6 @@ WDD was created in 1991 by International Diabetes Federation (IDF) and the World
 - [smart-sales-docs](https://github.com/denisecase/smart-sales-docs)
 - [smart-sales-olap](https://github.com/denisecase/smart-sales-olap)
 - [smart-sales-spark](https://github.com/denisecase/smart-sales-spark)
-
 - [smart-sales-duckdb-sql](https://github.com/denisecase/smart-sales-duckdb-sql)
 - [smart-sales-duckdb-sql-python](https://github.com/denisecase/smart-sales-duckdb-sql-python)
 
