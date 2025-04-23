@@ -88,6 +88,9 @@ WDD was created in 1991 by International Diabetes Federation (IDF) and the World
 - [smart-sales-olap](https://github.com/denisecase/smart-sales-olap)
 - [smart-sales-spark](https://github.com/denisecase/smart-sales-spark)
 
+- [smart-sales-duckdb-sql](https://github.com/denisecase/smart-sales-duckdb-sql)
+- [smart-sales-duckdb-sql-python](https://github.com/denisecase/smart-sales-duckdb-sql-python)
+
 ## MandArt
 
 - [MandArt (App Store)](https://apps.apple.com/us/app/mandart/id6445924588?mt=12) - runs on MacOS (v12+) - _Released!_
