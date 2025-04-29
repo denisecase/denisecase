@@ -1,5 +1,13 @@
 # Welcome
 
+## Example of Building an LLM AI System to Help with Pro-Analytics-01
+
+- [pro-analytics-ai](https://github.com/denisecase/pro-analytics-ai) — illustrates how LLMs like ChatGPT work by creating an AI assistant trained on [pro-analytics-01](https://github.com/denisecase/pro-analytics-01). It uses APIs (OpenAI/OpenRouter) to process user prompts and generate natural language responses, but all retrieval and context selection is performed locally based on the source repository text.
+- The AI assistant runs locally on a 2 TB SSD machine with 12/24 cores, using API calls (via a free OpenRouter API key).
+- The frontend is lightweight, but the backend uses a local retrieval pipeline (ChromaDB + sentence-transformers) that depends on large Python ML libraries, making it too heavy for serverless platforms like AWS Lambda and significant even for AWS EC2.
+- Even when calling external APIs (and not hosting full LLM models), generating embeddings and performing document retrieval requires a significant machine learning environment.
+- When we **build a brain** by indexing our own documents, the storage, memory, and processing requirements expand dramatically.
+
 ## MandArt Web (powered by wasm)
 
 - [App mandart-web](https://denisecase.github.io/mandart-web/) 
