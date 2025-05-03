@@ -52,7 +52,6 @@ Apache Kafka / Spark Starter Template
 - [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
 - [pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
 - [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook) - requires virtual environment and installed packages
-  
 - [datafun-01-utils](https://github.com/denisecase/datafun-01-utils) - first reusable module w/stats
 - [datafun-02-project-setup](https://github.com/denisecase/datafun-02-project-setup) - scripting project folders
 - [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - fetch and write data, read and process it
