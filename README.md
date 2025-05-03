@@ -49,15 +49,18 @@ Apache Kafka / Spark Starter Template
 
 ## Data Analytics Fundamentals
 
+- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
+- [pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
+- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook) - requires virtual environment and installed packages
+  
 - [datafun-01-utils](https://github.com/denisecase/datafun-01-utils) - first reusable module w/stats
 - [datafun-02-project-setup](https://github.com/denisecase/datafun-02-project-setup) - scripting project folders
 - [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - fetch and write data, read and process it
-- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore and present insights interactively using Python and Markdown in a Jupyter notebook
-- [datafun-05-sql](https://github.com/denisecase/datafun-05-sql)
+- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
+- [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
 - [datafun-05-spec](https://github.com/denisecase/datafun-05-spec)
-- [datafun-06-spec](https://github.com/denisecase/datafun-06-spec)
-- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook) - try this after project 3 and virtual environments
-
+- [datafun-06-spec](https://github.com/denisecase/datafun-06-spec) - Custom EDA 
+ 
 ## Streaming Data
 
 - [buzzline-01-case](https://github.com/denisecase/buzzline-01-case) - Python generators for streaming pipelines
@@ -160,21 +163,6 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [Freeze Tracker](https://github.com/denisecase/freeze-tracker)
 - [Northwoods](https://github.com/denisecase/Northwoods)
 - [JFC](https://github.com/denisecase/johnson-family-cabin)
-
-## Professional Data Analytics
-
-Common documenation for professional data analytics fundamentals and more. 
-
-- [Read The Docs](https://denisecase.github.io/datafun-central/)
-- [datafun-central](https://github.com/denisecase/datafun-central) - source code for common docs
-
-## NW Data Analytics
-
-- [nw-network-data-analytics](https://github.com/denisecase/nw-network-data-analytics)
-- [License Tracking](https://github.com/denisecase/license-tracking)
-
-Background (More About tools, etc.)
-- [pro-analytics-level-1](https://github.com/denisecase/pro-analytics-level-1)
 
 ## Digital Forensics
 
