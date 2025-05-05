@@ -60,6 +60,17 @@ Apache Kafka / Spark Starter Template
 - [datafun-05-spec](https://github.com/denisecase/datafun-05-spec)
 - [datafun-06-spec](https://github.com/denisecase/datafun-06-spec) - Custom EDA 
  
+## Smart Sales 
+
+- [smart-sales-analysis-goals](https://github.com/denisecase/smart-sales-analysis-goals)
+- [smart-sales-raw-data](https://github.com/denisecase/smart-sales-raw-data)
+- [smart-sales-starter-files](https://github.com/denisecase/smart-sales-starter-files)
+- [smart-sales-docs](https://github.com/denisecase/smart-sales-docs)
+- [smart-sales-olap](https://github.com/denisecase/smart-sales-olap)
+- [smart-sales-spark](https://github.com/denisecase/smart-sales-spark)
+- [smart-sales-duckdb-sql](https://github.com/denisecase/smart-sales-duckdb-sql)
+- [smart-sales-duckdb-sql-python](https://github.com/denisecase/smart-sales-duckdb-sql-python)
+
 ## Streaming Data
 
 - [buzzline-01-case](https://github.com/denisecase/buzzline-01-case) - Python generators for streaming pipelines
@@ -88,17 +99,6 @@ WDD was created in 1991 by International Diabetes Federation (IDF) and the World
 
 - [BWCA Entry Points](https://www.the-driveby-tourist.com/boundary-waters-canoe-area-outfitters/)
 - [Trygg History & Maps](https://trygghistoricalmaps.com/)
-
-## Smart Sales 
-
-- [smart-sales-analysis-goals](https://github.com/denisecase/smart-sales-analysis-goals)
-- [smart-sales-raw-data](https://github.com/denisecase/smart-sales-raw-data)
-- [smart-sales-starter-files](https://github.com/denisecase/smart-sales-starter-files)
-- [smart-sales-docs](https://github.com/denisecase/smart-sales-docs)
-- [smart-sales-olap](https://github.com/denisecase/smart-sales-olap)
-- [smart-sales-spark](https://github.com/denisecase/smart-sales-spark)
-- [smart-sales-duckdb-sql](https://github.com/denisecase/smart-sales-duckdb-sql)
-- [smart-sales-duckdb-sql-python](https://github.com/denisecase/smart-sales-duckdb-sql-python)
 
 ## MandArt
 
