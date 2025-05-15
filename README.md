@@ -8,6 +8,10 @@
 - Even when calling external APIs (and not hosting full LLM models), generating embeddings and performing document retrieval requires a significant machine learning environment.
 - When we **build a brain** by indexing our own documents, the storage, memory, and processing requirements expand dramatically.
 
+## Interactive Dashboard (In Progress)
+
+- [open-climate-disaster-dashboard](https://github.com/denisecase/open-climate-disaster-dashboard)
+
 ## MandArt Web (powered by wasm)
 
 - [App mandart-web](https://denisecase.github.io/mandart-web/) 
@@ -189,6 +193,10 @@ Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://w
 - [TimberwolfTracker-BoysBasketball](https://github.com/denisecase/TimberwolfTracker-BoysBasketball)
 - [TimberwolfTracker-GirlsBasketball](https://github.com/denisecase/TimberwolfTracker-GirlsBasketball)
 - [TimberwolfTracker-GirlsVolleyball](https://github.com/denisecase/TimberwolfTracker-GirlsVolleyball)
+
+## Top Three
+
+- [Top Three](https://github.com/denisecase/top-three)
 
 ## ArcDraw
 
