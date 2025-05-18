@@ -1,5 +1,18 @@
 # Welcome
 
+## Applied Guides: Getting Started with Computer Basics
+
+- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
+
+## Applied Guides: Professional Python for Analytics
+
+Project Setup / Initialization / Standard Workflow
+- ⭐[pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
+- 🆕[pro-analytics-01-audio-guides](https://github.com/denisecase/pro-analytics-01-audio-guides) - AI generated two-person podcasts discussing professional Python for analytics 
+
+Apache Kafka / Spark Starter Template
+- [pro-analytics-apache-starter](https://github.com/denisecase/pro-analytics-apache-starter) - keep JDK, JAVA_HOME, etc isolated
+
 ## Example of Building an LLM AI System to Help with Pro-Analytics-01
 
 - [pro-analytics-ai](https://github.com/denisecase/pro-analytics-ai) — illustrates how LLMs like ChatGPT work by creating an AI assistant trained on [pro-analytics-01](https://github.com/denisecase/pro-analytics-01). It uses APIs (OpenAI/OpenRouter) to process user prompts and generate natural language responses, but all retrieval and context selection is performed locally based on the source repository text.
@@ -32,18 +45,6 @@
   <img src="https://github.com/denisecase/MandArt-Discoveries/blob/main/brucehjohnson/frame_pix/Frame25.png?raw=true" width="200" height="200">
   <img src="https://github.com/denisecase/mandart-engine-rust/blob/51267a422943c80b571ed16095b2644963d1a143/output/Frame25.png?raw=true" width="200" height="200">
 </div>
-
-## Applied Guides: Getting Started
-
-- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
-
-## Professional Analytics
-
-Project Setup / Initialization / Standard Workflow
-- [pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
-
-Apache Kafka / Spark Starter Template
-- [pro-analytics-apache-starter](https://github.com/denisecase/pro-analytics-apache-starter) - keep JDK, JAVA_HOME, etc isolated
 
 ## Applied Machine Learning
 
