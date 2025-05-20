@@ -105,6 +105,7 @@ WDD was created in 1991 by International Diabetes Federation (IDF) and the World
 
 - [BWCA Entry Points](https://www.the-driveby-tourist.com/boundary-waters-canoe-area-outfitters/)
 - [Trygg History & Maps](https://trygghistoricalmaps.com/)
+- [St Louis MN Homeowner Guide and Links](https://github.com/denisecase/stlouis-mn-homeowner-guide)
 
 ## MandArt
 
