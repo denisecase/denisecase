@@ -1,5 +1,17 @@
 # Welcome
 
+## Interesting and/or Fun Tech
+
+- [Google NotebookLM](https://notebooklm.google.com/) - AI-generated summaries, Q&A, and podcasts from your own documents and sources.
+- [Meta Quest Virtual Reality](https://www.meta.com/quest/) - immersive games, learning, productivity, and creativity in mixed reality.
+- [Google Apps Script](https://developers.google.com/apps-script) - automate workflows in Google Drive, Docs, Sheets, Gmail, and more using JavaScript-like scripting.
+- [Microsoft Quantum Simulator](https://quantum.microsoft.com/)  - Try quantum computing in your browser—no special hardware required.
+- [Learn with Quantum Katas](https://quantum.microsoft.com/en-us/tools/quantum-katas) - interactive notebook tutorials for quantum logic and computation.
+- [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ?hl=en) - interactive experiment blending machine learning with cello-inspired play.
+- [BirdNET – Identify Bird Sounds with ML](https://birdnet.cornell.edu/)  - Upload audio clips or use a field device to identify birds by sound with cutting-edge bioacoustics AI.
+- [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace/)  - AI-powered IDE that understands your repo, suggests tasks, writes code, and walks you through implementation plans. 
+- [More GitHub Next Projects](https://githubnext.com/) - cutting-edge developer tools being prototyped by GitHub.
+
 ## Applied Guides: Getting Started with Computer Basics
 
 - [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
