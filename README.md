@@ -9,7 +9,8 @@
 - [Learn with Quantum Katas](https://quantum.microsoft.com/en-us/tools/quantum-katas) - interactive notebook tutorials for quantum logic and computation.
 - [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ?hl=en) - interactive experiment blending machine learning with cello-inspired play.
 - [BirdNET – Identify Bird Sounds with ML](https://birdnet.cornell.edu/) - Upload audio or use field device to identify birds by sound with bioacoustics AI.
-- [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace/) - AI-powered IDE that understands your repo, suggests tasks, writes code, and walks through implementation plans. 
+- [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace/) - AI-powered IDE that understands your repo, suggests tasks, writes code, and walks through implementation plans.
+- [GitHub Copilot Voice](https://githubnext.com/projects/copilot-voice/) - use your voice to code (without spelling things out)
 - [More GitHub Next Projects](https://githubnext.com/) - cutting-edge developer tools being prototyped by GitHub.
 
 ## Applied Guides: Getting Started with Computer Basics
