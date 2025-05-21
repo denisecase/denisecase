@@ -22,6 +22,10 @@ Apache Kafka / Spark Starter Template
 - Even when calling external APIs (and not hosting full LLM models), generating embeddings and performing document retrieval requires a significant machine learning environment.
 - When we **build a brain** by indexing our own documents, the storage, memory, and processing requirements expand dramatically.
 
+##  A public-health data microservice deployed to GKE Autopilot using FastAPI, Docker, and Kubernetes
+
+- 🆕[k8s-api-mosquito](https://github.com/denisecase/k8s-api-mosquito)
+
 ## Interactive Dashboard (In Progress)
 
 - [open-climate-disaster-dashboard](https://github.com/denisecase/open-climate-disaster-dashboard)
