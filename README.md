@@ -16,8 +16,8 @@
 ## Playing with Virtual Reality
 
 -  🆕[Visit VR Forest](https://denisecase.github.io/vr-forest/)
--  🆕[See the code]([https://denisecase.github.io/](https://github.com/denisecase/)vr-forest/)
--  
+-  🆕[See the code](https://github.com/denisecase/vr-forest)
+  
 ## Applied Guides: Getting Started with Computer Basics
 
 - [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
