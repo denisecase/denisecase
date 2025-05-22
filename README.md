@@ -13,6 +13,11 @@
 - [GitHub Copilot Voice](https://githubnext.com/projects/copilot-voice/) - use your voice to code (without spelling things out)
 - [More GitHub Next Projects](https://githubnext.com/) - cutting-edge developer tools being prototyped by GitHub.
 
+## Playing with Virtual Reality
+
+-  🆕[Visit VR Forest](https://denisecase.github.io/vr-forest/)
+-  🆕[See the code]([https://denisecase.github.io/](https://github.com/denisecase/)vr-forest/)
+-  
 ## Applied Guides: Getting Started with Computer Basics
 
 - [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
