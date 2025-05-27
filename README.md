@@ -2,7 +2,8 @@
 
 ## Built with Zig (Super Fast, Super Fun, Easy Executables)
 
-- ☆[Zig Bill Utils](https://github.com/denisecase/zig-bill-utils) - toolkit for analyzing U.S. legislative bills.![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+- ☆[Zig Bill Utils](https://github.com/denisecase/zig-bill-utils) - high-performance toolkit for analyzing U.S. legislative bills.![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+- ☆[Py Bill Utils](https://github.com/denisecase/py-bill-utils) - Python project for analyzing U.S. legislative bills.![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") - uses [Zig Bill Utils](https://github.com/denisecase/zig-bill-utils)
 
 ## Interesting and/or Fun Tech
 
