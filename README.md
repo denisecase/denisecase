@@ -1,5 +1,9 @@
 # Welcome
 
+## Built with Zig (Super Fast, Super Fun, Easy Executables)
+
+- ☆[Zig Bill Utils](https://github.com/denisecase/zig-bill-utils) - toolkit for analyzing U.S. legislative bills.![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+
 ## Interesting and/or Fun Tech
 
 - [Google NotebookLM](https://notebooklm.google.com/) - AI-generated summaries, Q&A, and podcasts from your own documents and sources.
