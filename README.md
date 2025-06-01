@@ -1,11 +1,12 @@
 # Welcome
 
-## Progress Atlas
+## Civic
 
 - [Progress Atlas on GitHub](https://github.com/denisecase/progress-atlas)
 - [Life Expectancy at Birth (1960–2022)](
 https://mybinder.org/v2/gh/denisecase/progress-atlas/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Flife_expectancy_compare.ipynb) - interactive chart to compare life expectancy at birth by country, region, or economic classification.
 - [Life Expectancy By Location (Bar Chart Race)](https://youtu.be/Kn0M-vOGjjI) - YouTube video of the top 30 from 1960-2022
+- [Minnesota GIS](https://github.com/denisecase/mn-gis-boundaries)
 
 ## Built with Zig (Super Fast, Super Fun, Easy Executables)
 
