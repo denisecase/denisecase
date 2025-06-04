@@ -1,5 +1,10 @@
 # Welcome
 
+## Just for Fun
+
+- [Zipline Estimator Visualizer]([https://github.com/denisecase/zipline-estimator](https://denisecase.github.io/zipline-estimator/))
+- [Zipline Estimator: Source on GitHub](https://github.com/denisecase/zipline-estimator)
+- 
 ## Civic
 
 - [Life Expectancy at Birth (1960–2022)](
