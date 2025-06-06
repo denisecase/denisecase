@@ -60,6 +60,15 @@ Apache Kafka / Spark Starter Template
 - Even when calling external APIs (and not hosting full LLM models), generating embeddings and performing document retrieval requires a significant machine learning environment.
 - When we **build a brain** by indexing our own documents, the storage, memory, and processing requirements expand dramatically.
 
+Early work:
+
+- 2020 May Research Paper introducing GPT-3: ["Language Models are Few-Shot Learners"](https://arxiv.org/abs/2005.14165)
+- 2022 Nov OpenAI ChatGPT "research preview. [Current link](https://openai.com/chatgpt/overview/)
+- 2023 Nov: OpenAI [DevDay](https://openai.com/devday/2024/) - first developer conference (GPT-4 Turbo, and more).
+- Conferences:
+  - [NeurIPS](https://neurips.cc/) - Neural Information Processing Systems
+  - [ICML](https://icml.cc/) - International Conference on Machine Learning
+
 ##  A public-health data microservice deployed to GKE Autopilot using FastAPI, Docker, and Kubernetes
 
 - 🆕[k8s-api-mosquito](https://github.com/denisecase/k8s-api-mosquito)
