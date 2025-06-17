@@ -14,6 +14,7 @@ https://mybinder.org/v2/gh/denisecase/progress-atlas/HEAD?urlpath=voila%2Frender
    - [Progress Atlas: Source](https://github.com/denisecase/progress-atlas)
 - [Minnesota GIS: Viewer](https://mybinder.org/v2/gh/denisecase/gis-mn-civic/HEAD?urlpath=voila/render/main.ipynb)
   - [Minnesota GIS: Source](https://github.com/denisecase/gis-mn-civic)
+- [Civic Interconnect](https://github.com/civic-interconnect)
 
 ## Built with Zig (Super Fast, Super Fun, Easy Executables)
 
