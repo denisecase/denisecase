@@ -47,9 +47,9 @@ https://mybinder.org/v2/gh/denisecase/progress-atlas/HEAD?urlpath=voila%2Frender
 
 Project Setup / Initialization / Standard Workflow
 - ⭐[pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
-- 🆕[pro-analytics-01-audio-guides](https://github.com/denisecase/pro-analytics-01-audio-guides) - AI generated two-person podcasts discussing professional Python for analytics
-- 🆕[Listen](https://denisecase.github.io/pro-analytics-01-audio-guides/)
-
+- 🆕[pro-analytics-01-audio-guides](https://github.com/denisecase/pro-analytics-01-audio-guides) - repo used to generate podcasts with AI (crazy!)
+- 🆕[Listen](https://denisecase.github.io/pro-analytics-01-audio-guides/) <-- try the podcasts here
+  
 Apache Kafka / Spark Starter Template
 - [pro-analytics-apache-starter](https://github.com/denisecase/pro-analytics-apache-starter) - keep JDK, JAVA_HOME, etc isolated
 
