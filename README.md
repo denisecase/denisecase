@@ -1,10 +1,18 @@
 # Welcome
 
-## Just for Fun
+## Applied Guides: Getting Started with Computer Basics
 
-- [Zipline Estimator Visualizer](https://denisecase.github.io/zipline-estimator/)
-- [Zipline Estimator: Source on GitHub](https://github.com/denisecase/zipline-estimator)
+- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
 
+## Applied Guides: Professional Python for Analytics
+
+Project Setup / Initialization / Standard Workflow
+- ⭐[pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
+- 🆕[pro-analytics-01-audio-guides](https://github.com/denisecase/pro-analytics-01-audio-guides) - repo used to generate podcasts with AI (crazy!)
+- 🆕[Listen](https://denisecase.github.io/pro-analytics-01-audio-guides/) <-- try the podcasts here
+  
+Apache Kafka / Spark Starter Template (for Apache tools)
+- [pro-analytics-apache-starter](https://github.com/denisecase/pro-analytics-apache-starter) - keep JDK, JAVA_HOME, etc isolated
 
 ## Civic
 
@@ -20,6 +28,11 @@ https://mybinder.org/v2/gh/denisecase/progress-atlas/HEAD?urlpath=voila%2Frender
 
 - ☆[Zig Bill Utils](https://github.com/denisecase/zig-bill-utils) - high-performance toolkit for analyzing U.S. legislative bills.![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 - ☆[Py Bill Utils](https://github.com/denisecase/py-bill-utils) - Python project for analyzing U.S. legislative bills.![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") - uses [Zig Bill Utils](https://github.com/denisecase/zig-bill-utils)
+
+## Just for Fun
+
+- [Zipline Estimator Visualizer](https://denisecase.github.io/zipline-estimator/)
+- [Zipline Estimator: Source on GitHub](https://github.com/denisecase/zipline-estimator)
 
 ## Interesting and/or Fun Tech
 
@@ -38,20 +51,7 @@ https://mybinder.org/v2/gh/denisecase/progress-atlas/HEAD?urlpath=voila%2Frender
 
 -  🆕[Visit VR Forest](https://denisecase.github.io/vr-forest/)
 -  🆕[See the code](https://github.com/denisecase/vr-forest)
-  
-## Applied Guides: Getting Started with Computer Basics
 
-- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
-
-## Applied Guides: Professional Python for Analytics
-
-Project Setup / Initialization / Standard Workflow
-- ⭐[pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
-- 🆕[pro-analytics-01-audio-guides](https://github.com/denisecase/pro-analytics-01-audio-guides) - repo used to generate podcasts with AI (crazy!)
-- 🆕[Listen](https://denisecase.github.io/pro-analytics-01-audio-guides/) <-- try the podcasts here
-  
-Apache Kafka / Spark Starter Template
-- [pro-analytics-apache-starter](https://github.com/denisecase/pro-analytics-apache-starter) - keep JDK, JAVA_HOME, etc isolated
 
 ## Example of Building an LLM AI System to Help with Pro-Analytics-01
 
