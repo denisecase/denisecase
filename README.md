@@ -136,6 +136,7 @@ Early work:
 - [buzzline-03-case](https://github.com/denisecase/buzzline-03-case) - Kafka pipelines for streaming structured and semi-structured data
 - [buzzline-04-case](https://github.com/denisecase/buzzline-04-case) - Kafka pipelines with live visualizations
 - [buzzline-05-case](https://github.com/denisecase/buzzline-05-case) - Kafka pipelines with data storage
+- [buzzline-06-world](https://github.com/denisecase/buzzline-06-world) - Simulated historical analysis of streaming data worlds
 - [buzzline-06-private](https://github.com/denisecase/buzzline-06-private) - Instructor only civic world simulation
 - [kafka-producer-earthquake](https://github.com/denisecase/kafka-producer-earthquake) - Kafka producer for streaming earthquake data from USGS API
 - [dc-mailer](https://github.com/denisecase/dc-mailer)
