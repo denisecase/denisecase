@@ -1,5 +1,10 @@
 # Welcome
 
+## Games
+
+- [rockfit](https://denisecase.github.io/rockfit/) - falling blocks game
+  - [rockfit (repo)](https://github.com/denisecase/rockfit) - source code
+
 ## Applied Guides: Getting Started with Computer Basics
 
 - [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
