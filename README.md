@@ -3,8 +3,9 @@
 ## Games
 
 - [rockfit](https://denisecase.github.io/rockfit/) - falling blocks game
-  - [rockfit (repo)](https://github.com/denisecase/rockfit) - source code
-
+  - [(repo)](https://github.com/denisecase/rockfit) - source code
+- [rockswap](https://denisecase.github.io/rockswap/) - match-3 game (under construction)
+  - [(repo)](https://github.com/denisecase/rockswap) - source code
 ## Applied Guides: Getting Started with Computer Basics
 
 - [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
