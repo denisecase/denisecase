@@ -6,6 +6,10 @@
 
 - [RockSwap](https://denisecase.github.io/rockswap/) - match-3 game
   - [(repo)](https://github.com/denisecase/rockswap) - source code
+
+- [RockSwap-Vivid](https://denisecase.github.io/rockswap-vivid/) - match-3 game (red-green colorblind safe)
+  - [(repo)](https://github.com/denisecase/rockswap-vivid) - source code
+
 - [RockFit](https://denisecase.github.io/rockfit/) - falling blocks game
   - [(repo)](https://github.com/denisecase/rockfit) - source code
   
