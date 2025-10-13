@@ -1,11 +1,14 @@
 # Welcome
 
-## Games
+## Fun, Free Games
 
-- [rockfit](https://denisecase.github.io/rockfit/) - falling blocks game
-  - [(repo)](https://github.com/denisecase/rockfit) - source code
-- [rockswap](https://denisecase.github.io/rockswap/) - match-3 game (under construction)
+![rock games icon](./images/RockGamesIcon.png)
+
+- [RockSwap](https://denisecase.github.io/rockswap/) - match-3 game
   - [(repo)](https://github.com/denisecase/rockswap) - source code
+- [RockFit](https://denisecase.github.io/rockfit/) - falling blocks game
+  - [(repo)](https://github.com/denisecase/rockfit) - source code
+  
 ## Applied Guides: Getting Started with Computer Basics
 
 - [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
