@@ -3,13 +3,10 @@
 ## Fun, Free Games
 
 ![rock games icon](./images/RockGamesIcon.png)
-
 - [RockSwap](https://denisecase.github.io/rockswap/) - match-3 game
   - [(repo)](https://github.com/denisecase/rockswap) - source code
-
 - [RockSwap-Vivid](https://denisecase.github.io/rockswap-vivid/) - match-3 game (red-green colorblind safe)
   - [(repo)](https://github.com/denisecase/rockswap-vivid) - source code
-
 - [RockFit](https://denisecase.github.io/rockfit/) - falling blocks game
   - [(repo)](https://github.com/denisecase/rockfit) - source code
   
@@ -20,6 +17,7 @@
 ## Applied Guides: Professional Python for Analytics
 
 Project Setup / Initialization / Standard Workflow
+- ⭐[pro-analytics-02](https://github.com/denisecase/pro-analytics-02) - Oct 2025 (uses uv instead of pip+venv)
 - ⭐[pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
 - 🆕[pro-analytics-01-audio-guides](https://github.com/denisecase/pro-analytics-01-audio-guides) - repo used to generate podcasts with AI (crazy!)
 - 🆕[Listen](https://denisecase.github.io/pro-analytics-01-audio-guides/) <-- try the podcasts here
