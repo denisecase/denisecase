@@ -1,5 +1,22 @@
 # Welcome
 
+## Professional Python for Analytics (New Version 02 Oct 2025)
+
+Uses `uv` with `pyproject.toml`:
+- ⭐[GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - read the guide
+- ⭐[TEMPLATE: pro-analytics-02-starter](https://github.com/denisecase/pro-analytics-02-starter) - copy this template to start a modern, professional Python project (see Workflow 2: Set up Project)
+
+## Professional Python for Analytics (Earlier Version 01)
+  
+Uses `pip` and `venv` with `requirements.txt`:
+- [pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
+- [pro-analytics-01-audio-guides](https://github.com/denisecase/pro-analytics-01-audio-guides) - repo used to generate podcasts with AI (crazy!)
+- [Listen](https://denisecase.github.io/pro-analytics-01-audio-guides/) <-- try the podcasts here
+
+## Applied Guides: Getting Started with Computer Basics
+
+- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
+
 ## Fun, Free Games
 
 ![rock games icon](./images/RockGamesIcon.png)
@@ -9,21 +26,6 @@
   - [(repo)](https://github.com/denisecase/rockswap-vivid) - source code
 - [RockFit](https://denisecase.github.io/rockfit/) - falling blocks game
   - [(repo)](https://github.com/denisecase/rockfit) - source code
-  
-## Applied Guides: Getting Started with Computer Basics
-
-- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
-
-## Applied Guides: Professional Python for Analytics
-
-Project Setup / Initialization / Standard Workflow
-- ⭐[pro-analytics-02](https://github.com/denisecase/pro-analytics-02) - Oct 2025 (uses uv instead of pip+venv)
-- ⭐[pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
-- 🆕[pro-analytics-01-audio-guides](https://github.com/denisecase/pro-analytics-01-audio-guides) - repo used to generate podcasts with AI (crazy!)
-- 🆕[Listen](https://denisecase.github.io/pro-analytics-01-audio-guides/) <-- try the podcasts here
-  
-Apache Kafka / Spark Starter Template (for Apache tools)
-- [pro-analytics-apache-starter](https://github.com/denisecase/pro-analytics-apache-starter) - keep JDK, JAVA_HOME, etc isolated
 
 ## Civic
 
@@ -152,6 +154,9 @@ Early work:
 - [kafka-producer-earthquake](https://github.com/denisecase/kafka-producer-earthquake) - Kafka producer for streaming earthquake data from USGS API
 - [dc-mailer](https://github.com/denisecase/dc-mailer)
 - [dc-texter](https://github.com/denisecase/dc-texter)
+
+## Apache Kafka / Spark Starter Template (for Apache tools)
+- [pro-analytics-apache-starter](https://github.com/denisecase/pro-analytics-apache-starter) - keep JDK, JAVA_HOME, etc isolated
 
 ## Xcode 15 and GitHub
 
