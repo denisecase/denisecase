@@ -6,6 +6,12 @@ Uses `uv` with `pyproject.toml`:
 - ⭐[GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - read the guide
 - ⭐[TEMPLATE: pro-analytics-02-starter](https://github.com/denisecase/pro-analytics-02-starter) - copy this template to start a modern, professional Python project (see Workflow 2: Set up Project)
 
+## Applied Machine Learning
+
+- [applied-ml-template](https://github.com/denisecase/applied-ml-template) - copy this to your GH and replace template with yourname
+- [ml-04](https://github.com/denisecase/ml-04) - classification analysis
+- [ml-07](https://github.com/denisecase/ml-07) - regression analysis
+
 ## Professional Python for Analytics (Earlier Version 01)
   
 Uses `pip` and `venv` with `requirements.txt`:
@@ -111,12 +117,6 @@ Early work:
   <img src="https://github.com/denisecase/MandArt-Discoveries/blob/main/brucehjohnson/frame_pix/Frame25.png?raw=true" width="200" height="200">
   <img src="https://github.com/denisecase/mandart-engine-rust/blob/51267a422943c80b571ed16095b2644963d1a143/output/Frame25.png?raw=true" width="200" height="200">
 </div>
-
-## Applied Machine Learning
-
-- [applied-ml-template](https://github.com/denisecase/applied-ml-template) - copy this to your GH and replace template with yourname
-- [ml-04](https://github.com/denisecase/ml-04) - classification analysis
-- [ml-07](https://github.com/denisecase/ml-07) - regression analysis
 
 ## Data Analytics Fundamentals
 
