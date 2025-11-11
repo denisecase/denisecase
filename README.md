@@ -9,6 +9,7 @@ Uses `uv` with `pyproject.toml`:
 ## Applied Machine Learning
 
 - [applied-ml-template](https://github.com/denisecase/applied-ml-template) - copy this to your GH and replace template with yourname
+- [confusion-matrix-explorer](https://github.com/denisecase/confusion-matrix-explorer) - PyShiny interactive app repo
 - [ml-04](https://github.com/denisecase/ml-04) - classification analysis
 - [ml-07](https://github.com/denisecase/ml-07) - regression analysis
 
