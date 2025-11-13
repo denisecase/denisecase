@@ -136,7 +136,7 @@ Early work:
 
 - [smart-sales-analysis-goals](https://github.com/denisecase/smart-sales-analysis-goals)
 - [smart-sales-raw-data](https://github.com/denisecase/smart-sales-raw-data)
-- [smart-sales-example]((https://github.com/denisecase/smart-sales-example)
+- [smart-sales-example](https://github.com/denisecase/smart-sales-example)
 - [smart-sales-starter-files](https://github.com/denisecase/smart-sales-starter-files)
 - [smart-sales-docs](https://github.com/denisecase/smart-sales-docs)
 - [smart-sales-olap](https://github.com/denisecase/smart-sales-olap)
