@@ -5,6 +5,7 @@
 Uses `uv` with `pyproject.toml`:
 - ⭐[GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - read the guide
 - ⭐[TEMPLATE: pro-analytics-02-starter](https://github.com/denisecase/pro-analytics-02-starter) - copy this template to start a modern, professional Python project (see Workflow 2: Set up Project)
+- [datakit-lite](https://github.com/denisecase/datakit-lite)
 
 ## Applied Machine Learning
 
