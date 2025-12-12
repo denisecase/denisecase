@@ -1,5 +1,7 @@
 # Welcome
 
+![Happy Winter](./images/winterwonderland.png)
+
 ## Professional Python for Analytics (New Version 02 Oct 2025)
 
 Uses `uv` with `pyproject.toml`:
