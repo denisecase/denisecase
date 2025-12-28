@@ -36,6 +36,10 @@ Uses `pip` and `venv` with `requirements.txt`:
   - [(repo)](https://github.com/denisecase/rockswap-vivid) - source code
 - [RockFit](https://denisecase.github.io/rockfit/) - falling blocks game
   - [(repo)](https://github.com/denisecase/rockfit) - source code
+ 
+## Structural Explainability
+
+- [Structural Explainability (organization)](https://github.com/structural-explainability)
 
 ## Civic
 
@@ -45,7 +49,7 @@ https://mybinder.org/v2/gh/denisecase/progress-atlas/HEAD?urlpath=voila%2Frender
    - [Progress Atlas: Source](https://github.com/denisecase/progress-atlas)
 - [Minnesota GIS: Viewer](https://mybinder.org/v2/gh/denisecase/gis-mn-civic/HEAD?urlpath=voila/render/main.ipynb)
   - [Minnesota GIS: Source](https://github.com/denisecase/gis-mn-civic)
-- [Civic Interconnect](https://github.com/civic-interconnect)
+- [Civic Interconnect (organization](https://github.com/civic-interconnect)
 
 ## Built with Zig (Super Fast, Super Fun, Easy Executables)
 
