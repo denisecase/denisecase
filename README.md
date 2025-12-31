@@ -2,11 +2,16 @@
 
 ![Happy Winter](./images/winterwonderland.png)
 
+## Neutral Substrates
+
+- [structural-explainability](https://github.com/structural-explainability) - designing information structures that remain reliable over time, even when interpretations differ.
+  Explores ideas applicable to science, policy, law, civic infrastructure, digital twins, and AI explainability.
+
 ## Professional Python for Analytics (New Version 02 Oct 2025)
 
 Uses `uv` with `pyproject.toml`:
-- ⭐[GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - read the guide
-- ⭐[TEMPLATE: pro-analytics-02-starter](https://github.com/denisecase/pro-analytics-02-starter) - copy this template to start a modern, professional Python project (see Workflow 2: Set up Project)
+- [GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - read the guide
+- [TEMPLATE: pro-analytics-02-starter](https://github.com/denisecase/pro-analytics-02-starter) - copy this template to start a modern, professional Python project (see Workflow 2: Set up Project)
 - [datakit-lite](https://github.com/denisecase/datakit-lite)
 
 ## Applied Machine Learning
@@ -213,17 +218,6 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 - [Why Do We Square Residuals in Linear Regression?](https://github.com/denisecase/python-ml-linear-regression/)
 
-## Continuous Intelligence and Interactive Analytics
-
-- [cintel-01-spec](https://github.com/denisecase/cintel-01-spec)
-- [cintel-02-spec](https://github.com/denisecase/cintel-02-spec)
-- [cintel-03-spec](https://github.com/denisecase/cintel-03-spec)
-- [cintel-04-spec](https://github.com/denisecase/cintel-04-spec)
-- [cintel-05-spec](https://github.com/denisecase/cintel-05-spec)
-- [cintel-06-spec](https://github.com/denisecase/cintel-06-spec)
-- [cintel-07-spec](https://github.com/denisecase/cintel-07-spec)
-- [fetch-data-weather](https://github.com/denisecase/fetch-data-weather)
-
 ## NW Diagnostics / Shared
 
 - [nw-diagnostics-python](https://github.com/denisecase/nw-diagnostics-python)
@@ -240,7 +234,18 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [cintel-04-reactive](https://github.com/denisecase/cintel-04-reactive)
 - [cintel-05-live-updates](https://github.com/denisecase/cintel-05-live-updates)
 - [cintel-stock-response](https://github.com/denisecase/cintel-stock-response)
+- [fetch-data-weather](https://github.com/denisecase/fetch-data-weather)
 
+## CI Specs
+
+- [cintel-01-spec](https://github.com/denisecase/cintel-01-spec)
+- [cintel-02-spec](https://github.com/denisecase/cintel-02-spec)
+- [cintel-03-spec](https://github.com/denisecase/cintel-03-spec)
+- [cintel-04-spec](https://github.com/denisecase/cintel-04-spec)
+- [cintel-05-spec](https://github.com/denisecase/cintel-05-spec)
+- [cintel-06-spec](https://github.com/denisecase/cintel-06-spec)
+- [cintel-07-spec](https://github.com/denisecase/cintel-07-spec)
+  
 ## Northwoods
 
 - [Meal Planner](https://denisecase.github.io/meal-planner/)
