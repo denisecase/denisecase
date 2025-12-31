@@ -42,10 +42,6 @@ Uses `pip` and `venv` with `requirements.txt`:
 - [RockFit](https://denisecase.github.io/rockfit/) - falling blocks game
   - [(repo)](https://github.com/denisecase/rockfit) - source code
  
-## Structural Explainability
-
-- [Structural Explainability (organization)](https://github.com/structural-explainability)
-
 ## Civic
 
 - [Life Expectancy at Birth (1960–2022)](
