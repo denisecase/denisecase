@@ -7,7 +7,9 @@
 - [structural-explainability](https://github.com/structural-explainability) - designing information structures that remain reliable over time, even when interpretations differ.
   Explores ideas applicable to science, policy, law, civic infrastructure, digital twins, and AI explainability.
 
-## Professional Python for Analytics (New Version 02 Oct 2025)
+## Professional Python for Analytics (New 2026)
+
+- [datafun-toolkit](https://github.com/denisecase/datafun-toolkit)
 
 Uses `uv` with `pyproject.toml`:
 - [GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - read the guide
