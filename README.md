@@ -7,6 +7,19 @@
 - [structural-explainability](https://github.com/structural-explainability) - designing information structures that remain reliable over time, even when interpretations differ.
   Explores ideas applicable to science, policy, law, civic infrastructure, digital twins, and AI explainability.
 
+## Data Analytics Fundamentals
+
+- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
+- [pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
+- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook) - requires virtual environment and installed packages
+- [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - first reusable module
+- [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - scripting project artifacts
+- [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - fetch and write data, read and process it
+- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
+- [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
+- [datafun-05-spec](https://github.com/denisecase/datafun-05-spec)
+- [datafun-06-spec](https://github.com/denisecase/datafun-06-spec) - Custom EDA
+
 ## Professional Python for Analytics (New 2026)
 
 - [datafun-toolkit](https://github.com/denisecase/datafun-toolkit)
@@ -128,19 +141,6 @@ Early work:
   <img src="https://github.com/denisecase/MandArt-Discoveries/blob/main/brucehjohnson/frame_pix/Frame25.png?raw=true" width="200" height="200">
   <img src="https://github.com/denisecase/mandart-engine-rust/blob/51267a422943c80b571ed16095b2644963d1a143/output/Frame25.png?raw=true" width="200" height="200">
 </div>
-
-## Data Analytics Fundamentals
-
-- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
-- [pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
-- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook) - requires virtual environment and installed packages
-- [datafun-01-utils](https://github.com/denisecase/datafun-01-utils) - first reusable module w/stats
-- [datafun-02-project-setup](https://github.com/denisecase/datafun-02-project-setup) - scripting project folders
-- [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - fetch and write data, read and process it
-- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
-- [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
-- [datafun-05-spec](https://github.com/denisecase/datafun-05-spec)
-- [datafun-06-spec](https://github.com/denisecase/datafun-06-spec) - Custom EDA 
  
 ## Smart Sales 
 
