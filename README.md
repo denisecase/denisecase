@@ -9,7 +9,7 @@
 
 ## Templates
 
-- [templages](https://github.com/denisecase/templates) - widely used CI/CD GitHub actions, config files, MkDocs, etc.
+- [templates](https://github.com/denisecase/templates) - my favorite CI/CD GitHub actions, config files, MkDocs, etc.
 
 ## Data Analytics Fundamentals
 
