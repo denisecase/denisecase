@@ -7,6 +7,10 @@
 - [structural-explainability](https://github.com/structural-explainability) - designing information structures that remain reliable over time, even when interpretations differ.
   Explores ideas applicable to science, policy, law, civic infrastructure, digital twins, and AI explainability.
 
+## Templates
+
+- [templages](https://github.com/denisecase/templates) - widely used CI/CD GitHub actions, config files, MkDocs, etc.
+
 ## Data Analytics Fundamentals
 
 - [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
