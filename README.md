@@ -14,8 +14,11 @@
 ## Data Analytics Fundamentals
 
 - [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
-- [pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
-- [datafun-01-textbook](https://github.com/denisecase/datafun-01-textbook) - requires virtual environment and installed packages
+- [GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - read the guide
+
+- [IntroToPython](https://github.com/denisecase/IntroToPython) - professional set up for textbook examples
+- [IntroToPython](https://github.com/pdeitel/IntroToPython) - get the textbook examples
+
 - [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - first reusable module
 - [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - scripting project artifacts
 - [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - fetch and write data, read and process it
