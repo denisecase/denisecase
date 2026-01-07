@@ -9,14 +9,13 @@
 
 ## Templates
 
-- [templates](https://github.com/denisecase/templates) - my favorite CI/CD GitHub actions, config files, MkDocs, etc.
+- [templates](https://github.com/denisecase/templates) - favorite CI/CD GitHub actions, config files, MkDocs, etc.
 
 ## Data Analytics Fundamentals
 
-- [applied-computer-organization](https://github.com/denisecase/applied-computer-organization/)
-- [GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - read the guide
-- [IntroToPython](https://github.com/denisecase/IntroToPython) - professional set up for textbook examples
-- [IntroToPython](https://github.com/pdeitel/IntroToPython) - get the textbook examples
+- [applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - what are repos? where should I keep them? how do I view all my files?
+- [GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - professional analytics using `uv` and Python
+- [IntroToPython](https://github.com/denisecase/IntroToPython) - professional project setup for the [textbook examples](https://github.com/pdeitel/IntroToPython)
 - [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - first reusable module
 - [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - scripting project artifacts
 - [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - fetch and write data, read and process it
