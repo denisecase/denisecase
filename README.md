@@ -11,27 +11,26 @@
 
 - [templates](https://github.com/denisecase/templates) - favorite CI/CD GitHub actions, config files, MkDocs, etc.
 
-## Data Analytics Fundamentals
-
-- [applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - what are repos? where should I keep them? how do I view all my files?
-- [GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - professional analytics using `uv` and Python
-- [IntroToPython](https://github.com/denisecase/IntroToPython) - professional project setup for the [textbook examples](https://github.com/pdeitel/IntroToPython)
-- [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - first reusable module
-- [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - scripting project artifacts
-- [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - fetch and write data, read and process it
-- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
-- [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
-- [datafun-05-spec](https://github.com/denisecase/datafun-05-spec)
-- [datafun-06-spec](https://github.com/denisecase/datafun-06-spec) - Custom EDA
-
 ## Professional Python for Analytics (New 2026)
 
-- [datafun-toolkit](https://github.com/denisecase/datafun-toolkit)
+- [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
+- [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
+- [⭐datafun-toolkit](https://github.com/denisecase/datafun-toolkit) - [PyPi package](https://pypi.org/project/datafun-toolkit/) - privacy-aware logging and diagnostics
 
-Uses `uv` with `pyproject.toml`:
-- [GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - read the guide
-- [TEMPLATE: pro-analytics-02-starter](https://github.com/denisecase/pro-analytics-02-starter) - copy this template to start a modern, professional Python project (see Workflow 2: Set up Project)
-- [datakit-lite](https://github.com/denisecase/datakit-lite)
+## Databases for Analytics
+
+- [databases-for-analytics](https://github.com/denisecase/databases-for-analytics)
+
+## Data Analytics Fundamentals
+
+- [IntroToPython](https://github.com/denisecase/IntroToPython) - professional project setup for the [textbook examples](https://github.com/pdeitel/IntroToPython)
+- [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - professional Python foundations
+- [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - automation with repetition, ranges, list comprehensions, delays
+- [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - read, process, write text and structured data
+- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
+- [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
+- [datafun-06-spec](https://github.com/denisecase/datafun-06-spec) - custom EDA project
+- [datafun-07-regression](https://github.com/denisecase/datafun-07-regression) - linear regression and prediction
 
 ## Applied Machine Learning
 
@@ -41,7 +40,9 @@ Uses `uv` with `pyproject.toml`:
 - [ml-07](https://github.com/denisecase/ml-07) - regression analysis
 
 ## Professional Python for Analytics (Earlier Version 01)
-  
+
+- [datakit-lite](https://github.com/denisecase/datakit-lite)
+
 Uses `pip` and `venv` with `requirements.txt`:
 - [pro-analytics-01](https://github.com/denisecase/pro-analytics-01)
 - [pro-analytics-01-audio-guides](https://github.com/denisecase/pro-analytics-01-audio-guides) - repo used to generate podcasts with AI (crazy!)
