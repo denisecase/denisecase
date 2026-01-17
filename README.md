@@ -7,6 +7,12 @@
 - [structural-explainability](https://github.com/structural-explainability) - designing information structures that remain reliable over time, even when interpretations differ.
   Explores ideas applicable to science, policy, law, civic infrastructure, digital twins, and AI explainability.
 
+## GPT Exploration
+
+- [App](https://toy-gpt.github.io/toy-gpt-chat/) - interactive visualization of next-token prediction in GPT-style language models
+- [App Repo](https://github.com/toy-gpt/toy-gpt-chat)
+- [Training Models](https://github.com/toy-gpt/) - language models trained on example corpora
+
 ## Templates
 
 - [templates](https://github.com/denisecase/templates) - favorite CI/CD GitHub actions, config files, MkDocs, etc.
