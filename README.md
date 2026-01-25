@@ -2,6 +2,11 @@
 
 ![Happy Winter](./images/winterwonderland.png)
 
+## Generate QR Code (web app)
+
+- [Web App](https://denisecase.github.io/qr-gen/) - generate a QR code from a web link or text
+- [App Repo](https://github.com/denisecase/qr-gen)
+
 ## Neutral Substrates
 
 - [structural-explainability](https://github.com/structural-explainability) - designing information structures that remain reliable over time, even when interpretations differ.
