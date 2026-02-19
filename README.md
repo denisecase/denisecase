@@ -9,6 +9,7 @@
   - Chrome / Settings / Privacy & Security / Security / Use secure DNS: toggle on, select Custom, enter <https://dns.quad9.net/dns-query>
   - Android / Settings / Network & Internet / Private DNS: Set Private DNS provider hostname to <dns.quad9.net>
   - Starlink App / Settings / Router tab / Custom DNS: Toggle on, enter Primary: 9.9.9.9 and Secondary: 149.112.112.112 (allow 10 min to apply)
+  - Windows / Settings / Network & internet / WiFi / Choose the network name / DNS server assignment: click Edit / Toggle on IPV4 / Preferred DNS: 9.9.9.9 DNS over HTTPS: On (automatic template) / Alternate DNS: 149.112.112.112 DNS over HTTPS: On (automatic template) / click Save.
   - Verify: <https://on.quad9.net>
 - [Proton Mail Plus](https://proton.me/mail) - email provider, $48/yr
 - [Proton Pass](https://proton.me/pass) - password storage (if using Proton Mail)
