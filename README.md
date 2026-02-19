@@ -5,7 +5,7 @@
 ## Diversify
 
 - [Quad9 DNS Resolver](https://quad9.net/) - free service
-  - Firefox / Settings / Privacy & Security: DNS over HTTPS, enable Max and set to <https://dns.quad9.net/dns-query>
+  - Firefox / Settings / Privacy & Security: DNS over HTTPS, enable Max and set to <https://dns.quad9.net/dns-query> OR add Mullvad VPN and set to Default.
   - Chrome / Settings / Privacy & Security / Security / Use secure DNS: toggle on, select Custom, enter <https://dns.quad9.net/dns-query>
   - Android / Settings / Network & Internet / Private DNS: Set Private DNS provider hostname to <dns.quad9.net>
   - Starlink App / Settings / Router tab / Custom DNS: Toggle on, enter Primary: 9.9.9.9 and Secondary: 149.112.112.112 (allow 10 min to apply)
@@ -21,6 +21,7 @@
   - Settings / Privacy & Security: UNCHECK Ask to save passwords
   - Settings / Privacy & Security: DNS over HTTPS, enable Max and set to <https://dns.quad9.net/dns-query>
 - [FUTO Keyboard](https://keyboard.futo.org/) - mobile keyboard with swipe and voice that sends nothing (still in alpha)
+- [Mullvad VPN](https://mullvad.net/) - VPN for 5 devices, $78/yr
 
 ## Generate QR Code (web app)
 
