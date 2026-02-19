@@ -4,12 +4,17 @@
 
 ## Diversify
 
-- [Firefox Browser](https://www.firefox.com/) - with [Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), and Std or Strict Tracking Protection
+- [Quad9 DNS Resolver](https://quad9.net/) - free service 
 - [Proton Mail Plus](https://proton.me/mail) - email provider, $48/yr
 - [Proton Pass](https://proton.me/pass) - password storage (if using Proton Mail)
 - [BitWarden](https://bitwarden.com/) - password storage
+- [Firefox Browser](https://www.firefox.com/) with
+  - [Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+  - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  - Settings / Privacy & Security: Standard or Strict Tracking Protection
+  - Settings / Privacy & Security: UNCHECK Ask to save passwords
+  - Settings / Privacy & Security: DNS over HTTPS, enable and set to <https://dns.quad9.net/dns-query>
 - [FUTO Keyboard](https://keyboard.futo.org/) - mobile keyboard with swipe and voice that sends nothing (still in alpha)
-- [Quad9 DNS Resolver](https://quad9.net/) - free service 
 
 ## Generate QR Code (web app)
 
