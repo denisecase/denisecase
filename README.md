@@ -2,6 +2,15 @@
 
 ![Happy Winter](./images/winterwonderland.png)
 
+## Diversify
+
+- [Firefox Browser](https://www.firefox.com/) - with [Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), and Std or Strict Tracking Protection
+- [Proton Mail Plus](https://proton.me/mail) - email provider, $48/yr
+- [Proton Pass](https://proton.me/pass) - password storage (if using Proton Mail)
+- [BitWarden](https://bitwarden.com/) - password storage
+- [FUTO Keyboard](https://keyboard.futo.org/) - mobile keyboard with swipe and voice that sends nothing (still in alpha)
+- [Quad9 DNS Resolver](https://quad9.net/) - free service 
+
 ## Generate QR Code (web app)
 
 - [Web App](https://denisecase.github.io/qr-gen/) - generate a QR code from a web link or text
