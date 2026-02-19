@@ -4,7 +4,9 @@
 
 ## Diversify
 
-- [Quad9 DNS Resolver](https://quad9.net/) - free service 
+- [Quad9 DNS Resolver](https://quad9.net/) - free service
+  - Firefox / Settings / Privacy & Security: DNS over HTTPS, enable Max and set to <https://dns.quad9.net/dns-query>
+  - Android / Settings / Network & Internet / Private DNS: Set Private DNS provider hostname to <dns.quad9.net>
 - [Proton Mail Plus](https://proton.me/mail) - email provider, $48/yr
 - [Proton Pass](https://proton.me/pass) - password storage (if using Proton Mail)
 - [BitWarden](https://bitwarden.com/) - password storage
@@ -13,7 +15,7 @@
   - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   - Settings / Privacy & Security: Standard or Strict Tracking Protection
   - Settings / Privacy & Security: UNCHECK Ask to save passwords
-  - Settings / Privacy & Security: DNS over HTTPS, enable and set to <https://dns.quad9.net/dns-query>
+  - Settings / Privacy & Security: DNS over HTTPS, enable Max and set to <https://dns.quad9.net/dns-query>
 - [FUTO Keyboard](https://keyboard.futo.org/) - mobile keyboard with swipe and voice that sends nothing (still in alpha)
 
 ## Generate QR Code (web app)
