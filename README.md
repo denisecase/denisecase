@@ -7,6 +7,7 @@
 - [Quad9 DNS Resolver](https://quad9.net/) - free service
   - Firefox / Settings / Privacy & Security: DNS over HTTPS, enable Max and set to <https://dns.quad9.net/dns-query>
   - Android / Settings / Network & Internet / Private DNS: Set Private DNS provider hostname to <dns.quad9.net>
+  - Starlink App / Settings / Router tab / Custom DNS: Toggle on, enter Primary: 9.9.9.9 and Secondary: 149.112.112.112 (allow 10 min to apply)
 - [Proton Mail Plus](https://proton.me/mail) - email provider, $48/yr
 - [Proton Pass](https://proton.me/pass) - password storage (if using Proton Mail)
 - [BitWarden](https://bitwarden.com/) - password storage
