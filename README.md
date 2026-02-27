@@ -1,6 +1,6 @@
 # Welcome
 
-![Happy Winter](./images/winterwonderland.png)
+![Happy Winter](./images/2026-02-23-moon-halo.png)
 
 ## Diversify
 
