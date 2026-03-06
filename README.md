@@ -1,5 +1,11 @@
 # Welcome
 
+## Professional Python for Analytics (New 2026)
+
+- [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
+- [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
+- [⭐datafun-toolkit](https://github.com/denisecase/datafun-toolkit) - [PyPi package](https://pypi.org/project/datafun-toolkit/) - privacy-aware logging and diagnostics
+
 ![Happy Winter](./images/2026-02-23-moon-halo.png)
 
 ## Diversify
@@ -43,12 +49,6 @@
 ## Templates
 
 - [templates](https://github.com/denisecase/templates) - favorite CI/CD GitHub actions, config files, MkDocs, etc.
-
-## Professional Python for Analytics (New 2026)
-
-- [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
-- [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
-- [⭐datafun-toolkit](https://github.com/denisecase/datafun-toolkit) - [PyPi package](https://pypi.org/project/datafun-toolkit/) - privacy-aware logging and diagnostics
 
 ## Databases for Analytics
 
