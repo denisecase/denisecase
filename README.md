@@ -12,8 +12,8 @@
 - [cintel-02-static-anomalies](https://github.com/denisecase/cintel-02-static-anomalies)
 - [cintel-03-signal-design](https://github.com/denisecase/cintel-03-signal-design)
 - [cintel-04-rolling-monitoring](https://github.com/denisecase/cintel-04-rolling-monitoring)
-- [cintel-05-live-updates](https://github.com/denisecase/cintel-05-live-updates)
-- [cintel-06-drift-detection](https://github.com/denisecase/cintel-06-drift-detection)
+- [cintel-05-drift-detection](https://github.com/denisecase/cintel-05-drift-detection)
+- [cintel-06-continuous-intelligence](https://github.com/denisecase/cintel-06-continuous-intelligence)
 
 ## Web Mining and Interactive Analytics
 
