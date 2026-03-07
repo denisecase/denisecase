@@ -6,6 +6,24 @@
 - [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
 - [⭐datafun-toolkit](https://github.com/denisecase/datafun-toolkit) - [PyPi package](https://pypi.org/project/datafun-toolkit/) - privacy-aware logging and diagnostics
 
+## Continuous Intelligence
+
+- [cintel-01-getting-started](https://github.com/denisecase/cintel-01-getting-started)
+- [cintel-02-static-anomalies](https://github.com/denisecase/cintel-02-static-anomalies)
+- [cintel-03-signal-design](https://github.com/denisecase/cintel-03-signal-design)
+- [cintel-04-rolling-monitoring](https://github.com/denisecase/cintel-04-rolling-monitoring)
+- [cintel-05-live-updates](https://github.com/denisecase/cintel-05-live-updates)
+- [cintel-06-drift-detection](https://github.com/denisecase/cintel-06-drift-detection)
+
+## Web Mining and Interactive Analytics
+
+- [nlp-01-getting-started](https://github.com/denisecase/nlp-01-getting-started)
+- [nlp-02-text-preprocessing](https://github.com/denisecase/nlp-02-text-preprocessing)
+- [nlp-03-text-exploration](https://github.com/denisecase/nlp-03-text-exploration)
+- [nlp-04-api-text-data](https://github.com/denisecase/nlp-04-api-text-data)
+- [nlp-05-web-documents](https://github.com/denisecase/nlp-05-web-documents)
+- [nlp-06-nlp-pipeline](https://github.com/denisecase/nlp-06-nlp-pipeline)
+
 ![Happy Winter](./images/2026-02-23-moon-halo.png)
 
 ## Diversify
