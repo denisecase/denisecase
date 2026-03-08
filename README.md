@@ -15,7 +15,7 @@
 - [cintel-05-drift-detection](https://github.com/denisecase/cintel-05-drift-detection)
 - [cintel-06-continuous-intelligence](https://github.com/denisecase/cintel-06-continuous-intelligence)
 
-## Web Mining and Interactive Analytics
+## Web Mining and Applied Natural Language Processing (NLP)
 
 - [nlp-01-getting-started](https://github.com/denisecase/nlp-01-getting-started)
 - [nlp-02-text-preprocessing](https://github.com/denisecase/nlp-02-text-preprocessing)
