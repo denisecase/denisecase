@@ -67,6 +67,7 @@
 ## Templates
 
 - [templates](https://github.com/denisecase/templates) - favorite CI/CD GitHub actions, config files, MkDocs, etc.
+- [chrome_new_tab_ext](https://github.com/denisecase/chrome_new_tab_ext)
 
 ## Databases for Analytics
 
