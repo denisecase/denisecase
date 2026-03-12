@@ -47,6 +47,10 @@
 - [FUTO Keyboard](https://keyboard.futo.org/) - mobile keyboard with swipe and voice that sends nothing (still in alpha)
 - [Mullvad VPN](https://mullvad.net/) - VPN for 5 devices, $78/yr, Windows 11, Mac, Android
   - Verify at <https://mullvad.net/en/check>
+ 
+## Sign-in Sheet Builder
+
+- [signin-sheet-builder](https://github.com/denisecase/signin-sheet-builder) - when you have too many columns to fit on a landscape page and you want 2 rows per member
 
 ## Generate QR Code (web app)
 
