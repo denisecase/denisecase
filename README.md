@@ -1,5 +1,10 @@
 # Welcome
 
+## Decision Explorer: Data Centers (New 2026)
+
+- [**Try the Interactive Explorer**](https://civic-interconnect.github.io/decision_explorer_data_centers/explorer/)
+- [Source](https://github.com/civic-interconnect/decision_explorer_data_centers)
+
 ## Professional Python for Analytics (New 2026)
 
 - [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
