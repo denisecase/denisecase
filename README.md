@@ -1,9 +1,14 @@
 # Welcome
 
-## Decision Explorer: Data Centers (New 2026)
+## Interactive Explorer: Data Centers
 
 - [**Try the Interactive Explorer**](https://civic-interconnect.github.io/decision_explorer_data_centers/explorer/)
 - [Source](https://github.com/civic-interconnect/decision_explorer_data_centers)
+
+## Interactive Explorer: Age Verification
+
+- [**Try the Interactive Explorer**](https://civic-interconnect.github.io/explorer-age-verification/explorer/)
+- [Source](https://github.com/civic-interconnect/explorer-age-verification)
 
 ## Professional Python for Analytics (New 2026)
 
