@@ -1,5 +1,9 @@
 # Welcome
 
+## Adaptive Tool Discovery (Working with Agents)
+
+-  [adaptive-tool-discovery](https://github.com/adaptive-interfaces/adaptive-tool-discovery) - SKILL.md to learn and map the capabilities of an external tool set
+
 ## Interactive Explorer: Data Centers
 
 - [**Try the Interactive Explorer**](https://civic-interconnect.github.io/decision_explorer_data_centers/explorer/)
