@@ -23,6 +23,14 @@ repeatedly **predicting the next word**, using context windows and training text
 - [**Try the Interactive Explorer**](https://civic-interconnect.github.io/explorer-age-verification/explorer/)
 - [Source](https://github.com/civic-interconnect/explorer-age-verification)
 
+## Multidimensional Evaluation Engine
+
+Explorers are based on the **Multidimensional Evaluation Engine**:
+A domain-neutral engine for multidimensional evaluation under explicit policy assumptions.
+
+- [multidimensional-evaluation-engine](https://github.com/civic-interconnect/multidimensional-evaluation-engine)
+- [On PyPi](https://pypi.org/project/multidimensional-evaluation-engine/)
+
 ## Professional Python for Analytics (New 2026)
 
 - [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
