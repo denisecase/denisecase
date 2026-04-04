@@ -1,5 +1,43 @@
 # Welcome
 
+My work involves making complex systems understandable 
+by making their structure, assumptions, and tradeoffs explicit:
+whether that's how a language model predicts the next token, 
+how an agent discovers what tools it has, or 
+how a community weighs competing options in high-stakes decisions.
+
+I like taking systems that are opaque, implicit, or fragmented
+and making them inspectable, structured, and decision-capable.
+
+## Structural Explainability
+
+- [structural-explainability](https://github.com/structural-explainability) - designing information structures
+  that remain reliable over time, even when interpretations differ.
+  Explores ideas applicable to science, policy, law, civic infrastructure, digital twins, and AI explainability.
+
+## Civic Interconnect
+
+Connecting civic data from public sources to support transparency, interoperability, and civic insights.
+Multidimensional evaluation projects include:
+
+### ⭐Interactive Explorer: Data Centers
+
+- [**Interactive Explorer**](https://civic-interconnect.github.io/decision_explorer_data_centers/explorer/)
+- [Repository](https://github.com/civic-interconnect/decision_explorer_data_centers)
+
+### ⭐Interactive Explorer: Age Verification
+
+- [**Interactive Explorer**](https://civic-interconnect.github.io/explorer-age-verification/explorer/)
+- [Repository](https://github.com/civic-interconnect/explorer-age-verification)
+
+### Multidimensional Evaluation Engine
+
+Explorers are based on the Multidimensional Evaluation Engine:
+A domain-neutral engine for multidimensional evaluation under explicit policy assumptions.
+
+- [multidimensional-evaluation-engine](https://github.com/civic-interconnect/multidimensional-evaluation-engine)
+- [On PyPi](https://pypi.org/project/multidimensional-evaluation-engine/)
+
 ## Natural Language Processing (LLM/ GPT Exploration)
 
 Hands-on examples of how LLM chatbots (e.g. ChatGPT, Claude, and more) have evolved to get better at 
@@ -12,24 +50,6 @@ repeatedly **predicting the next word**, using context windows and training text
 ## Adaptive Tool Discovery (Working with Agents)
 
 -  [adaptive-tool-discovery](https://github.com/adaptive-interfaces/adaptive-tool-discovery) - SKILL.md to learn and map the capabilities of an external tool set
-
-## Interactive Explorer: Data Centers
-
-- [**Try the Interactive Explorer**](https://civic-interconnect.github.io/decision_explorer_data_centers/explorer/)
-- [Source](https://github.com/civic-interconnect/decision_explorer_data_centers)
-
-## Interactive Explorer: Age Verification
-
-- [**Try the Interactive Explorer**](https://civic-interconnect.github.io/explorer-age-verification/explorer/)
-- [Source](https://github.com/civic-interconnect/explorer-age-verification)
-
-## Multidimensional Evaluation Engine
-
-Explorers are based on the **Multidimensional Evaluation Engine**:
-A domain-neutral engine for multidimensional evaluation under explicit policy assumptions.
-
-- [multidimensional-evaluation-engine](https://github.com/civic-interconnect/multidimensional-evaluation-engine)
-- [On PyPi](https://pypi.org/project/multidimensional-evaluation-engine/)
 
 ## Professional Python for Analytics (New 2026)
 
@@ -87,11 +107,6 @@ A domain-neutral engine for multidimensional evaluation under explicit policy as
 
 - [Web App](https://denisecase.github.io/qr-gen/) - generate a QR code from a web link or text
 - [App Repo](https://github.com/denisecase/qr-gen)
-
-## Neutral Substrates
-
-- [structural-explainability](https://github.com/structural-explainability) - designing information structures that remain reliable over time, even when interpretations differ.
-  Explores ideas applicable to science, policy, law, civic infrastructure, digital twins, and AI explainability.
 
 ## Templates
 
