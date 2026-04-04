@@ -17,7 +17,8 @@ and making them inspectable, structured, and decision-capable.
 
 ## Civic Interconnect
 
-Connecting civic data from public sources to support transparency, interoperability, and civic insights.
+Structured tools for making competing values and policy assumptions 
+visible in high-stakes civic decisions. 
 Multidimensional evaluation projects include:
 
 ### ⭐Interactive Explorer: Data Centers
@@ -59,6 +60,9 @@ repeatedly **predicting the next word**, using context windows and training text
 
 ## Continuous Intelligence
 
+A seven-module curriculum for building real-time anomaly detection, 
+signal monitoring, and drift-detection systems in Python:
+
 - [cintel-01-getting-started](https://github.com/denisecase/cintel-01-getting-started)
 - [cintel-02-static-anomalies](https://github.com/denisecase/cintel-02-static-anomalies)
 - [cintel-03-signal-design](https://github.com/denisecase/cintel-03-signal-design)
@@ -68,12 +72,16 @@ repeatedly **predicting the next word**, using context windows and training text
 
 ## Web Mining and Applied Natural Language Processing (NLP)
 
+A seven-module curriculum covering text preprocessing, exploration, 
+API data collection, web scraping, and NLP pipelines.
+
 - [nlp-01-getting-started](https://github.com/denisecase/nlp-01-getting-started)
 - [nlp-02-text-preprocessing](https://github.com/denisecase/nlp-02-text-preprocessing)
 - [nlp-03-text-exploration](https://github.com/denisecase/nlp-03-text-exploration)
 - [nlp-04-api-text-data](https://github.com/denisecase/nlp-04-api-text-data)
 - [nlp-05-web-documents](https://github.com/denisecase/nlp-05-web-documents)
 - [nlp-06-nlp-pipeline](https://github.com/denisecase/nlp-06-nlp-pipeline)
+- [toy-gpt exploration](https://github.com/toy-gpt)
 
 ![Happy Winter](./images/2026-02-23-moon-halo.png)
 
