@@ -1,10 +1,13 @@
 # Welcome
 
-## GPT Exploration
+## Natural Language Processing (LLM/ GPT Exploration)
 
-- [App](https://toy-gpt.github.io/toy-gpt-chat/) - interactive visualization of next-token prediction in GPT-style language models
-- [App Repo](https://github.com/toy-gpt/toy-gpt-chat)
-- [Training Models](https://github.com/toy-gpt/) - language models trained on example corpora
+Hands-on examples of how LLM chatbots (e.g. ChatGPT, Claude, and more) have evolved to get better at 
+repeatedly **predicting the next word**, using context windows and training text.
+
+- [App (Text Prediction)](https://toy-gpt.github.io/toy-gpt-chat/) - interactive next-token prediction in GPT-style language models
+- [App (Text Prediction) Source Repo](https://github.com/toy-gpt/toy-gpt-chat)
+- [Introduction and Pre-Trained Models](https://github.com/toy-gpt/) - progressive examples showing how pre-trained models with different context windows (e.g. 0, 1, 2, or 3 prior words) and different types of training text (e.g., neutral vs structured) shape **next token predictions**
 
 ## Adaptive Tool Discovery (Working with Agents)
 
