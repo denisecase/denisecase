@@ -48,11 +48,19 @@ repeatedly **predicting the next word**, using context windows and training text
 - [App (Text Prediction) Source Repo](https://github.com/toy-gpt/toy-gpt-chat)
 - [Introduction and Pre-Trained Models](https://github.com/toy-gpt/) - progressive examples showing how pre-trained models with different context windows (e.g. 0, 1, 2, or 3 prior words) and different types of training text (e.g., neutral vs structured) shape **next token predictions**
 
-## Adaptive Tool Discovery (Working with Agents)
+## Adaptive Interfaces
 
--  [adaptive-tool-discovery](https://github.com/adaptive-interfaces/adaptive-tool-discovery) - SKILL.md to learn and map the capabilities of an external tool set
+Tools and conventions for helping AI agents understand, navigate, and 
+work reliably with external systems. (Uses **SKILL.md** conventions.)
+
+- [Adaptive Conformance Specification (ACS)](https://github.com/adaptive-interfaces/adaptive-conformance-specification) - foundational behavioral protocol: observe, infer, and conform before generating any artifact
+- [Adaptive Tool Discovery (ATD)](https://github.com/adaptive-interfaces/adaptive-tool-discovery) - maps the capabilities of an external tool set
+- [Adaptive Onboarding (AO)](https://github.com/adaptive-interfaces/adaptive-onboarding) - builds the context to work as a member of a specific team or project (conventions, ownership, norms)
 
 ## Professional Python for Analytics (New 2026)
+
+Standards-based tooling and guides for professional Python analytics workflows, 
+using uv, ruff, Zensical, and modern project conventions.
 
 - [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
 - [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
