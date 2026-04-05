@@ -57,6 +57,10 @@ work reliably with external systems. (Uses **SKILL.md** conventions.)
 - [Adaptive Tool Discovery (ATD)](https://github.com/adaptive-interfaces/adaptive-tool-discovery) - maps the capabilities of an external tool set
 - [Adaptive Onboarding (AO)](https://github.com/adaptive-interfaces/adaptive-onboarding) - builds the context to work as a member of a specific team or project (conventions, ownership, norms)
 
+Example:
+
+- [https://github.com/denisecase/.adaptive](https://github.com/denisecase/.adaptive)
+
 ## Professional Python for Analytics (New 2026)
 
 Standards-based tooling and guides for professional Python analytics workflows, 
