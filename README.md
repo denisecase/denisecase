@@ -118,6 +118,7 @@ API data collection, web scraping, and NLP pipelines.
 - [FUTO Keyboard](https://keyboard.futo.org/) - mobile keyboard with swipe and voice that sends nothing (still in alpha)
 - [Mullvad VPN](https://mullvad.net/) - VPN for 5 devices, $78/yr, Windows 11, Mac, Android
   - Verify at <https://mullvad.net/en/check>
+  - Settings / Local network sharing / Allow LAN traffic ON for WiFi Printer (or use split tunneling)
  
 ## Sign-in Sheet Builder
 
