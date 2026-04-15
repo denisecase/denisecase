@@ -144,6 +144,8 @@ API data collection, web scraping, and NLP pipelines.
 
 ## Data Analytics Fundamentals
 
+A seven-module curriculum for learning professional Python fundamentals for data analytics:
+
 - [IntroToPython](https://github.com/denisecase/IntroToPython) - professional project setup for the [textbook examples](https://github.com/pdeitel/IntroToPython)
 - [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - professional Python foundations
 - [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - automation with repetition, ranges, list comprehensions, delays
