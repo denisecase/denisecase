@@ -74,6 +74,39 @@ using uv, ruff, Zensical, and modern project conventions.
 
 - [Syllabus Generator](https://github.com/denisecase/syllabus-generator) - build from TOML and a template
 
+## Data Analytics Fundamentals
+
+A seven-module curriculum for learning professional Python fundamentals for data analytics:
+
+- [IntroToPython](https://github.com/denisecase/IntroToPython) - professional project setup for the [textbook examples](https://github.com/pdeitel/IntroToPython)
+- [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - professional Python foundations
+- [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - automation with repetition, ranges, list comprehensions, delays
+- [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - read, process, write text and structured data
+- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
+- [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
+- [datafun-06-applied](https://github.com/denisecase/datafun-06-applied) - applied analytics project
+- [datafun-07-regression](https://github.com/denisecase/datafun-07-regression) - linear regression and prediction
+
+## Data Analytics Fundamentals: Automation and Maintenance
+
+- [datafun-00-admin](https://github.com/denisecase/datafun-00-admin) - maintaining and updating course repos
+
+## Streaming Data
+
+A seven-module curriculum for professional streaming data pipelines in Python:
+
+- [streaming-01-foundations](https://github.com/denisecase/streaming-01-foundations) - Python generator and simulated data streams
+- [streaming-02-kafka](https://github.com/denisecase/streaming-02-kafka) - Kafka producers and consumers
+- [streaming-03-data](https://github.com/denisecase/streaming-03-data) - structured and semi-structured streaming data
+- [streaming-04-visualization](https://github.com/denisecase/streaming-04-visualization) - live charts and real-time updates
+- [streaming-05-storage](https://github.com/denisecase/streaming-05-storage) - streaming data and databases
+- [streaming-06-scenarios](https://github.com/denisecase/streaming-06-scenarios) - streaming scenarios
+- [streaming-07-applied](https://github.com/denisecase/streaming-07-applied) - applied streaming and presentation
+
+## Streaming Data: Automation and Maintenance
+
+- [streaming-00-admin](https://github.com/denisecase/streaming-00-admin) - maintaining and updating course repos
+
 ## Continuous Intelligence
 
 A seven-module curriculum for building real-time anomaly detection, 
@@ -141,23 +174,6 @@ API data collection, web scraping, and NLP pipelines.
 ## Databases for Analytics
 
 - [databases-for-analytics](https://github.com/denisecase/databases-for-analytics)
-
-## Data Analytics Fundamentals
-
-A seven-module curriculum for learning professional Python fundamentals for data analytics:
-
-- [IntroToPython](https://github.com/denisecase/IntroToPython) - professional project setup for the [textbook examples](https://github.com/pdeitel/IntroToPython)
-- [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - professional Python foundations
-- [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - automation with repetition, ranges, list comprehensions, delays
-- [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - read, process, write text and structured data
-- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
-- [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
-- [datafun-06-applied](https://github.com/denisecase/datafun-06-applied) - applied analytics project
-- [datafun-07-regression](https://github.com/denisecase/datafun-07-regression) - linear regression and prediction
-
-## Data Analytics Fundamentals: Automation and Maintenance
-
-- [datafun-00-admin](https://github.com/denisecase/datafun-00-admin) - maintaining and updating course repos
 
 ## Applied Machine Learning
 
