@@ -102,7 +102,6 @@ A seven-module curriculum for professional streaming data pipelines in Python:
 - [streaming-04-visualization](https://github.com/denisecase/streaming-04-visualization) - live charts and real-time updates
 - [streaming-05-storage](https://github.com/denisecase/streaming-05-storage) - streaming data and databases
 - [streaming-06-scenarios](https://github.com/denisecase/streaming-06-scenarios) - streaming scenarios
-- [streaming-07-applied](https://github.com/denisecase/streaming-07-applied) - applied streaming and presentation
 
 ## Streaming Data: Automation and Maintenance
 
