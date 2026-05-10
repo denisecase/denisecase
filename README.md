@@ -98,7 +98,7 @@ A seven-module curriculum for professional streaming data pipelines in Python:
 
 - [streaming-01-foundations](https://github.com/denisecase/streaming-01-foundations) - Python generator and simulated data streams
 - [streaming-02-kafka](https://github.com/denisecase/streaming-02-kafka) - Kafka producers and consumers
-- [streaming-03-data](https://github.com/denisecase/streaming-03-data) - structured and semi-structured streaming data
+- [streaming-03-analytics](https://github.com/denisecase/streaming-03-analytics) - adding derived fields and validation
 - [streaming-04-visualization](https://github.com/denisecase/streaming-04-visualization) - live charts and real-time updates
 - [streaming-05-storage](https://github.com/denisecase/streaming-05-storage) - streaming data and databases
 - [streaming-06-scenarios](https://github.com/denisecase/streaming-06-scenarios) - streaming scenarios
