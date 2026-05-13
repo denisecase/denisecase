@@ -383,16 +383,6 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [nw-diagnostics-python](https://github.com/denisecase/nw-diagnostics-python)
 - [datafun-00-python-virtual-env](https://github.com/denisecase/datafun-00-python-virtual-env)
 
-## CI Specs
-
-- [cintel-01-spec](https://github.com/denisecase/cintel-01-spec)
-- [cintel-02-spec](https://github.com/denisecase/cintel-02-spec)
-- [cintel-03-spec](https://github.com/denisecase/cintel-03-spec)
-- [cintel-04-spec](https://github.com/denisecase/cintel-04-spec)
-- [cintel-05-spec](https://github.com/denisecase/cintel-05-spec)
-- [cintel-06-spec](https://github.com/denisecase/cintel-06-spec)
-- [cintel-07-spec](https://github.com/denisecase/cintel-07-spec)
-  
 ## Digital Forensics
 
 - [digital-forensics-resources](https://github.com/denisecase/digital-forensics-resources)
