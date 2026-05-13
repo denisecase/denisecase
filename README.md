@@ -421,14 +421,6 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [cintel-06-spec](https://github.com/denisecase/cintel-06-spec)
 - [cintel-07-spec](https://github.com/denisecase/cintel-07-spec)
   
-## Northwoods
-
-- [Meal Planner](https://denisecase.github.io/meal-planner/)
-- [Select and Sort](https://denisecase.github.io/select-and-sort/)
-- [Freeze Tracker](https://github.com/denisecase/freeze-tracker)
-- [Northwoods](https://github.com/denisecase/Northwoods)
-- [JFC](https://github.com/denisecase/johnson-family-cabin)
-
 ## Digital Forensics
 
 - [digital-forensics-resources](https://github.com/denisecase/digital-forensics-resources)
@@ -438,32 +430,6 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 - [dfir-pwsh-forensic-copy](https://github.com/denisecase/dfir-pwsh-forensic-copy)
 - [dfir-pwsh-file-recovery](https://github.com/denisecase/dfir-pwsh-file-recovery)
 - [df-mod6-mobile](https://github.com/denisecase/df-mod6-mobile)
-
-## World Quantum Day - April 14
-
-- [World Quantum Day: Questions on Applied QC](https://github.com/denisecase/world-quantum-day-2024)
-
-## Alexa Skills
-
-_Beginner-friendly - 
-these skills are great for students to explore GitHub, open-source, and Alexa projects. 
-Schedules can be updated with no coding experience - 
-follow a link below and look in lambda/games.json to see how easy it is to update the schedule when a new season begins._ 
-
-Skills to ask Alexa about upcoming local games in Ely Minnesota. [❄](https://www.wunderground.com/forecast/us/mn/ely)
-
-- [TimberwolfTracker-BoysBasketball](https://github.com/denisecase/TimberwolfTracker-BoysBasketball)
-- [TimberwolfTracker-GirlsBasketball](https://github.com/denisecase/TimberwolfTracker-GirlsBasketball)
-- [TimberwolfTracker-GirlsVolleyball](https://github.com/denisecase/TimberwolfTracker-GirlsVolleyball)
-
-## Top Three
-
-- [Top Three](https://github.com/denisecase/top-three)
-
-## ArcDraw
-
-- [ArcDraw source repo](https://github.com/brucehjohnson/ArcDraw) 
-- [ArcDraw my fork](https://github.com/denisecase/ArcDraw) 
 
 ## Local Life
 
