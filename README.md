@@ -130,6 +130,9 @@ derived fields, validation, visualization, storage, and applied streaming scenar
 - [streaming-04-visualization](https://github.com/denisecase/streaming-04-visualization) - live charts and real-time updates
 - [streaming-05-storage](https://github.com/denisecase/streaming-05-storage) - streaming data and databases
 - [streaming-06-scenarios](https://github.com/denisecase/streaming-06-scenarios) - streaming scenarios
+- [kafka-producer-earthquake](https://github.com/denisecase/kafka-producer-earthquake) - Kafka producer for streaming earthquake data from USGS API
+- [dc-mailer](https://github.com/denisecase/dc-mailer)
+- [dc-texter](https://github.com/denisecase/dc-texter)
 
 ## Streaming Data: Automation and Maintenance
 
@@ -147,6 +150,8 @@ and continuous intelligence systems.
 - [cintel-04-rolling-monitoring](https://github.com/denisecase/cintel-04-rolling-monitoring)
 - [cintel-05-drift-detection](https://github.com/denisecase/cintel-05-drift-detection)
 - [cintel-06-continuous-intelligence](https://github.com/denisecase/cintel-06-continuous-intelligence)
+- [cintel-stock-response](https://github.com/denisecase/cintel-stock-response)
+- [fetch-data-weather](https://github.com/denisecase/fetch-data-weather)
 
 ## Web Mining and Applied Natural Language Processing (NLP)
 
@@ -331,26 +336,6 @@ Early work:
 - [smart-sales-duckdb-sql](https://github.com/denisecase/smart-sales-duckdb-sql)
 - [smart-sales-duckdb-sql-python](https://github.com/denisecase/smart-sales-duckdb-sql-python)
 
-## Streaming Data
-
-- [buzzline-01-case](https://github.com/denisecase/buzzline-01-case) - Python generators for streaming pipelines
-- [buzzline-02-case](https://github.com/denisecase/buzzline-02-case) - Kafka pipelines for streaming data
-- [buzzline-03-case](https://github.com/denisecase/buzzline-03-case) - Kafka pipelines for streaming structured and semi-structured data
-- [buzzline-04-case](https://github.com/denisecase/buzzline-04-case) - Kafka pipelines with live visualizations
-- [buzzline-05-case](https://github.com/denisecase/buzzline-05-case) - Kafka pipelines with data storage
-- [buzzline-06-world](https://github.com/denisecase/buzzline-06-world) - Simulated historical analysis of streaming data worlds
-- [buzzline-06-private](https://github.com/denisecase/buzzline-06-private) - Instructor only civic world simulation
-- [kafka-producer-earthquake](https://github.com/denisecase/kafka-producer-earthquake) - Kafka producer for streaming earthquake data from USGS API
-- [dc-mailer](https://github.com/denisecase/dc-mailer)
-- [dc-texter](https://github.com/denisecase/dc-texter)
-
-## Apache Kafka / Spark Starter Template (for Apache tools)
-- [pro-analytics-apache-starter](https://github.com/denisecase/pro-analytics-apache-starter) - keep JDK, JAVA_HOME, etc isolated
-
-## Xcode 15 and GitHub
-
-- [Guide: Save Your SwiftUI Project Progress to GitHub Using XCode 15+](https://github.com/denisecase/guide-xcode-to-github)
-
 ## World Diabetes Day - November 14
 
 [World Diabetes Day (WDD)](https://worlddiabetesday.org/) is the world’s largest diabetes awareness campaign reaching a global audience of over 1 billion people in over 160 countries.
@@ -397,19 +382,6 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 
 - [nw-diagnostics-python](https://github.com/denisecase/nw-diagnostics-python)
 - [datafun-00-python-virtual-env](https://github.com/denisecase/datafun-00-python-virtual-env)
-
-## Continuous Intelligence and Interactive Analytics
-
-- [pyshiny-tips-dashboard-express](https://github.com/denisecase/pyshiny-tips-dashboard-express)
-- [pyshiny-penguins-dashboard-express](https://github.com/denisecase/pyshiny-penguins-dashboard-express)
-- [pyshiny-penguins-dashboard-core](https://github.com/denisecase/pyshiny-penguins-dashboard-core)
-- [cintel-01-getting-started](https://github.com/denisecase/cintel-01-getting-started)
-- [cintel-02-app](https://github.com/denisecase/cintel-02-app)
-- [cintel-03-data](https://github.com/denisecase/cintel-03-data)
-- [cintel-04-reactive](https://github.com/denisecase/cintel-04-reactive)
-- [cintel-05-live-updates](https://github.com/denisecase/cintel-05-live-updates)
-- [cintel-stock-response](https://github.com/denisecase/cintel-stock-response)
-- [fetch-data-weather](https://github.com/denisecase/fetch-data-weather)
 
 ## CI Specs
 
