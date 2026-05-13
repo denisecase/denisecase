@@ -39,32 +39,53 @@ A domain-neutral engine for multidimensional evaluation under explicit policy as
 - [multidimensional-evaluation-engine](https://github.com/civic-interconnect/multidimensional-evaluation-engine)
 - [On PyPi](https://pypi.org/project/multidimensional-evaluation-engine/)
 
-## Natural Language Processing (LLM/ GPT Exploration)
+## Selected Curriculum, Software, and Course-Architecture Work
 
-Hands-on examples of how LLM chatbots (e.g. ChatGPT, Claude, and more) have evolved to get better at 
-repeatedly **predicting the next word**, using context windows and training text.
+I design and maintain durable, project-centered curriculum ecosystems for applied computing, 
+data analytics, streaming data, continuous intelligence, web mining, natural language processing, 
+and professional Python workflows. 
+These courses use repeatable module patterns, modern Python tooling, GitHub-based project practice, 
+and student-facing repositories designed to encourage reusable professional workflows, 
+support independent progress, and build transferable technical skills.
 
+## Natural Language Processing and LLM/GPT Exploration
+
+Developed hands-on examples showing how GPT-style language models repeatedly predict the next token 
+using training text, context windows, and learned patterns. 
+Materials include an interactive text-prediction app and progressive examples 
+comparing pre-trained models with different context-window sizes and 
+different training-text structures. 
+Used to explore how context, training data, and model design shape 
+next-token predictions in language-model behavior.
+
+Artifacts include:
+
+- Interactive GPT-style next-token prediction app and source repo
+- Progressive examples using 0, 1, 2, and 3-word context windows
+- Comparisons using neutral and structured training text
+- `toy-gpt` exploration materials
 - [App (Text Prediction)](https://toy-gpt.github.io/toy-gpt-chat/) - interactive next-token prediction in GPT-style language models
 - [App (Text Prediction) Source Repo](https://github.com/toy-gpt/toy-gpt-chat)
-- [Introduction and Pre-Trained Models](https://github.com/toy-gpt/) - progressive examples showing how pre-trained models with different context windows (e.g. 0, 1, 2, or 3 prior words) and different types of training text (e.g., neutral vs structured) shape **next token predictions**
+- [Introduction and Pre-Trained Models](https://github.com/toy-gpt/) - progressive example training repos
 
 ## Adaptive Interfaces
 
-Tools and conventions for helping AI agents understand, navigate, and 
-work reliably with external systems. (Uses **SKILL.md** conventions.)
+Developed tools and conventions that help AI agents understand, navigate, and 
+work reliably with external systems. 
+The work uses explicit project conventions, including SKILL.md-based guidance, 
+to support agent conformance, tool discovery, and project onboarding.
 
-- [Adaptive Conformance Specification (ACS)](https://github.com/adaptive-interfaces/adaptive-conformance-specification) - foundational behavioral protocol: observe, infer, and conform before generating any artifact
-- [Adaptive Tool Discovery (ATD)](https://github.com/adaptive-interfaces/adaptive-tool-discovery) - maps the capabilities of an external tool set
-- [Adaptive Onboarding (AO)](https://github.com/adaptive-interfaces/adaptive-onboarding) - builds the context to work as a member of a specific team or project (conventions, ownership, norms)
+Artifacts include:
 
-Example:
-
-- [https://github.com/denisecase/.adaptive](https://github.com/denisecase/.adaptive)
+- [Adaptive Conformance Specification (ACS)](https://github.com/adaptive-interfaces/adaptive-conformance-specification) -  behavioral protocol for observing, inferring, and conforming before generating artifacts
+- [Adaptive Tool Discovery (ATD)](https://github.com/adaptive-interfaces/adaptive-tool-discovery) - capability mapping for external tool sets
+- [Adaptive Onboarding (AO)](https://github.com/adaptive-interfaces/adaptive-onboarding) - context-building for team/project conventions, ownership, and norms
+- [Example repo](https://github.com/denisecase/.adaptive](https://github.com/denisecase/.adaptive)
 
 ## Professional Python for Analytics (New 2026)
 
-Standards-based tooling and guides for professional Python analytics workflows, 
-using uv, ruff, Zensical, and modern project conventions.
+Created standards-based tooling and guides for professional Python analytics workflows, 
+using uv, ruff, Zensical, GitHub repositories, and modern project conventions.
 
 - [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
 - [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
@@ -73,11 +94,16 @@ using uv, ruff, Zensical, and modern project conventions.
  
 ## Syllabus Generator
 
+Developed a syllabus-generation workflow that builds syllabi from structured TOML data and a 
+reusable template, supporting consistency, maintainability, and efficient updates.
+
 - [Syllabus Generator](https://github.com/denisecase/syllabus-generator) - build from TOML and a template
 
 ## Data Analytics Fundamentals
 
-A seven-module curriculum for learning professional Python fundamentals for data analytics:
+Designed and maintained a seven-module curriculum for professional Python fundamentals in data analytics.
+The curriculum progresses from project setup and Python foundations through automation, 
+structured data processing, notebooks, SQL, applied analytics, and regression.
 
 - [IntroToPython](https://github.com/denisecase/IntroToPython) - professional project setup for the [textbook examples](https://github.com/pdeitel/IntroToPython)
 - [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - professional Python foundations
@@ -94,7 +120,9 @@ A seven-module curriculum for learning professional Python fundamentals for data
 
 ## Streaming Data
 
-A seven-module curriculum for professional streaming data pipelines in Python:
+Designed and maintained a seven-module curriculum for professional streaming data pipelines in Python.
+The curriculum moves from simulated streams to Kafka producers and consumers, 
+derived fields, validation, visualization, storage, and applied streaming scenarios.
 
 - [streaming-01-foundations](https://github.com/denisecase/streaming-01-foundations) - Python generator and simulated data streams
 - [streaming-02-kafka](https://github.com/denisecase/streaming-02-kafka) - Kafka producers and consumers
@@ -109,8 +137,9 @@ A seven-module curriculum for professional streaming data pipelines in Python:
 
 ## Continuous Intelligence
 
-A seven-module curriculum for building real-time anomaly detection, 
-signal monitoring, and drift-detection systems in Python:
+Designed a seven-module curriculum for building real-time anomaly detection, signal monitoring, and drift-detection systems in Python.
+The curriculum emphasizes applied monitoring workflows, signal design, rolling analysis, drift detection, 
+and continuous intelligence systems.
 
 - [cintel-01-getting-started](https://github.com/denisecase/cintel-01-getting-started)
 - [cintel-02-static-anomalies](https://github.com/denisecase/cintel-02-static-anomalies)
@@ -121,8 +150,8 @@ signal monitoring, and drift-detection systems in Python:
 
 ## Web Mining and Applied Natural Language Processing (NLP)
 
-A seven-module curriculum covering text preprocessing, exploration, 
-API data collection, web scraping, and NLP pipelines.
+Designed and maintained a seven-module curriculum covering text preprocessing, text exploration, 
+API-based data collection, web document acquisition, and NLP pipelines.
 
 - [nlp-01-getting-started](https://github.com/denisecase/nlp-01-getting-started)
 - [nlp-02-text-preprocessing](https://github.com/denisecase/nlp-02-text-preprocessing)
