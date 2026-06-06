@@ -41,12 +41,28 @@ A domain-neutral engine for multidimensional evaluation under explicit policy as
 
 ## Selected Curriculum, Software, and Course-Architecture Work
 
-I design and maintain durable, project-centered curriculum ecosystems for applied computing, 
-data analytics, streaming data, continuous intelligence, web mining, natural language processing, 
-and professional Python workflows. 
-These courses use repeatable module patterns, modern Python tooling, GitHub-based project practice, 
-and student-facing repositories designed to encourage reusable professional workflows, 
-support independent progress, and build transferable technical skills.
+I design and maintain **project-centered courses** for applied computing, 
+data analytics, streaming data, continuous intelligence, 
+web mining, and natural language processing using professional Python workflows. 
+The courses reflect the practices and tooling of leading data science and AI programs: 
+GitHub-based projects, 
+real-world datasets, 
+reproducible workflows, 
+Jupyter notebooks, 
+public documentation sites, and modern professional tooling. 
+Course repositories use repeatable module patterns designed to support 
+independent progress, encourage reusable workflows, and 
+build transferable technical skills.
+
+## VS Code Extension to View the Outline of File Comments
+
+Many repository infrastructure files do not have native outlining capabilities, 
+even though they are often organized into sections.
+This extension recognizes comment headers such as: `# === Setup ===` and 
+will show sections in the VS Code **Outline** view.
+
+- [Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=DeniseCase.comment-section-outline)
+- [View Source code](https://github.com/denisecase/section-comment-outline)
 
 ## Natural Language Processing and LLM/GPT Exploration
 
