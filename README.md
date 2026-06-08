@@ -184,6 +184,15 @@ API-based data collection, web document acquisition, and NLP pipelines.
 
 ![Happy Winter](./images/2026-02-23-moon-halo.png)
 
+## Additional Educational Resources
+
+- [Harvard CS109](https://harvard-iacs.github.io/2021-CS109A/)
+- [Aurélien Géron's "Hands-On Machine Learning" notebooks](https://github.com/ageron/data) - example code for O'Reilly 3rd ed.
+- See Fig 2-14 from 02_end_to_end_machine_learning_project.ipynb for scatter_matrix / train_test_split / StratifiedShuffleSplit 
+- [UC Berkeley Data 100](https://github.com/DS-100)
+- [Berkeley ds-modules](https://github.com/ds-modules)
+- [Berkeley Data 8](https://data8.org/)
+
 ## Diversify
 
 - [Quad9 DNS Resolver](https://quad9.net/) - free service
