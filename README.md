@@ -107,7 +107,8 @@ using uv, ruff, Zensical, GitHub repositories, and modern project conventions.
 - [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
 - [⭐datafun-toolkit](https://github.com/denisecase/datafun-toolkit) - [PyPi package](https://pypi.org/project/datafun-toolkit/) - privacy-aware logging and diagnostics
 - [⭐datafun-streaming](https://github.com/denisecase/datafun-streaming) - [PyPi package](https://pypi.org/project/datafun-streaming/) - streaming data analytics utilities
- 
+- [templates](https://github.com/denisecase/templates) - template files for repository infrastructure (with [dc-up](https://github.com/denisecase/templates))
+
 ## Syllabus Generator
 
 Developed a syllabus-generation workflow that builds syllabi from structured TOML data and a 
