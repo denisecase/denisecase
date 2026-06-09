@@ -54,6 +54,25 @@ Course repositories use repeatable module patterns designed to support
 independent progress, encourage reusable workflows, and 
 build transferable technical skills.
 
+## Professional Python for Analytics (New 2026)
+
+Created standards-based tooling and guides for professional Python analytics workflows, 
+using uv, ruff, Zensical, GitHub repositories, and modern project conventions.
+
+- [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
+- [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
+
+Listen to the audio guides (watch videos, chat with a specially-trained bot, and more):
+
+- [Workflow A: Set Up Machine](https://notebooklm.google.com/notebook/cb972adf-b31e-455a-804e-76ba39783dc4)
+- [Workflow B: Apply Example Project](https://notebooklm.google.com/notebook/2f486eda-5ea5-4a05-9311-b6373859b82f)
+
+Python packages and project file templates:
+
+- [⭐datafun-toolkit](https://github.com/denisecase/datafun-toolkit) - [PyPi package](https://pypi.org/project/datafun-toolkit/) - privacy-aware logging and diagnostics
+- [⭐datafun-streaming](https://github.com/denisecase/datafun-streaming) - [PyPi package](https://pypi.org/project/datafun-streaming/) - streaming data analytics utilities
+- [templates](https://github.com/denisecase/templates) - template files for repository infrastructure (with [dc-up](https://github.com/denisecase/templates))
+
 ## VS Code Extension to View the Outline of File Comments
 
 Many repository infrastructure files do not have native outlining capabilities, 
@@ -97,24 +116,6 @@ Artifacts include:
 - [Adaptive Tool Discovery (ATD)](https://github.com/adaptive-interfaces/adaptive-tool-discovery) - capability mapping for external tool sets
 - [Adaptive Onboarding (AO)](https://github.com/adaptive-interfaces/adaptive-onboarding) - context-building for team/project conventions, ownership, and norms
 - [Example repo](https://github.com/denisecase/.adaptive](https://github.com/denisecase/.adaptive)
-
-## Professional Python for Analytics (New 2026)
-
-Created standards-based tooling and guides for professional Python analytics workflows, 
-using uv, ruff, Zensical, GitHub repositories, and modern project conventions.
-
-- [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
-- [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
-
-Google NotebookLM Links
-
-- [Workflow A: Set Up Machine](https://notebooklm.google.com/notebook/cb972adf-b31e-455a-804e-76ba39783dc4)
-
-Python packages and project file templates:
-
-- [⭐datafun-toolkit](https://github.com/denisecase/datafun-toolkit) - [PyPi package](https://pypi.org/project/datafun-toolkit/) - privacy-aware logging and diagnostics
-- [⭐datafun-streaming](https://github.com/denisecase/datafun-streaming) - [PyPi package](https://pypi.org/project/datafun-streaming/) - streaming data analytics utilities
-- [templates](https://github.com/denisecase/templates) - template files for repository infrastructure (with [dc-up](https://github.com/denisecase/templates))
 
 ## Syllabus Generator
 
