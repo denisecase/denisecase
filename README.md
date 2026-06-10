@@ -71,7 +71,7 @@ Python packages and project file templates:
 
 - [⭐datafun-toolkit](https://github.com/denisecase/datafun-toolkit) - [PyPi package](https://pypi.org/project/datafun-toolkit/) - privacy-aware logging and diagnostics
 - [⭐datafun-streaming](https://github.com/denisecase/datafun-streaming) - [PyPi package](https://pypi.org/project/datafun-streaming/) - streaming data analytics utilities
-- [templates](https://github.com/denisecase/templates) - template files for repository infrastructure (with [dc-up](https://github.com/denisecase/templates))
+- [templates](https://github.com/denisecase/templates) - template files for repository infrastructure (with [dc-up](https://github.com/denisecase/dc-up))
 
 ## VS Code Extension to View the Outline of File Comments
 
@@ -115,7 +115,7 @@ Artifacts include:
 - [Adaptive Conformance Specification (ACS)](https://github.com/adaptive-interfaces/adaptive-conformance-specification) -  behavioral protocol for observing, inferring, and conforming before generating artifacts
 - [Adaptive Tool Discovery (ATD)](https://github.com/adaptive-interfaces/adaptive-tool-discovery) - capability mapping for external tool sets
 - [Adaptive Onboarding (AO)](https://github.com/adaptive-interfaces/adaptive-onboarding) - context-building for team/project conventions, ownership, and norms
-- [Example repo](https://github.com/denisecase/.adaptive](https://github.com/denisecase/.adaptive)
+- [Example repo](https://github.com/denisecase/.adaptive)
 
 ## Syllabus Generator
 
