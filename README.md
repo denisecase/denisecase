@@ -8,6 +8,7 @@ how a community weighs competing options in high-stakes decisions.
 
 I like taking systems that are opaque, implicit, or fragmented
 and making them inspectable, structured, and decision-capable.
+[RR](https://denisecase.github.io/reading-room/)
 
 ## Structural Explainability
 
