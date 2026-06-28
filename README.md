@@ -169,10 +169,11 @@ regression, ensemble methods, model serving, and professional ML projects.
 - [ml-04-regression](https://github.com/denisecase/ml-04-regression) - regression models and prediction
 - [ml-05-ensembles](https://github.com/denisecase/ml-05-ensembles) - ensemble methods and model comparison
 - [ml-06-serving](https://github.com/denisecase/ml-06-serving) - serving models with FastAPI
-- [ml-penguin-predictor](https://github.com/denisecase/ml-penguin-predictor) - deployed on Render and HF
+- [ml-07-applied](https://github.com/denisecase/ml-07-applied) - employing a deployed model
 
 Apps
 
+- [ml-penguin-predictor](https://github.com/denisecase/ml-penguin-predictor) - deployed on Render and HF
 - [confusion-matrix-explorer (app)](https://denisecase.github.io/confusion-matrix-explorer/app/)
   PyShiny app
 - [confusion-matrix-explorer (repo)](https://github.com/denisecase/confusion-matrix-explorer)
