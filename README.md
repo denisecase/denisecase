@@ -179,6 +179,20 @@ Apps
 - [confusion-matrix-explorer (repo)](https://github.com/denisecase/confusion-matrix-explorer)
 - [Why Do We Square Residuals in Linear Regression?](https://github.com/denisecase/python-ml-linear-regression/)
 
+## Applied Business Intelligence
+Designed a seven-module curriculum for building, analyzing, and communicating
+business intelligence insights using Python, Apache Spark, and PowerBI.
+The curriculum emphasizes data exploration, preparation, warehousing, OLAP reporting,
+storytelling, and an end-to-end BI pipeline with smart sales data.
+
+- [bintel-01-intro](https://github.com/denisecase/bintel-01-intro) - introducing BI and smart sales data
+- [bintel-02-mining](https://github.com/denisecase/bintel-02-mining) - mining and exploring raw data
+- [bintel-03-cleaning](https://github.com/denisecase/bintel-03-cleaning) - cleaning and preparing data for the warehouse
+- [bintel-04-warehouse](https://github.com/denisecase/bintel-04-warehouse) - building and populating a DuckDB data warehouse
+- [bintel-05-reporting](https://github.com/denisecase/bintel-05-reporting) - OLAP reporting with slice, dice, and drilldown
+- [bintel-06-storytelling](https://github.com/denisecase/bintel-06-storytelling) - BI storytelling with Power BI, Spark, and Python
+- [bintel-07-applied](https://github.com/denisecase/bintel-07-applied) - running a BI pipeline end to end
+
 ## Continuous Intelligence
 
 Designed a seven-module curriculum for building real-time anomaly detection, signal monitoring, and drift-detection systems in Python.
