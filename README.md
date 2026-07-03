@@ -223,6 +223,20 @@ API-based data collection, web document acquisition, and NLP pipelines.
 
 ![Happy Winter](./images/2026-02-23-moon-halo.png)
 
+## Genealogy
+
+GEDCOM-based family genealogy archives, with private builder repositories
+for source data processing and public redacted tree sites for family history access.
+
+- [genealogy-clusiau](https://github.com/genealogy-clusiau) & [public tree](https://genealogy-clusiau.github.io/genealogy-tree/)
+
+<!-- 
+- [genealogy-johnson](https://github.com/genealogy-johnson) & [public tree](https://genealogy-johnson.github.io/genealogy-tree/)
+- [genealogy-hall](https://github.com/genealogy-hall) & [public tree](https://genealogy-hall.github.io/genealogy-tree/)
+- [genealogy-kokkinen](https://github.com/genealogy-kokkinen) & [public tree](https://genealogy-kokkinen.github.io/genealogy-tree/) 
+
+-->
+
 ## Additional Educational Resources
 
 - [Harvard CS109](https://harvard-iacs.github.io/2021-CS109A/)
