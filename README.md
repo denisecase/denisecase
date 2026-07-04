@@ -228,7 +228,7 @@ API-based data collection, web document acquisition, and NLP pipelines.
 GEDCOM-based family genealogy archives, with private builder repositories
 for source data processing and public redacted tree sites for family history access.
 
-- [genealogy-clusiau](https://github.com/genealogy-clusiau) & [public tree](https://genealogy-clusiau.github.io/genealogy-tree/)
+- [genealogy-clusiau (org)](https://github.com/genealogy-clusiau) & [public tree](https://genealogy-clusiau.github.io/genealogy-tree/viewer/gedcom-viewer.html)
 
 <!-- 
 - [genealogy-johnson](https://github.com/genealogy-johnson) & [public tree](https://genealogy-johnson.github.io/genealogy-tree/)
