@@ -19,14 +19,15 @@ and making them inspectable, structured, and decision-capable.
 ### Structural Explainability Paper Series
 
 - [Paper 1 SE 100: Neutral Substrates](https://arxiv.org/abs/2601.14271)
-- [Paper 2 SE 200: Referential Regimes (9)](https://arxiv.org/abs/2601.16152)
-- Paper 3 SE 210: Operational Identity
+- [Paper 2 SE 200: Referential Regimes](https://arxiv.org/abs/2601.16152)
+- [Paper 3 SE 210: Operational Identity](https://arxiv.org/abs/2607.20729) with [verification](https://zenodo.org/records/21499599)
 
 | Repository | Focus | Description |
 | ------------------------------------------------------------------------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | [paper-100-neutral-substrate](https://github.com/structural-explainability/paper-100-neutral-substrate) | Neutral substrates | Neutral-substrate design constraint for shared records under persistent interpretive disagreement |
 | [paper-200-identity-regimes](https://github.com/structural-explainability/paper-200-identity-regimes) | Referential regimes | Referential-regime structure required by neutral substrates, deriving six coarse families and nine refined profiles |
 | [paper-210-operational-identity](https://github.com/structural-explainability/paper-210-operational-identity) | Operational identity | Finite audit comparing declared identity regimes with operational identity partitions induced by implementation mechanisms |
+| [se-verification-operational-identity](https://github.com/structural-explainability/se-verification-operational-identity) | Operational identity | Reference-implementation check for finite mathematical core of SE-210, Operational Identity |
 
 ## Civic Interconnect
 
