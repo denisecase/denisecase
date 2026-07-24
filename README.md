@@ -16,7 +16,7 @@ and making them inspectable, structured, and decision-capable.
   that remain reliable over time, even when interpretations differ.
   Explores ideas applicable to science, policy, law, civic infrastructure, digital twins, and AI explainability.
 
-### Structural Explainability Paper Series
+### ⭐ Structural Explainability Paper Series
 
 - [Paper 1 SE 100: Neutral Substrates](https://arxiv.org/abs/2601.14271)
 - [Paper 2 SE 200: Referential Regimes](https://arxiv.org/abs/2601.16152)
@@ -35,12 +35,12 @@ Structured tools for making competing values and policy assumptions
 visible in high-stakes civic decisions.
 Multidimensional evaluation projects include:
 
-### ⭐Interactive Explorer: Data Centers
+### Interactive Explorer: Data Centers
 
 - [**Interactive Explorer**](https://civic-interconnect.github.io/decision_explorer_data_centers/explorer/)
 - [Repository](https://github.com/civic-interconnect/decision_explorer_data_centers)
 
-### ⭐Interactive Explorer: Age Verification
+### Interactive Explorer: Age Verification
 
 - [**Interactive Explorer**](https://civic-interconnect.github.io/explorer-age-verification/explorer/)
 - [Repository](https://github.com/civic-interconnect/explorer-age-verification)
