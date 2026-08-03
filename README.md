@@ -181,7 +181,7 @@ regression, ensemble methods, model serving, and professional ML projects.
 - [ml-03-classification](https://github.com/denisecase/ml-03-classification) - classification models and evaluation
 - [ml-04-regression](https://github.com/denisecase/ml-04-regression) - regression models and prediction
 - [ml-05-ensembles](https://github.com/denisecase/ml-05-ensembles) - ensemble methods and model comparison
-- [ml-06-serving](https://github.com/denisecase/ml-06-serving) - serving models with FastAPI
+- [ml-06-serving](https://github.com/denisecase/ml-06-serving) - serving models
 - [ml-07-applied](https://github.com/denisecase/ml-07-applied) - employing a deployed model
 
 Apps
@@ -203,8 +203,8 @@ storytelling, and an end-to-end BI pipeline with smart sales data.
 - [bintel-03-cleaning](https://github.com/denisecase/bintel-03-cleaning) - cleaning and preparing data for the warehouse
 - [bintel-04-warehouse](https://github.com/denisecase/bintel-04-warehouse) - building and populating a DuckDB data warehouse
 - [bintel-05-reporting](https://github.com/denisecase/bintel-05-reporting) - OLAP reporting with slice, dice, and drilldown
-- [bintel-06-storytelling](https://github.com/denisecase/bintel-06-storytelling) - BI storytelling with Power BI, Spark, and Python
-- [bintel-07-applied](https://github.com/denisecase/bintel-07-applied) - running a BI pipeline end to end
+- [bintel-06-storytelling](https://github.com/denisecase/bintel-06-storytelling) - BI storytelling
+- [bintel-07-applied](https://github.com/denisecase/bintel-07-applied) 
 
 ## Continuous Intelligence
 
