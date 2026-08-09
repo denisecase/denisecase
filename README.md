@@ -51,7 +51,7 @@ Explorers are based on the Multidimensional Evaluation Engine:
 A domain-neutral engine for multidimensional evaluation under explicit policy assumptions.
 
 - [multidimensional-evaluation-engine](https://github.com/civic-interconnect/multidimensional-evaluation-engine)
-- [On PyPi](https://pypi.org/project/multidimensional-evaluation-engine/)
+- [On PyPI](https://pypi.org/project/multidimensional-evaluation-engine/)
 
 ## Selected Curriculum, Software, and Course-Architecture Work
 
@@ -68,7 +68,18 @@ Course repositories use repeatable module patterns designed to support
 independent progress, encourage reusable workflows, and
 build transferable technical skills.
 
-## Professional Python for Analytics (New 2026)
+## Professional Python Project Tooling
+
+Developed the **PUP** tool family to keep a series of academic, instructional,
+research, and applied Python repositories on a consistent professional baseline.
+The tools synchronize shared infrastructure while leaving project-specific content untouched.
+
+- [pup-up](https://github.com/denisecase/pup-up) - [PyPI](https://pypi.org/project/pup-up/) - synchronizes professional repository infrastructure with maintained project templates
+- [pup-check](https://github.com/denisecase/pup-check) - [PyPI](https://pypi.org/project/pup-check/) - checks repository structure and configuration for deterministic internal consistency
+- [pup-clean](https://github.com/denisecase/pup-clean) - [PyPI](https://pypi.org/project/pup-clean/) - prepares instructor repositories for student release by identifying and removing generated evidence and artifacts
+- [pup-core](https://github.com/denisecase/pup-core) - [PyPI](https://pypi.org/project/pup-core/) - shared repository inspection, metadata, path-safety, and project-structure primitives
+
+## Professional Python Guides
 
 Created standards-based tooling and guides for professional Python analytics workflows,
 using uv, ruff, Zensical, GitHub repositories, and modern project conventions.
@@ -83,8 +94,8 @@ Pro-analytics-02 audio guides (watch videos, chat with a specially-trained bot, 
 
 Python packages and project file templates:
 
-- [datafun-toolkit](https://github.com/denisecase/datafun-toolkit) - [PyPi package](https://pypi.org/project/datafun-toolkit/) - privacy-aware logging and diagnostics
-- [datafun-streaming](https://github.com/denisecase/datafun-streaming) - [PyPi package](https://pypi.org/project/datafun-streaming/) - streaming data analytics utilities
+- [datafun-toolkit](https://github.com/denisecase/datafun-toolkit) - [PyPI package](https://pypi.org/project/datafun-toolkit/) - privacy-aware logging and diagnostics
+- [datafun-streaming](https://github.com/denisecase/datafun-streaming) - [PyPI package](https://pypi.org/project/datafun-streaming/) - streaming data analytics utilities
 - [templates](https://github.com/denisecase/templates) - template files for repository infrastructure (with [dc-up](https://github.com/denisecase/dc-up))
 
 ## VS Code Extension to View the Outline of File Comments
