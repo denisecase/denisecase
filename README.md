@@ -29,30 +29,6 @@ and making them inspectable, structured, and decision-capable.
 | [paper-210-operational-identity](https://github.com/structural-explainability/paper-210-operational-identity) | Operational identity | Finite audit comparing declared identity regimes with operational identity partitions induced by implementation mechanisms |
 | [se-verification-operational-identity](https://github.com/structural-explainability/se-verification-operational-identity) | Operational identity | Reference-implementation check for finite mathematical core of SE-210, Operational Identity |
 
-## Civic Interconnect
-
-Structured tools for making competing values and policy assumptions
-visible in high-stakes civic decisions.
-Multidimensional evaluation projects include:
-
-### Interactive Explorer: Data Centers
-
-- [**Interactive Explorer**](https://civic-interconnect.github.io/decision_explorer_data_centers/explorer/)
-- [Repository](https://github.com/civic-interconnect/decision_explorer_data_centers)
-
-### Interactive Explorer: Age Verification
-
-- [**Interactive Explorer**](https://civic-interconnect.github.io/explorer-age-verification/explorer/)
-- [Repository](https://github.com/civic-interconnect/explorer-age-verification)
-
-### Multidimensional Evaluation Engine
-
-Explorers are based on the Multidimensional Evaluation Engine:
-A domain-neutral engine for multidimensional evaluation under explicit policy assumptions.
-
-- [multidimensional-evaluation-engine](https://github.com/civic-interconnect/multidimensional-evaluation-engine)
-- [On PyPI](https://pypi.org/project/multidimensional-evaluation-engine/)
-
 ## Selected Curriculum, Software, and Course-Architecture Work
 
 I design and maintain **project-centered courses** for applied computing,
@@ -343,6 +319,30 @@ Uses `pip` and `venv` with `requirements.txt`:
 - [Minnesota GIS: Viewer](https://mybinder.org/v2/gh/denisecase/gis-mn-civic/HEAD?urlpath=voila/render/main.ipynb)
   - [Minnesota GIS: Source](https://github.com/denisecase/gis-mn-civic)
 - [Civic Interconnect (organization](https://github.com/civic-interconnect)
+
+## Civic Interconnect
+
+Structured tools for making competing values and policy assumptions
+visible in high-stakes civic decisions.
+Multidimensional evaluation projects include:
+
+### Interactive Explorer: Data Centers
+
+- [**Interactive Explorer**](https://civic-interconnect.github.io/decision_explorer_data_centers/explorer/)
+- [Repository](https://github.com/civic-interconnect/decision_explorer_data_centers)
+
+### Interactive Explorer: Age Verification
+
+- [**Interactive Explorer**](https://civic-interconnect.github.io/explorer-age-verification/explorer/)
+- [Repository](https://github.com/civic-interconnect/explorer-age-verification)
+
+### Multidimensional Evaluation Engine
+
+Explorers are based on the Multidimensional Evaluation Engine:
+A domain-neutral engine for multidimensional evaluation under explicit policy assumptions.
+
+- [multidimensional-evaluation-engine](https://github.com/civic-interconnect/multidimensional-evaluation-engine)
+- [On PyPI](https://pypi.org/project/multidimensional-evaluation-engine/)
 
 ## Built with Zig (Super Fast, Super Fun, Easy Executables)
 
