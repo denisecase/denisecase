@@ -45,6 +45,10 @@ independent progress, encourage reusable workflows, and
 build transferable technical skills.
 
 ## Professional Python Project Tooling
+<img
+src="https://raw.githubusercontent.com/denisecase/pup-clean/main/docs/images/pup.png"
+alt="pup logo"
+width="110">
 
 Developed the **PUP** tool family to keep a series of academic, instructional,
 research, and applied Python repositories on a consistent professional baseline.
@@ -53,7 +57,11 @@ The tools synchronize shared infrastructure while leaving project-specific conte
 - [pup-up](https://github.com/denisecase/pup-up) - [PyPI](https://pypi.org/project/pup-up/) - synchronizes professional repository infrastructure with maintained project templates
 - [pup-check](https://github.com/denisecase/pup-check) - [PyPI](https://pypi.org/project/pup-check/) - checks repository structure and configuration for deterministic internal consistency
 - [pup-clean](https://github.com/denisecase/pup-clean) - [PyPI](https://pypi.org/project/pup-clean/) - prepares instructor repositories for student release by identifying and removing generated evidence and artifacts
+
+Supporting infrastructure:
+
 - [pup-core](https://github.com/denisecase/pup-core) - [PyPI](https://pypi.org/project/pup-core/) - shared repository inspection, metadata, path-safety, and project-structure primitives
+- [templates](https://github.com/denisecase/templates) - opinionated template files for various project types
 
 ## Professional Python Guides
 
