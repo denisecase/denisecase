@@ -54,9 +54,9 @@ Developed the **PUP** tool family to keep a series of academic, instructional,
 research, and applied Python repositories on a consistent professional baseline.
 The tools synchronize shared infrastructure while leaving project-specific content untouched.
 
-- [pup-up](https://github.com/denisecase/pup-up) - [PyPI](https://pypi.org/project/pup-up/) - synchronizes professional repository infrastructure with maintained project templates
-- [pup-check](https://github.com/denisecase/pup-check) - [PyPI](https://pypi.org/project/pup-check/) - checks repository structure and configuration for deterministic internal consistency
-- [pup-clean](https://github.com/denisecase/pup-clean) - [PyPI](https://pypi.org/project/pup-clean/) - prepares instructor repositories for student release by identifying and removing generated evidence and artifacts
+- [pup-up](https://github.com/pup-pack/pup-up) - [PyPI](https://pypi.org/project/pup-up/) - synchronizes professional repository infrastructure with maintained project templates
+- [pup-check](https://github.com/pup-pack/pup-check) - [PyPI](https://pypi.org/project/pup-check/) - checks repository structure and configuration for deterministic internal consistency
+- [pup-clean](https://github.com/pup-pack/pup-clean) - [PyPI](https://pypi.org/project/pup-clean/) - prepares instructor repositories for student release by identifying and removing generated evidence and artifacts
 
 Supporting infrastructure:
 
