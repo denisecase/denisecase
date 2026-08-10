@@ -60,7 +60,7 @@ The tools synchronize shared infrastructure while leaving project-specific conte
 
 Supporting infrastructure:
 
-- [pup-core](https://github.com/denisecase/pup-core) - [PyPI](https://pypi.org/project/pup-core/) - shared repository inspection, metadata, path-safety, and project-structure primitives
+- [pup-core](https://github.com/pup-pack/pup-core) - [PyPI](https://pypi.org/project/pup-core/) - shared repository inspection, metadata, path-safety, and project-structure primitives
 - [templates](https://github.com/denisecase/templates) - opinionated template files for various project types
 
 ## Professional Python Guides
