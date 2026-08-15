@@ -22,12 +22,37 @@ and making them inspectable, structured, and decision-capable.
 - [Paper 2 SE 200: Referential Regimes](https://arxiv.org/abs/2601.16152)
 - [Paper 3 SE 210: Operational Identity](https://arxiv.org/abs/2607.20729) with [verification](https://zenodo.org/records/21499599)
 
-| Repository | Focus | Description |
-| ------------------------------------------------------------------------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [paper-100-neutral-substrate](https://github.com/structural-explainability/paper-100-neutral-substrate) | Neutral substrates | Neutral-substrate design constraint for shared records under persistent interpretive disagreement |
-| [paper-200-identity-regimes](https://github.com/structural-explainability/paper-200-identity-regimes) | Referential regimes | Referential-regime structure required by neutral substrates, deriving six coarse families and nine refined profiles |
-| [paper-210-operational-identity](https://github.com/structural-explainability/paper-210-operational-identity) | Operational identity | Finite audit comparing declared identity regimes with operational identity partitions induced by implementation mechanisms |
-| [se-verification-operational-identity](https://github.com/structural-explainability/se-verification-operational-identity) | Operational identity | Reference-implementation check for finite mathematical core of SE-210, Operational Identity |
+| Repository                                                                                                                | Focus                | Description                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [paper-100-neutral-substrate](https://github.com/structural-explainability/paper-100-neutral-substrate)                   | Neutral substrates   | Neutral-substrate design constraint for shared records under persistent interpretive disagreement                          |
+| [paper-200-identity-regimes](https://github.com/structural-explainability/paper-200-identity-regimes)                     | Referential regimes  | Referential-regime structure required by neutral substrates, deriving six coarse families and nine refined profiles        |
+| [paper-210-operational-identity](https://github.com/structural-explainability/paper-210-operational-identity)             | Operational identity | Finite audit comparing declared identity regimes with operational identity partitions induced by implementation mechanisms |
+| [se-verification-operational-identity](https://github.com/structural-explainability/se-verification-operational-identity) | Operational identity | Reference-implementation check for finite mathematical core of SE-210, Operational Identity                                |
+
+## Connected Analytics
+
+A small ecosystem to build professional, inspectable, decision-explicit, and interoperable analytical projects.
+It includes:
+
+- a grammar to express what and why
+- reusable tools to do and see the work
+- reproducible experiments to compare choices and evidence
+- models demonstrating work on real data
+
+The three organizations:
+
+- [composable-data](https://github.com/composable-data) - small, composable vocabularies
+  and protocols for declaring analytical structure, decisions, rationale, experiments, evaluation, and assessment.
+  The decision grammar:
+  grain, target, problem type, selected features and why, split plan, model plan, comparison basis, evaluation, and experiment assessment.
+- [analytics-toolworks](https://github.com/analytics-toolworks) - small, reusable,
+  open-source Python tools for applied analytics:
+  visualization, privacy-preserving evidence logging, and other
+  utilities that automate mechanics without reducing agency.
+- [applied-models](https://github.com/applied-models) - reproducible machine-learning
+  applications on accessible datasets, organized by question (penguin species, customer
+  churn, housing prices), each with a Data Card and Model Card.
+  A home for contributed, comparable model experiments.
 
 ## Selected Curriculum, Software, and Course-Architecture Work
 
@@ -38,13 +63,14 @@ The courses reflect the practices and tooling of leading data science and AI pro
 GitHub-based projects,
 real-world datasets,
 reproducible workflows,
-Jupyter notebooks,
+marimo notebooks,
 public documentation sites, and modern professional tooling.
 Course repositories use repeatable module patterns designed to support
 independent progress, encourage reusable workflows, and
 build transferable technical skills.
 
 ## Professional Python Project Tooling
+
 <img
 src="https://raw.githubusercontent.com/denisecase/pup-clean/main/docs/images/pup.png"
 alt="pup logo"
@@ -56,7 +82,8 @@ The tools synchronize shared infrastructure while leaving project-specific conte
 
 - [pup-up](https://github.com/denisecase/pup-up) - [PyPI](https://pypi.org/project/pup-up/) - synchronizes professional repository infrastructure with maintained project templates
 - [pup-check](https://github.com/denisecase/pup-check) - [PyPI](https://pypi.org/project/pup-check/) - checks repository structure and configuration for deterministic internal consistency
-- [pup-clean](https://github.com/denisecase/pup-clean) - [PyPI](https://pypi.org/project/pup-clean/) - prepares instructor repositories for student release by identifying and removing generated evidence and artifacts
+- [pup-clean](https://github.com/denisecase/pup-clean) - [PyPI](https://pypi.org/project/pup-clean/) - prepares instructor repositories for
+  release by identifying and removing generated evidence and artifacts
 
 Supporting infrastructure:
 
@@ -121,9 +148,12 @@ to support agent conformance, tool discovery, and project onboarding.
 
 Artifacts include:
 
-- [Adaptive Conformance Specification (ACS)](https://github.com/adaptive-interfaces/adaptive-conformance-specification) - behavioral protocol for observing, inferring, and conforming before generating artifacts
-- [Adaptive Tool Discovery (ATD)](https://github.com/adaptive-interfaces/adaptive-tool-discovery) - capability mapping for external tool sets
-- [Adaptive Onboarding (AO)](https://github.com/adaptive-interfaces/adaptive-onboarding) - context-building for team/project conventions, ownership, and norms
+- [Adaptive Conformance Specification (ACS)](https://github.com/adaptive-interfaces/adaptive-conformance-specification) -
+  behavioral protocol for observing, inferring, and conforming before generating artifacts
+- [Adaptive Tool Discovery (ATD)](https://github.com/adaptive-interfaces/adaptive-tool-discovery) -
+  capability mapping for external tool sets
+- [Adaptive Onboarding (AO)](https://github.com/adaptive-interfaces/adaptive-onboarding) -
+  context-building for team/project conventions, ownership, and norms
 - [Example repo](https://github.com/denisecase/.adaptive)
 
 ## Syllabus Generator
@@ -188,6 +218,7 @@ Apps
 - [Why Do We Square Residuals in Linear Regression?](https://github.com/denisecase/python-ml-linear-regression/)
 
 ## Applied Business Intelligence
+
 Designed a seven-module curriculum for building, analyzing, and communicating
 business intelligence insights using Python, Apache Spark, and PowerBI.
 The curriculum emphasizes data exploration, preparation, warehousing, OLAP reporting,
@@ -199,7 +230,7 @@ storytelling, and an end-to-end BI pipeline with smart sales data.
 - [bintel-04-warehouse](https://github.com/denisecase/bintel-04-warehouse) - building and populating a DuckDB data warehouse
 - [bintel-05-reporting](https://github.com/denisecase/bintel-05-reporting) - OLAP reporting with slice, dice, and drilldown
 - [bintel-06-storytelling](https://github.com/denisecase/bintel-06-storytelling) - BI storytelling
-- [bintel-07-applied](https://github.com/denisecase/bintel-07-applied) 
+- [bintel-07-applied](https://github.com/denisecase/bintel-07-applied)
 
 ## Continuous Intelligence
 
@@ -239,9 +270,9 @@ for source data processing and public redacted tree sites for family history acc
 - [genealogy-clusiau (org)](https://github.com/genealogy-clusiau) & [public tree](https://genealogy-clusiau.github.io/genealogy-tree/viewer/gedcom-viewer.html)
 - [genealogy-johnson (org)](https://github.com/genealogy-johnson) & [public tree](https://genealogy-johnson.github.io/genealogy-tree/viewer/gedcom-viewer.html)
 
-<!-- 
+<!--
 - [genealogy-hall](https://github.com/genealogy-hall) & [public tree](https://genealogy-hall.github.io/genealogy-tree/)
-- [genealogy-kokkinen](https://github.com/genealogy-kokkinen) & [public tree](https://genealogy-kokkinen.github.io/genealogy-tree/) 
+- [genealogy-kokkinen](https://github.com/genealogy-kokkinen) & [public tree](https://genealogy-kokkinen.github.io/genealogy-tree/)
 -->
 
 ## Additional Educational Resources
@@ -256,11 +287,14 @@ for source data processing and public redacted tree sites for family history acc
 ## Diversify
 
 - [Quad9 DNS Resolver](https://quad9.net/) - free service
-  - Firefox / Settings / Privacy & Security: DNS over HTTPS, enable Max and set to <https://dns.quad9.net/dns-query> OR add Mullvad VPN and set to Default.
-  - Chrome / Settings / Privacy & Security / Security / Use secure DNS: toggle on, select Custom, enter <https://dns.quad9.net/dns-query>
+  - Firefox / Settings / Privacy & Security:
+    DNS over HTTPS, enable Max and set to <https://dns.quad9.net/dns-query> OR add Mullvad VPN and set to Default.
+  - Chrome / Settings / Privacy & Security / Security / Use secure DNS:
+    toggle on, select Custom, enter <https://dns.quad9.net/dns-query>
   - Android / Settings / Network & Internet / Private DNS: Set Private DNS provider hostname to <dns.quad9.net> OR add Mullvad VPN and set to Automatic.
   - Starlink App / Settings / Router tab / Custom DNS: Toggle on, enter Primary: 9.9.9.9 and Secondary: 149.112.112.112 (allow 10 min to apply)
-  - Windows / Settings / Network & internet / WiFi / Choose the network name / DNS server assignment: click Edit / Toggle on IPV4 / Preferred DNS: 9.9.9.9 DNS over HTTPS: On (automatic template) / Alternate DNS: 149.112.112.112 DNS over HTTPS: On (automatic template) / click Save.
+  - Windows / Settings / Network & internet / WiFi / Choose the network name / DNS server assignment: click Edit / Toggle on IPV4 / Preferred DNS: 9.9.9.9 DNS over HTTPS: On (automatic template) /
+  Alternate DNS: 149.112.112.112 DNS over HTTPS: On (automatic template) / click Save.
   - Verify: <https://on.quad9.net>
 - [Proton Mail Plus](https://proton.me/mail) - email provider, $48/yr
 - [Proton Pass](https://proton.me/pass) - password storage (if using Proton Mail)
@@ -321,7 +355,8 @@ Uses `pip` and `venv` with `requirements.txt`:
 
 ## Civic
 
-- [Life Expectancy at Birth (1960–2022)](https://mybinder.org/v2/gh/denisecase/progress-atlas/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Flife_expectancy_compare.ipynb) - interactive chart to compare life expectancy at birth by country, region, or economic classification.
+- [Life Expectancy at Birth (1960–2022)](https://mybinder.org/v2/gh/denisecase/progress-atlas/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Flife_expectancy_compare.ipynb) - interactive chart to compare
+  life expectancy at birth by country, region, or economic classification.
 - [Life Expectancy By Location (Bar Chart Race)](https://youtu.be/Kn0M-vOGjjI) - YouTube video of the top 30 from 1960-2022
   - [Progress Atlas: Source](https://github.com/denisecase/progress-atlas)
 - [Minnesota GIS: Viewer](https://mybinder.org/v2/gh/denisecase/gis-mn-civic/HEAD?urlpath=voila/render/main.ipynb)
@@ -347,15 +382,18 @@ Multidimensional evaluation projects include:
 ### Multidimensional Evaluation Engine
 
 Explorers are based on the Multidimensional Evaluation Engine:
-A domain-neutral engine for multidimensional evaluation under explicit policy assumptions.
+A domain-neutral engine for multidimensional evaluation
+under explicit policy assumptions.
 
 - [multidimensional-evaluation-engine](https://github.com/civic-interconnect/multidimensional-evaluation-engine)
 - [On PyPI](https://pypi.org/project/multidimensional-evaluation-engine/)
 
 ## Built with Zig (Super Fast, Super Fun, Easy Executables)
 
-- ☆[Zig Bill Utils](https://github.com/denisecase/zig-bill-utils) - high-performance toolkit for analyzing U.S. legislative bills.![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-- ☆[Py Bill Utils](https://github.com/denisecase/py-bill-utils) - Python project for analyzing U.S. legislative bills.![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") - uses [Zig Bill Utils](https://github.com/denisecase/zig-bill-utils)
+- ☆[Zig Bill Utils](https://github.com/denisecase/zig-bill-utils) - high-performance toolkit for analyzing U.S.
+  legislative bills.![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+- ☆[Py Bill Utils](https://github.com/denisecase/py-bill-utils) - Python project for analyzing U.S.
+  legislative bills.![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") - uses [Zig Bill Utils](https://github.com/denisecase/zig-bill-utils)
 
 ## Just for Fun
 
@@ -364,16 +402,27 @@ A domain-neutral engine for multidimensional evaluation under explicit policy as
 
 ## Interesting and/or Fun Tech
 
-- [Google NotebookLM](https://notebooklm.google.com/) - AI-generated summaries, Q&A, and podcasts from your own documents and sources.
-- [Meta Quest Virtual Reality](https://www.meta.com/quest/) - immersive games, learning, productivity, and creativity in mixed reality.
-- [Google Apps Script](https://developers.google.com/apps-script) - automate workflows in Google Drive, Docs, Sheets, Gmail, and more using JavaScript-like scripting.
-- [Microsoft Quantum Simulator](https://quantum.microsoft.com/) - Try quantum computing in your browser—no special hardware required.
-- [Learn with Quantum Katas](https://quantum.microsoft.com/en-us/tools/quantum-katas) - interactive notebook tutorials for quantum logic and computation.
-- [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ?hl=en) - interactive experiment blending machine learning with cello-inspired play.
-- [BirdNET – Identify Bird Sounds with ML](https://birdnet.cornell.edu/) - Upload audio or use field device to identify birds by sound with bioacoustics AI.
-- [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace/) - AI-powered IDE that understands your repo, suggests tasks, writes code, and walks through implementation plans.
-- [GitHub Copilot Voice](https://githubnext.com/projects/copilot-voice/) - use your voice to code (without spelling things out)
-- [More GitHub Next Projects](https://githubnext.com/) - cutting-edge developer tools being prototyped by GitHub.
+- [Google NotebookLM](https://notebooklm.google.com/) -
+  AI-generated summaries, Q&A, and podcasts from your own documents and sources.
+- [Meta Quest Virtual Reality](https://www.meta.com/quest/) -
+  immersive games, learning, productivity, and creativity in mixed reality.
+- [Google Apps Script](https://developers.google.com/apps-script) -
+  automate workflows in Google Drive, Docs, Sheets, Gmail, and more using JavaScript-like scripting.
+- [Microsoft Quantum Simulator](https://quantum.microsoft.com/) -
+  Try quantum computing in your browser-no special hardware required.
+- [Learn with Quantum Katas](https://quantum.microsoft.com/en-us/tools/quantum-katas) -
+  interactive notebook tutorials for quantum logic and computation.
+- [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ?hl=en) -
+  interactive experiment blending machine learning with cello-inspired play.
+- [BirdNET – Identify Bird Sounds with ML](https://birdnet.cornell.edu/) - Upload audio or
+  use field device to identify birds by sound with bioacoustics AI.
+- [GitHub Copilot Workspace](https://githubnext.com/projects/copilot-workspace/) -
+  AI-powered IDE that understands your repo, suggests tasks,
+  writes code, and walks through implementation plans.
+- [GitHub Copilot Voice](https://githubnext.com/projects/copilot-voice/) -
+  use your voice to code (without spelling things out)
+- [More GitHub Next Projects](https://githubnext.com/) -
+  cutting-edge developer tools being prototyped by GitHub.
 
 ## Playing with Virtual Reality
 
@@ -382,20 +431,29 @@ A domain-neutral engine for multidimensional evaluation under explicit policy as
 
 ## Example of Building an LLM AI System to Help with Pro-Analytics-01
 
-- [pro-analytics-ai](https://github.com/denisecase/pro-analytics-ai) — illustrates how LLMs like ChatGPT work
+- [pro-analytics-ai](https://github.com/denisecase/pro-analytics-ai) -
+  illustrates how LLMs like ChatGPT work
   by creating an AI assistant trained on [pro-analytics-01](https://github.com/denisecase/pro-analytics-01).
   It uses APIs (OpenAI/OpenRouter) to process user prompts and generate natural language responses,
   but all retrieval and context selection is performed locally based on the source repository text.
-- The AI assistant runs locally on a 2 TB SSD machine with 12/24 cores, using API calls (via a free OpenRouter API key).
-- The frontend is lightweight, but the backend uses a local retrieval pipeline (ChromaDB + sentence-transformers) that depends on large Python ML libraries, making it too heavy for serverless platforms like AWS Lambda and significant even for AWS EC2.
-- Even when calling external APIs (and not hosting full LLM models), generating embeddings and performing document retrieval requires a significant machine learning environment.
-- When we **build a brain** by indexing our own documents, the storage, memory, and processing requirements expand dramatically.
+- The AI assistant runs locally on a 2 TB SSD machine with 12/24 cores,
+  using API calls (via a free OpenRouter API key).
+- The frontend is lightweight, but the backend uses a local retrieval
+  pipeline (ChromaDB + sentence-transformers) that depends on large Python ML libraries,
+  making it too heavy for serverless platforms
+  like AWS Lambda and significant even for AWS EC2.
+- Even when calling external APIs (and not hosting full LLM models)
+  generating embeddings and performing document retrieval requires a
+  significant machine learning environment.
+- When we **build a brain** by indexing our own documents,
+  the storage, memory, and processing requirements expand dramatically.
 
-Early work:
+Early reference work:
 
 - 2020 May Research Paper introducing GPT-3: ["Language Models are Few-Shot Learners"](https://arxiv.org/abs/2005.14165)
 - 2022 Nov OpenAI ChatGPT "research preview. [Current link](https://openai.com/chatgpt/overview/)
-- 2023 Nov: OpenAI [DevDay](https://openai.com/devday/2024/) - first developer conference (GPT-4 Turbo, and more).
+- 2023 Nov: OpenAI [DevDay](https://openai.com/devday/2024/) - first
+  developer conference (GPT-4 Turbo, and more).
 - Conferences:
   - [NeurIPS](https://neurips.cc/) - Neural Information Processing Systems
   - [ICML](https://icml.cc/) - International Conference on Machine Learning
@@ -423,7 +481,9 @@ Early work:
 - [test page](https://denisecase.github.io/mandart-engine-rust/)
 - [mandart-engine-rust](https://github.com/denisecase/mandart-engine-rust/)
 - Comparing [input](https://github.com/denisecase/mandart-engine-rust/tree/main/input) to [output](https://github.com/denisecase/mandart-engine-rust/tree/main/output)
-- Example [input Frame25](https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png) and [output Frame25](https://github.com/denisecase/mandart-engine-rust/blob/51267a422943c80b571ed16095b2644963d1a143/output/Frame25.png)
+- Example
+  [input Frame25](https://github.com/denisecase/mandart-engine-rust/blob/main/output/Frame25.png) and
+  [output Frame25](https://github.com/denisecase/mandart-engine-rust/blob/51267a422943c80b571ed16095b2644963d1a143/output/Frame25.png)
 
 <div align="center">
   <img src="https://github.com/denisecase/MandArt-Discoveries/blob/main/brucehjohnson/frame_pix/Frame25.png?raw=true" alt="MandArt Frame25 example image" width="200" height="200">
