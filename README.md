@@ -89,6 +89,15 @@ Supporting infrastructure:
 - [pup-core](https://github.com/pup-pack/pup-core) - [PyPI](https://pypi.org/project/pup-core/) - shared repository inspection, metadata, path-safety, and project-structure primitives
 - [templates](https://github.com/pup-pack/templates) - opinionated template files for various project types
 
+## Repository Fleet Management
+
+- [repo-census](https://github.com/denisecase/repo-census) - collects and
+  preserves repository activity and GitHub traffic data across a fleet
+  of repositories to identify maintenance activity and continuing use.
+  A worked example of delegating software-engineering work
+  to an AI coding agent, then moving stable recurring execution
+  to deterministic Python and GitHub Actions.
+
 ## Professional Python Guides
 
 Created standards-based tooling and guides for professional Python analytics workflows,
