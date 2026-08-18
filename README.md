@@ -82,7 +82,7 @@ The tools synchronize shared infrastructure while leaving project-specific conte
 
 - [pup-up](https://github.com/pup-pack/pup-up) - [PyPI](https://pypi.org/project/pup-up/) - synchronizes professional repository infrastructure with maintained project templates
 - [pup-check](https://github.com/pup-pack/pup-check) - [PyPI](https://pypi.org/project/pup-check/) - checks repository structure and configuration for deterministic internal consistency
-- [pup-clean](https://github.com/pup-pack/pup-clean) - [PyPI](https://pypi.org/project/pup-clean/) - prepares instructor repositories for student release by identifying and removing generated evidence and artifacts
+- [pup-clean](https://github.com/pup-pack/pup-clean) - [PyPI](https://pypi.org/project/pup-clean/) - prepares instructor repositories for release by identifying and removing generated evidence and artifacts
 
 Supporting infrastructure:
 
