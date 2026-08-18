@@ -293,7 +293,7 @@ for source data processing and public redacted tree sites for family history acc
   - Android / Settings / Network & Internet / Private DNS: Set Private DNS provider hostname to <dns.quad9.net> OR add Mullvad VPN and set to Automatic.
   - Starlink App / Settings / Router tab / Custom DNS: Toggle on, enter Primary: 9.9.9.9 and Secondary: 149.112.112.112 (allow 10 min to apply)
   - Windows / Settings / Network & internet / WiFi / Choose the network name / DNS server assignment: click Edit / Toggle on IPV4 / Preferred DNS: 9.9.9.9 DNS over HTTPS: On (automatic template) /
-  Alternate DNS: 149.112.112.112 DNS over HTTPS: On (automatic template) / click Save.
+    Alternate DNS: 149.112.112.112 DNS over HTTPS: On (automatic template) / click Save.
   - Verify: <https://on.quad9.net>
 - [Proton Mail Plus](https://proton.me/mail) - email provider, $48/yr
 - [Proton Pass](https://proton.me/pass) - password storage (if using Proton Mail)
@@ -552,3 +552,29 @@ A SwiftUI app for creating custom art with the Mandelbrot set.
 ## Local Life
 
 ![bear](images/bear.png)
+
+## GitHub Repo Links and Resources
+
+- [lkif-core](https://github.com/RinkeHoekstra/lkif-core) -The LKIF Core Ontology of Basic Legal Concepts
+- [data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
+- [Git-quick-reference-for-beginners](https://github.com/jojo1317/Git-quick-reference-for-beginners)
+- [Mojo 🔥](https://github.com/modular/modular)
+- [oregon-trail](https://github.com/clintmoyer/oregon-trail)
+
+## Other/Dormant
+
+- awesome-for-beginners
+- kafka-app
+- big-data-dev-about-me
+- big-data
+- big-data-developer-1
+- cp-client-hunt
+- modules
+- ZooGameApp
+- ZooGroup10
+- personal-website
+- skill-bearcat-buddy
+- sphero-edu-getting-started
+- ape-1
+- op-aml-csis44670
+- cisagov-development-guide
