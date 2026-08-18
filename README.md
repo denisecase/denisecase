@@ -100,7 +100,7 @@ using uv, ruff, Zensical, GitHub repositories, and modern project conventions.
 Pro-analytics-02 audio guides (watch videos, chat with a specially-trained bot, and more):
 
 - [Google NotebookLM: Set Up Machine](https://notebooklm.google.com/notebook/cb972adf-b31e-455a-804e-76ba39783dc4)
-- [Google NotebookLM: Apply Example Project](https://notebooklm.google.com/notebook/2f486eda-5ea5-4a05-9311-b6373859b82f)
+- [Google NotebookLM: Apply Example Project](https://notebook.google.com/notebook/c2de21ca-e973-4a44-9de6-be7ac501eb5d)
 
 Python packages and project file templates:
 
