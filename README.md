@@ -10,6 +10,8 @@ I like taking systems that are opaque, implicit, or fragmented
 and making them inspectable, structured, and decision-capable.
 [RR](https://denisecase.github.io/reading-room/)
 
+I sometimes work from my [baby animal ♪ sanctuary](https://denisecase.github.io/bachill/).
+
 ## Structural Explainability
 
 - [structural-explainability](https://github.com/structural-explainability) - designing information structures
