@@ -154,7 +154,6 @@ structured data processing, notebooks, SQL, applied analytics, and regression.
 - [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
 - [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
 - [datafun-06-applied](https://github.com/denisecase/datafun-06-applied) - applied analytics project
-- [datafun-07-regression](https://github.com/denisecase/datafun-07-regression) - linear regression and prediction
 
 ## Natural Language Processing and LLM/GPT Exploration
 
