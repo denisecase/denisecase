@@ -114,11 +114,12 @@ individual repositories, including structure, configuration, and policy.
 ## Professional Python Guides
 
 Created standards-based tooling and guides for professional Python analytics workflows,
-using uv, ruff, Zensical, GitHub repositories, and modern project conventions.
+using uv, ruff, ty, Zensical, GitHub repositories, and modern project conventions.
 
 - [applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
 - [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
-
+- [⭐EXPLAINER: professional projects](https://denisecase.github.io/professional-python-project-explainer/) - click to learn about each file in a pro Python project
+  
 Pro-analytics-02 audio guides (watch videos, chat with a specially-trained bot, and more):
 
 - [Google NotebookLM: Set Up Machine](https://notebooklm.google.com/notebook/cb972adf-b31e-455a-804e-76ba39783dc4)
@@ -139,6 +140,21 @@ will show sections in the VS Code **Outline** view.
 
 - [Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=DeniseCase.comment-section-outline)
 - [View Source code](https://github.com/denisecase/section-comment-outline)
+
+## Data Analytics Fundamentals
+
+Designed and maintained a seven-module curriculum for professional Python fundamentals in data analytics.
+The curriculum progresses from project setup and Python foundations through automation,
+structured data processing, notebooks, SQL, applied analytics, and regression.
+
+- [IntroToPython](https://github.com/denisecase/IntroToPython) - professional project setup for the [textbook examples](https://github.com/pdeitel/IntroToPython)
+- [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - professional Python foundations
+- [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - automation with repetition, ranges, list comprehensions, delays
+- [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - read, process, write text and structured data
+- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
+- [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
+- [datafun-06-applied](https://github.com/denisecase/datafun-06-applied) - applied analytics project
+- [datafun-07-regression](https://github.com/denisecase/datafun-07-regression) - linear regression and prediction
 
 ## Natural Language Processing and LLM/GPT Exploration
 
@@ -183,21 +199,6 @@ Developed a syllabus-generation workflow that builds syllabi from structured TOM
 reusable template, supporting consistency, maintainability, and efficient updates.
 
 - [Syllabus Generator](https://github.com/denisecase/syllabus-generator) - build from TOML and a template
-
-## Data Analytics Fundamentals
-
-Designed and maintained a seven-module curriculum for professional Python fundamentals in data analytics.
-The curriculum progresses from project setup and Python foundations through automation,
-structured data processing, notebooks, SQL, applied analytics, and regression.
-
-- [IntroToPython](https://github.com/denisecase/IntroToPython) - professional project setup for the [textbook examples](https://github.com/pdeitel/IntroToPython)
-- [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - professional Python foundations
-- [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - automation with repetition, ranges, list comprehensions, delays
-- [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - read, process, write text and structured data
-- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
-- [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
-- [datafun-06-applied](https://github.com/denisecase/datafun-06-applied) - applied analytics project
-- [datafun-07-regression](https://github.com/denisecase/datafun-07-regression) - linear regression and prediction
 
 ## Streaming Data
 
