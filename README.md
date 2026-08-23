@@ -151,9 +151,9 @@ structured data processing, notebooks, SQL, applied analytics, and regression.
 - [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - professional Python foundations
 - [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - automation with repetition, ranges, list comprehensions, delays
 - [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - read, process, write text and structured data
-- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
+- [datafun-04-eda](https://github.com/denisecase/datafun-04-eda) - explore/present EDA insights using Python and Markdown in notebooks
 - [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
-- [datafun-06-applied](https://github.com/denisecase/datafun-06-applied) - applied analytics project
+- [datafun-06-ml](https://github.com/denisecase/datafun-06-ml) - explore ML and predictive analytics
 
 ## Natural Language Processing and LLM/GPT Exploration
 
