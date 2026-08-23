@@ -116,9 +116,9 @@ individual repositories, including structure, configuration, and policy.
 Created standards-based tooling and guides for professional Python analytics workflows,
 using uv, ruff, ty, Zensical, GitHub repositories, and modern project conventions.
 
-- [applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - repos, file systems, terminals, and navigation basics
-- [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional analytics using `uv` and Python
-- [⭐EXPLAINER: professional projects](https://denisecase.github.io/professional-python-project-explainer/) - click to learn about each file in a pro Python project
+- [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - basics
+- [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional Python
+- [⭐EXPLAINER: professional projects](https://denisecase.github.io/professional-python-project-explainer/) - click to learn about each file you may see in a professional Python project
   
 Pro-analytics-02 audio guides (watch videos, chat with a specially-trained bot, and more):
 
