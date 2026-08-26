@@ -155,6 +155,11 @@ structured data processing, notebooks, SQL, applied analytics, and regression.
 - [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
 - [datafun-06-ml](https://github.com/denisecase/datafun-06-ml) - explore ML and predictive analytics
 
+## Databases for Analytics
+
+- [databases-for-analytics](https://github.com/denisecase/databases-for-analytics)
+  [databases-for-analytics-app](https://github.com/denisecase/databases-for-analytics-app)
+
 ## Natural Language Processing and LLM/GPT Exploration
 
 Developed hands-on examples showing how GPT-style language models repeatedly predict the next token
@@ -344,10 +349,6 @@ for source data processing and public redacted tree sites for family history acc
 
 - [templates](https://github.com/denisecase/templates) - favorite CI/CD GitHub actions, config files, MkDocs, etc.
 - [chrome_new_tab_ext](https://github.com/denisecase/chrome_new_tab_ext)
-
-## Databases for Analytics
-
-- [databases-for-analytics](https://github.com/denisecase/databases-for-analytics)
 
 ## Professional Python for Analytics (Earlier Version 01)
 
