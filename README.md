@@ -158,7 +158,7 @@ structured data processing, notebooks, SQL, applied analytics, and regression.
 ## Databases for Analytics
 
 - [databases-for-analytics](https://github.com/denisecase/databases-for-analytics)
-  [databases-for-analytics-app](https://github.com/denisecase/databases-for-analytics-app)
+- [databases-for-analytics-app](https://github.com/denisecase/databases-for-analytics-app)
 
 ## Natural Language Processing and LLM/GPT Exploration
 
