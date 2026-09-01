@@ -11,6 +11,7 @@ and making them inspectable, structured, and decision-capable.
 [RR](https://denisecase.github.io/reading-room/)
 
 I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.github.io/bachill/) - click in lower right to start ♪
+or from the [peaceful puppy ♪ paradise](https://denisecase.github.io/peaceful-puppy-paradise/) - click in lower right to start ♪.
 
 ## Structural Explainability
 
