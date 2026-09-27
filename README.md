@@ -11,6 +11,8 @@ and making them inspectable, structured, and decision-capable.
 [RR](https://denisecase.github.io/reading-room/)
 
 I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.github.io/bachill/) - click in lower right to start ♪
+or play with [ArcDoodle](https://denisecase.github.io/ArcDoodle/),
+imagined by our inventor engineer dad and implemented by ChatGPT.
 
 ## Structural Explainability
 
@@ -119,7 +121,7 @@ using uv, ruff, ty, Zensical, GitHub repositories, and modern project convention
 - [⭐applied-computing-foundations](https://denisecase.github.io/applied-computing-foundations/) - basics
 - [⭐GUIDE: pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) - guide to professional Python
 - [⭐EXPLAINER: professional projects](https://denisecase.github.io/professional-python-project-explainer/) - click to learn about each file you may see in a professional Python project
-  
+
 Pro-analytics-02 audio guides (watch videos, chat with a specially-trained bot, and more):
 
 - [Google NotebookLM: Set Up Machine](https://notebooklm.google.com/notebook/cb972adf-b31e-455a-804e-76ba39783dc4)
