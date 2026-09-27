@@ -8,10 +8,8 @@ how a community weighs competing options in high-stakes decisions.
 
 I like taking systems that are opaque, implicit, or fragmented
 and making them inspectable, structured, and decision-capable.
-[RR](https://denisecase.github.io/reading-room/)
 
-I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.github.io/bachill/) - click in lower right to start ♪
-or play with [ArcDoodle](https://denisecase.github.io/ArcDoodle/),
+I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.github.io/bachill/) - click in lower right to start ♪ or from the [peaceful puppy ♪ paradise](https://denisecase.github.io/peaceful-puppy-paradise/) - click in lower right to start ♪ or play with [ArcDoodle](https://denisecase.github.io/ArcDoodle/),
 imagined by our inventor engineer dad and implemented by ChatGPT.
 
 ## Structural Explainability
@@ -153,9 +151,14 @@ structured data processing, notebooks, SQL, applied analytics, and regression.
 - [datafun-01-foundations](https://github.com/denisecase/datafun-01-foundations) - professional Python foundations
 - [datafun-02-automation](https://github.com/denisecase/datafun-02-automation) - automation with repetition, ranges, list comprehensions, delays
 - [datafun-03-analytics](https://github.com/denisecase/datafun-03-analytics) - read, process, write text and structured data
-- [datafun-04-notebooks](https://github.com/denisecase/datafun-04-notebooks) - explore/present insights using Python and Markdown in a Jupyter notebook
+- [datafun-04-eda](https://github.com/denisecase/datafun-04-eda) - explore/present EDA insights using Python and Markdown in notebooks
 - [datafun-05-sql](https://github.com/denisecase/datafun-05-sql) - Python and SQL
-- [datafun-06-applied](https://github.com/denisecase/datafun-06-applied) - applied analytics project
+- [datafun-06-ml](https://github.com/denisecase/datafun-06-ml) - explore ML and predictive analytics
+
+## Databases for Analytics
+
+- [databases-for-analytics](https://github.com/denisecase/databases-for-analytics)
+- [databases-for-analytics-app](https://github.com/denisecase/databases-for-analytics-app)
 
 ## Natural Language Processing and LLM/GPT Exploration
 
@@ -346,10 +349,6 @@ for source data processing and public redacted tree sites for family history acc
 
 - [templates](https://github.com/denisecase/templates) - favorite CI/CD GitHub actions, config files, MkDocs, etc.
 - [chrome_new_tab_ext](https://github.com/denisecase/chrome_new_tab_ext)
-
-## Databases for Analytics
-
-- [databases-for-analytics](https://github.com/denisecase/databases-for-analytics)
 
 ## Professional Python for Analytics (Earlier Version 01)
 
