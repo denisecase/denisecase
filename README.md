@@ -9,7 +9,7 @@ how a community weighs competing options in high-stakes decisions.
 I like taking systems that are opaque, implicit, or fragmented
 and making them inspectable, structured, and decision-capable.
 
-I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.github.io/bachill/) - click in lower right to start ♪ or from the [peaceful puppy ♪ paradise](https://denisecase.github.io/peaceful-puppy-paradise/) - click in lower right to start ♪ or play with [ArcDoodle](https://denisecase.github.io/ArcDoodle/),
+I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.github.io/bachill/) - click in lower right to start ♪ or from my granddaughter's [peaceful puppy ♪ paradise](https://denisecase.github.io/peaceful-puppy-paradise/) - click in lower right to start ♪ or play with [ArcDoodle](https://denisecase.github.io/ArcDoodle/),
 imagined by our inventor engineer dad and implemented by ChatGPT.
 
 ## Structural Explainability
