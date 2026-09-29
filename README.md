@@ -30,6 +30,27 @@ imagined by our inventor engineer dad and implemented by ChatGPT.
 | [paper-200-identity-regimes](https://github.com/structural-explainability/paper-200-identity-regimes)                     | Referential regimes  | Referential-regime structure required by neutral substrates, deriving six coarse families and nine refined profiles        |
 | [paper-210-operational-identity](https://github.com/structural-explainability/paper-210-operational-identity)             | Operational identity | Finite audit comparing declared identity regimes with operational identity partitions induced by implementation mechanisms |
 | [se-verification-operational-identity](https://github.com/structural-explainability/se-verification-operational-identity) | Operational identity | Reference-implementation check for finite mathematical core of SE-210, Operational Identity                                |
+| [se-pilot-identity-preservation-supply-chain-software](https://github.com/structural-explainability/se-pilot-identity-preservation-supply-chain-software) | SBOM identity preservation | Source-grounded PURL preservation across SPDX and CycloneDX transformations |
+| [se-verification-vulnerability-matching](https://github.com/structural-explainability/se-verification-vulnerability-matching) | SBOM/VEX vulnerability matching | Exploratory evaluation of operational identity and applicability commitments in security tools |
+
+## Structural Assurability
+
+Structural Assurability is a claim-relative approach to understanding
+what an evaluator can establish from the evidence available under
+specified conditions.
+
+The research examines evidentiary capability, structural differences,
+observational indistinguishability, and the limits of claim resolution.
+Its formal results provide explicit proof obligations without treating
+additional evidence or structural capabilities as automatic guarantees
+of claim resolution.
+
+In progress:
+
+- [Lean Formal Theory](https://github.com/structural-explainability/se-theory-structural-assurability)
+- [Theory Documentation](https://structural-explainability.github.io/se-theory-structural-assurability/)
+- [Paper 320: Structural Assurability](https://github.com/structural-explainability/paper-320-structural-assurability)
+- [Structural Assurability Pilot](https://github.com/structural-explainability/se-pilot-structural-assurability)
 
 ## Connected Analytics
 
