@@ -17,8 +17,8 @@ These two took a result proven for complex numbers and generalized it.
 Consider the timestamps.
 
 - [OpenAI Math Repo](https://github.com/openai/math)
+- [Extending the matrix multiplication result over arbitrary fields](https://github.com/selanavot/matrix-multiplication-all-fields)
 - [ω(F) ≤ 9/4 over every field, in Lean](https://github.com/jzuiddam/omega-nine-quarters-all-fields)
-- [Extending initial matrix multiplication result over arbitrary fields](https://github.com/selanavot/matrix-multiplication-all-fields)
 
 ## Structural Explainability
 
