@@ -13,7 +13,8 @@ I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.g
 imagined by our inventor engineer dad and implemented by ChatGPT.
 
 Fascinating. The new **intellectual velocity** is stunning. 
-These two took a result proven for complex numbers and generalized it.
+These two took a recently published result proven for complex numbers. 
+They generalized that result, formally verified it, and published their results.
 Consider the timestamps.
 
 - [OpenAI Math Repo](https://github.com/openai/math)
