@@ -12,6 +12,11 @@ and making them inspectable, structured, and decision-capable.
 I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.github.io/bachill/) - click in lower right to start ♪ or from my granddaughter's [peaceful puppy ♪ paradise](https://denisecase.github.io/peaceful-puppy-paradise/) - click in lower right to start ♪ or play with [ArcDoodle](https://denisecase.github.io/ArcDoodle/),
 imagined by our inventor engineer dad and implemented by ChatGPT.
 
+Fascinating. The new **intellectual velocity** is stunning.
+
+- [OpenAI Math Repo](https://github.com/openai/math)
+- [Extending initial matrix multiplication result over arbitrary fields](https://github.com/selanavot/matrix-multiplication-all-fields)
+
 ## Structural Explainability
 
 - [structural-explainability](https://github.com/structural-explainability) - designing information structures
