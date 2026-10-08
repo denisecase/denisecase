@@ -13,13 +13,13 @@ I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.g
 imagined by our inventor engineer dad and implemented by ChatGPT.
 
 Fascinating. The new **intellectual velocity** is stunning. 
-These two took a recently published result proven for complex numbers. 
+These two took a recently published OpenAI published result. 
 They generalized that result, formally verified it, and published their results.
 Consider the timestamps.
 
-- [OpenAI Math Repo](https://github.com/openai/math)
-- [Extending the matrix multiplication result over arbitrary fields](https://github.com/selanavot/matrix-multiplication-all-fields)
-- [ω(F) ≤ 9/4 over every field, in Lean](https://github.com/jzuiddam/omega-nine-quarters-all-fields)
+- [OpenAI Math — Problem 107: Matrix Multiplication Exponent](https://github.com/openai/math) - Original October 2, 2026 result, proving the upper bound ω(ℂ) ≤ 9/4 for square matrix multiplication over the complex numbers.
+- [Extending the Matrix Multiplication Result over Arbitrary Fields](https://github.com/selanavot/matrix-multiplication-all-fields) - Independent extension of OpenAI's Problem 107 proof, establishing ω(F) ≤ 9/4 for every field F, including finite fields and fields of positive characteristic, with a Lean formalization.
+- [ω(F) ≤ 9/4 over Every Field, in Lean](https://github.com/jzuiddam/omega-nine-quarters-all-fields) - Separate Lean formalization generalizing OpenAI's Problem 107 bound to every field, using a different proof approach.
 
 ## Structural Explainability
 
