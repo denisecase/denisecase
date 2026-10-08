@@ -13,13 +13,18 @@ I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.g
 imagined by our inventor engineer dad and implemented by ChatGPT.
 
 Fascinating. The new **intellectual velocity** is stunning. 
-These two took a recently published OpenAI result. 
-They generalized that result, formally verified it, and published their results within hours.
+On October 6, OpenAI publicly released [hundreds of mathematical results](https://github.com/openai/math). 
+Within about a day, two independent efforts had 
+extended one of those results (Problem 107) from complex numbers to every field, 
+with formally verified proofs in Lean.
 Consider the timestamps.
 
-- [OpenAI Math — Problem 107: Matrix Multiplication Exponent](https://github.com/openai/math) - Original October 2, 2026 result, proving the upper bound ω(ℂ) ≤ 9/4 for square matrix multiplication over the complex numbers.
-- [Extending the Matrix Multiplication Result over Arbitrary Fields](https://github.com/selanavot/matrix-multiplication-all-fields) - Independent extension of OpenAI's Problem 107 proof, establishing ω(F) ≤ 9/4 for every field F, including finite fields and fields of positive characteristic, with a Lean formalization.
-- [ω(F) ≤ 9/4 over Every Field, in Lean](https://github.com/jzuiddam/omega-nine-quarters-all-fields) - Separate Lean formalization generalizing OpenAI's Problem 107 bound to every field, using a different proof approach.
+- [OpenAI Math Problem 107](https://github.com/openai/math/blob/main/lean/docs/107.md) - Released October 6, 2026.
+  Established the matrix multiplication exponent bound ω(ℂ) ≤ 9/4 over complex numbers.
+- [Extending the Matrix Multiplication Result over Arbitrary Fields](https://github.com/selanavot/matrix-multiplication-all-fields) -
+  Generalized the result to every field using AI agents, with a Lean-verified proof documented October 6.
+- [ω(F) ≤ 9/4 over Every Field, in Lean](https://github.com/jzuiddam/omega-nine-quarters-all-fields) -
+  Independently generalized the result using a different approach, with Lean verification documented October 7.
 
 ## Structural Explainability
 
