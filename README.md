@@ -13,8 +13,8 @@ I sometimes work from my [baby animal ♪ stress sanctuary](https://denisecase.g
 imagined by our inventor engineer dad and implemented by ChatGPT.
 
 Fascinating. The new **intellectual velocity** is stunning. 
-These two took a recently published OpenAI published result. 
-They generalized that result, formally verified it, and published their results.
+These two took a recently published OpenAI result. 
+They generalized that result, formally verified it, and published their results within hours.
 Consider the timestamps.
 
 - [OpenAI Math — Problem 107: Matrix Multiplication Exponent](https://github.com/openai/math) - Original October 2, 2026 result, proving the upper bound ω(ℂ) ≤ 9/4 for square matrix multiplication over the complex numbers.
